@@ -1,0 +1,150 @@
+{
+    "active.com": {
+        "pixel_ids": [
+            "564473900596655",
+            "121454388201351"
+        ],
+        "state_type": "FBP"
+    },
+    "nationalreview.com": {
+        "pixel_ids": [
+            "1626507807583041"
+        ],
+        "state_type": "FBP"
+    },
+    "investors.com": {
+        "pixel_ids": [
+            "383362201825950"
+        ],
+        "state_type": "FBP"
+    },
+    "mgmresorts.com": {
+        "pixel_ids": [
+            "481866798660369"
+        ],
+        "state_type": "FBP"
+    },
+    "economist.com": {
+        "pixel_ids": [
+            "570990896342688"
+        ],
+        "state_type": "FBP"
+    },
+    "picsart.com": {
+        "pixel_ids": [
+            "777087696470462",
+            "379191769688795"
+        ],
+        "state_type": "GTM"
+    },
+    "takealot.com": {
+        "pixel_ids": [
+            "476953422438202"
+        ],
+        "state_type": "FBP"
+    },
+    "cosme.net": {
+        "pixel_ids": [
+            "1649969958376343",
+            "980695703223851",
+            "492333551426037",
+            "274783640348720",
+            "547611796458004",
+            "458902632537138"
+        ],
+        "state_type": "FBP"
+    },
+    "safeway.com": {
+        "pixel_ids": [
+            "932885930520326"
+        ],
+        "state_type": "FBP"
+    },
+    "magazineluiza.com.br": {
+        "pixel_ids": [
+            "916183922872657"
+        ],
+        "state_type": "FBP"
+    },
+    "news.com.au": {
+        "pixel_ids": [
+            "285633425101545"
+        ],
+        "state_type": "FBP"
+    },
+    "ariba.com": {
+        "pixel_ids": [
+            "7456251769",
+            "477733216582324",
+            "620255624811889"
+        ],
+        "state_type": "FBP"
+    },
+    "livescience.com": {
+        "pixel_ids": [
+            "160283406678006"
+        ],
+        "state_type": "FBP"
+    },
+    "bb.com.br": {
+        "pixel_ids": [
+            "463733521052382"
+        ],
+        "state_type": "FBP"
+    },
+    "nine.com.au": {
+        "pixel_ids": [
+            "144664492878171"
+        ],
+        "state_type": "FBP"
+    },
+    "sap.com": {
+        "pixel_ids": [
+            "7456251769",
+            "477733216582324",
+            "620255624811889",
+            "620581288586950",
+            "1085401035224548"
+        ],
+        "state_type": "FBP"
+    },
+    "cellphones.com.vn": {
+        "pixel_ids": [
+            "493068327514709"
+        ],
+        "state_type": "FBP"
+    },
+    "ionos.com": {
+        "pixel_ids": [
+            "471778163975215"
+        ],
+        "state_type": "FBP"
+    },
+    "kariyer.net": {
+        "pixel_ids": [
+            "654236278381983"
+        ],
+        "state_type": "FBP"
+    },
+    "buzzfeed.com": {
+        "pixel_ids": [
+            "260954170738952"
+        ],
+        "state_type": "FBP"
+    },
+    "auth0.com": {
+        "pixel_ids": [
+            "417778941754366",
+            "292592621735462",
+            "1703904396493835",
+            "538524104666236"
+        ],
+        "state_type": "FBP"
+    },
+    "vox.com": {
+        "pixel_ids": [
+            "594981607301768"
+        ],
+        "state_type": "FBP"
+    }
+}

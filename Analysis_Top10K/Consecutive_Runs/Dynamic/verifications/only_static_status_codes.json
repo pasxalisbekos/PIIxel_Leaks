@@ -1,0 +1,6671 @@
+{
+  "www.atlassian.net": [
+    302,
+    200
+  ],
+  "atlassian.net": [
+    301,
+    200,
+    302
+  ],
+  "www.icicibank.com": [
+    200
+  ],
+  "icicibank.com": [
+    301,
+    200
+  ],
+  "www.nypost.com": [
+    301,
+    200,
+    302,
+    303,
+    307,
+    204,
+    400,
+    304
+  ],
+  "nypost.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    400,
+    204,
+    304
+  ],
+  "www.opensea.io": [
+    301,
+    200,
+    403
+  ],
+  "opensea.io": [
+    200,
+    403
+  ],
+  "www.denverpost.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400
+  ],
+  "denverpost.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400
+  ],
+  "www.bethesda.net": [
+    301,
+    302,
+    200
+  ],
+  "bethesda.net": [
+    302,
+    200
+  ],
+  "l-tike.com": [
+    200,
+    302
+  ],
+  "www.goldenfrog.com": [
+    200,
+    304
+  ],
+  "goldenfrog.com": [
+    200,
+    304
+  ],
+  "www.webflow.io": [
+    301
+  ],
+  "webflow.io": [
+    200,
+    403
+  ],
+  "www.klarna.com": [
+    307,
+    200
+  ],
+  "klarna.com": [
+    301,
+    307,
+    200
+  ],
+  "www.jetbrains.com": [
+    200,
+    304
+  ],
+  "jetbrains.com": [
+    308,
+    200,
+    304
+  ],
+  "www.nd.edu": [
+    200
+  ],
+  "nd.edu": [
+    301,
+    200
+  ],
+  "www.buffer.com": [
+    301,
+    200
+  ],
+  "buffer.com": [
+    200
+  ],
+  "www.arkoselabs.com": [
+    200
+  ],
+  "arkoselabs.com": [
+    301,
+    200
+  ],
+  "algolianet.com": [
+    200
+  ],
+  "www.zalando.nl": [
+    200
+  ],
+  "zalando.nl": [
+    302,
+    200
+  ],
+  "www.xataka.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    400,
+    204
+  ],
+  "xataka.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400
+  ],
+  "www.airasia.com": [
+    302,
+    200
+  ],
+  "airasia.com": [
+    301,
+    307,
+    302,
+    200
+  ],
+  "czbooks.net": [
+    200,
+    403
+  ],
+  "www.21vek.by": [
+    200
+  ],
+  "21vek.by": [
+    301,
+    200
+  ],
+  "www.realme.com": [
+    301,
+    200
+  ],
+  "realme.com": [
+    301,
+    200
+  ],
+  "www.churnzero.net": [
+    301,
+    200
+  ],
+  "churnzero.net": [
+    301,
+    200
+  ],
+  "www.zalando.de": [
+    302,
+    200
+  ],
+  "zalando.de": [
+    302,
+    200
+  ],
+  "www.telegraaf.nl": [
+    200
+  ],
+  "telegraaf.nl": [
+    301,
+    200
+  ],
+  "www.eredmenyek.com": [
+    200,
+    304
+  ],
+  "eredmenyek.com": [
+    301,
+    200,
+    304
+  ],
+  "www.lnk.to": [
+    301,
+    200
+  ],
+  "lnk.to": [
+    301,
+    200
+  ],
+  "www.teachable.com": [
+    301,
+    200,
+    304
+  ],
+  "teachable.com": [
+    200,
+    304
+  ],
+  "www.bitget.com": [
+    200,
+    304
+  ],
+  "bitget.com": [
+    301,
+    200,
+    304
+  ],
+  "www.betway.co.mz": [
+    200
+  ],
+  "betway.co.mz": [
+    301,
+    200
+  ],
+  "www.natalie.mu": [
+    301,
+    200,
+    302,
+    303,
+    307,
+    400,
+    204
+  ],
+  "natalie.mu": [
+    200,
+    302,
+    301,
+    303,
+    204,
+    307,
+    400
+  ],
+  "www.nhathuoclongchau.com.vn": [
+    301,
+    200
+  ],
+  "nhathuoclongchau.com.vn": [
+    200
+  ],
+  "www.realclearpolitics.com": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204,
+    400,
+    403
+  ],
+  "realclearpolitics.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    403
+  ],
+  "www.emag.ro": [
+    200
+  ],
+  "emag.ro": [
+    301,
+    200
+  ],
+  "www.avira.com": [
+    200
+  ],
+  "avira.com": [
+    301,
+    200
+  ],
+  "www.archives.gov": [
+    200,
+    304
+  ],
+  "archives.gov": [
+    301,
+    200,
+    304
+  ],
+  "www.2dehands.be": [
+    200
+  ],
+  "2dehands.be": [
+    301,
+    200
+  ],
+  "www.hola.org": [
+    301,
+    200
+  ],
+  "hola.org": [
+    200
+  ],
+  "edmunds.com": [
+    301
+  ],
+  "www.ucsc.edu": [
+    200
+  ],
+  "ucsc.edu": [
+    301,
+    200
+  ],
+  "www.swagbucks.com": [
+    200
+  ],
+  "swagbucks.com": [
+    301,
+    200
+  ],
+  "www.goethe.de": [
+    301,
+    200,
+    302
+  ],
+  "goethe.de": [
+    301,
+    200,
+    302
+  ],
+  "www.millipiyangoonline.com": [
+    200
+  ],
+  "millipiyangoonline.com": [
+    302,
+    200
+  ],
+  "www.starbucks.com": [
+    200
+  ],
+  "starbucks.com": [
+    301,
+    200
+  ],
+  "www.sportskeeda.com": [
+    200,
+    304
+  ],
+  "sportskeeda.com": [
+    301,
+    200,
+    304
+  ],
+  "www.progressive.com": [
+    200
+  ],
+  "progressive.com": [
+    301,
+    200
+  ],
+  "www.bluehost.com": [
+    403,
+    200
+  ],
+  "bluehost.com": [
+    403,
+    200
+  ],
+  "www.libertatea.ro": [
+    200,
+    304
+  ],
+  "libertatea.ro": [
+    301,
+    200,
+    304
+  ],
+  "www.temp-mail.org": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    400,
+    403
+  ],
+  "temp-mail.org": [
+    200,
+    302,
+    307,
+    301,
+    204,
+    303,
+    400,
+    403
+  ],
+  "www.softonic.com": [
+    302,
+    200,
+    304
+  ],
+  "softonic.com": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "www.idealo.de": [
+    200
+  ],
+  "idealo.de": [
+    301,
+    200
+  ],
+  "www.meraki.com": [
+    301,
+    200
+  ],
+  "meraki.com": [
+    301,
+    200
+  ],
+  "www.my-personaltrainer.it": [
+    200
+  ],
+  "my-personaltrainer.it": [
+    301,
+    200
+  ],
+  "karte.io": [
+    200,
+    304
+  ],
+  "www.onet.pl": [
+    200,
+    304
+  ],
+  "onet.pl": [
+    301,
+    200,
+    304
+  ],
+  "www.flipsnack.com": [
+    200
+  ],
+  "flipsnack.com": [
+    301,
+    200
+  ],
+  "www.illumin.com": [
+    301,
+    200,
+    304
+  ],
+  "illumin.com": [
+    200,
+    304
+  ],
+  "www.hatena.ne.jp": [
+    200,
+    302,
+    307,
+    303,
+    204
+  ],
+  "hatena.ne.jp": [
+    302,
+    307,
+    200,
+    303,
+    304
+  ],
+  "www.decathlon.es": [
+    301,
+    200
+  ],
+  "decathlon.es": [
+    301,
+    200
+  ],
+  "www.slack.com": [
+    302,
+    200,
+    304
+  ],
+  "slack.com": [
+    200,
+    302,
+    304
+  ],
+  "www.checkpoint.com": [
+    200,
+    202
+  ],
+  "checkpoint.com": [
+    202,
+    301,
+    200
+  ],
+  "loigiaihay.com": [
+    200,
+    302,
+    304
+  ],
+  "www.ex.co": [
+    301,
+    200
+  ],
+  "ex.co": [
+    200
+  ],
+  "www.travelocity.com": [
+    429,
+    200
+  ],
+  "travelocity.com": [
+    301,
+    429,
+    200
+  ],
+  "www.bankrate.com": [
+    200,
+    304
+  ],
+  "bankrate.com": [
+    301,
+    200,
+    304
+  ],
+  "www.coxautoinc.com": [
+    200
+  ],
+  "coxautoinc.com": [
+    301,
+    200
+  ],
+  "www.bp.com": [
+    200
+  ],
+  "bp.com": [
+    301,
+    200
+  ],
+  "www.everydayhealth.com": [
+    200,
+    302,
+    301
+  ],
+  "everydayhealth.com": [
+    301,
+    200,
+    302
+  ],
+  "www.immobiliare.it": [
+    200,
+    302
+  ],
+  "immobiliare.it": [
+    301,
+    200,
+    302
+  ],
+  "www.insales.ru": [
+    200,
+    304
+  ],
+  "insales.ru": [
+    301,
+    200,
+    304
+  ],
+  "www.safety.google": [
+    404
+  ],
+  "safety.google": [
+    200,
+    304
+  ],
+  "www.blackberry.com": [
+    301,
+    200,
+    304
+  ],
+  "blackberry.com": [
+    301,
+    200,
+    304
+  ],
+  "www.evernote.com": [
+    302,
+    200,
+    304
+  ],
+  "evernote.com": [
+    200,
+    304
+  ],
+  "www.cinemagia.ro": [
+    200,
+    302,
+    301,
+    307,
+    204
+  ],
+  "cinemagia.ro": [
+    301,
+    200,
+    302,
+    303,
+    204,
+    307,
+    400
+  ],
+  "www.lne.es": [
+    200
+  ],
+  "lne.es": [
+    301,
+    200
+  ],
+  "www.bms.com": [
+    200,
+    304
+  ],
+  "bms.com": [
+    301,
+    200,
+    304
+  ],
+  "www.letras.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400
+  ],
+  "letras.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400
+  ],
+  "www.avg.com": [
+    302,
+    200
+  ],
+  "avg.com": [
+    301,
+    307,
+    302,
+    200
+  ],
+  "www.expressvpn.com": [
+    200
+  ],
+  "expressvpn.com": [
+    301,
+    200
+  ],
+  "www.ixl.com": [
+    200
+  ],
+  "ixl.com": [
+    301,
+    200
+  ],
+  "www.is.fi": [
+    200,
+    302,
+    303,
+    204
+  ],
+  "is.fi": [
+    301,
+    200,
+    302,
+    303,
+    204
+  ],
+  "www.now.gg": [
+    301,
+    200,
+    304
+  ],
+  "now.gg": [
+    200,
+    304
+  ],
+  "www.udemy.com": [
+    200,
+    403
+  ],
+  "udemy.com": [
+    301,
+    200,
+    403
+  ],
+  "www.fliphtml5.com": [
+    307,
+    200
+  ],
+  "fliphtml5.com": [
+    200
+  ],
+  "www.renee.pl": [
+    200
+  ],
+  "renee.pl": [
+    301,
+    200
+  ],
+  "www.livemint.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    400,
+    204
+  ],
+  "livemint.com": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    400
+  ],
+  "www.swiggy.com": [
+    200
+  ],
+  "swiggy.com": [
+    301,
+    200
+  ],
+  "www.rockstargames.com": [
+    200
+  ],
+  "rockstargames.com": [
+    301,
+    200
+  ],
+  "www.mundodeportivo.com": [
+    200,
+    302,
+    307,
+    400,
+    301,
+    204
+  ],
+  "mundodeportivo.com": [
+    301,
+    200,
+    302,
+    307,
+    400,
+    204,
+    502
+  ],
+  "www.vu.nl": [
+    302,
+    200
+  ],
+  "vu.nl": [
+    302,
+    200
+  ],
+  "www.bestsecret.com": [
+    302,
+    200
+  ],
+  "bestsecret.com": [
+    302,
+    200
+  ],
+  "kampyle.com": [
+    302,
+    200
+  ],
+  "www.aliyun.com": [
+    302,
+    200,
+    304
+  ],
+  "aliyun.com": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "www.fanpage.it": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204
+  ],
+  "fanpage.it": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204
+  ],
+  "www.feverup.com": [
+    301,
+    200
+  ],
+  "feverup.com": [
+    301,
+    200
+  ],
+  "www.whatfix.com": [
+    301,
+    200
+  ],
+  "whatfix.com": [
+    200
+  ],
+  "www.litres.ru": [
+    200,
+    304
+  ],
+  "litres.ru": [
+    301,
+    200,
+    304
+  ],
+  "www.unity.com": [
+    302,
+    200
+  ],
+  "unity.com": [
+    200,
+    302
+  ],
+  "www.bustle.com": [
+    200
+  ],
+  "bustle.com": [
+    301,
+    200
+  ],
+  "www.ntt.com": [
+    301,
+    200
+  ],
+  "ntt.com": [
+    301,
+    200
+  ],
+  "www.gotostage.com": [
+    200,
+    304
+  ],
+  "gotostage.com": [
+    301,
+    200,
+    304
+  ],
+  "www.subito.it": [
+    200
+  ],
+  "subito.it": [
+    301,
+    200
+  ],
+  "www.trimble.com": [
+    301,
+    200,
+    304
+  ],
+  "trimble.com": [
+    301,
+    200,
+    304
+  ],
+  "www.ucr.edu": [
+    200
+  ],
+  "ucr.edu": [
+    302,
+    200
+  ],
+  "www.eagleeyenetworks.com": [
+    200,
+    304
+  ],
+  "eagleeyenetworks.com": [
+    301,
+    200
+  ],
+  "www.nature.com": [
+    303,
+    302,
+    301,
+    200,
+    304
+  ],
+  "nature.com": [
+    301,
+    303,
+    302,
+    200,
+    304
+  ],
+  "www.nintendo.com": [
+    301,
+    200,
+    403
+  ],
+  "nintendo.com": [
+    301,
+    200,
+    403
+  ],
+  "www.betnacional.com": [
+    301,
+    200
+  ],
+  "betnacional.com": [
+    301,
+    200
+  ],
+  "www.xrea.com": [
+    200
+  ],
+  "xrea.com": [
+    301,
+    200
+  ],
+  "www.desjardins.com": [
+    200
+  ],
+  "desjardins.com": [
+    302,
+    200
+  ],
+  "shonenjumpplus.com": [
+    200,
+    302
+  ],
+  "www.mheducation.com": [
+    200
+  ],
+  "mheducation.com": [
+    301,
+    200
+  ],
+  "www.infobip.com": [
+    200,
+    304
+  ],
+  "infobip.com": [
+    301,
+    200,
+    304
+  ],
+  "www.pdffiller.com": [
+    200
+  ],
+  "pdffiller.com": [
+    301,
+    200
+  ],
+  "www.profesia.sk": [
+    200
+  ],
+  "profesia.sk": [
+    301,
+    200
+  ],
+  "www.ask.com": [
+    200
+  ],
+  "ask.com": [
+    301,
+    200
+  ],
+  "www.blocket.se": [
+    200
+  ],
+  "blocket.se": [
+    301,
+    200
+  ],
+  "www.sport1.de": [
+    200,
+    302,
+    301,
+    307,
+    204,
+    303,
+    400
+  ],
+  "sport1.de": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    400,
+    304
+  ],
+  "www.independent.co.uk": [
+    307,
+    200,
+    302,
+    301,
+    303,
+    204,
+    400
+  ],
+  "independent.co.uk": [
+    301,
+    307,
+    200,
+    302,
+    303,
+    400,
+    204
+  ],
+  "abema.tv": [
+    200
+  ],
+  "www.efortuna.pl": [
+    200
+  ],
+  "efortuna.pl": [
+    301,
+    200
+  ],
+  "www.motor1.com": [
+    200,
+    302,
+    307,
+    303,
+    301,
+    204,
+    304,
+    400
+  ],
+  "motor1.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    304,
+    400
+  ],
+  "www.deloitte.com": [
+    302,
+    200,
+    304
+  ],
+  "deloitte.com": [
+    302,
+    200,
+    304,
+    303
+  ],
+  "www.justgiving.com": [
+    200,
+    304
+  ],
+  "justgiving.com": [
+    200,
+    304
+  ],
+  "www.adswizz.com": [
+    200,
+    304
+  ],
+  "adswizz.com": [
+    301,
+    307,
+    200,
+    304
+  ],
+  "www.turkcell.com.tr": [
+    200
+  ],
+  "turkcell.com.tr": [
+    301,
+    200
+  ],
+  "www.zalando.be": [
+    200
+  ],
+  "zalando.be": [
+    302,
+    200
+  ],
+  "www.stripe.com": [
+    301,
+    200
+  ],
+  "stripe.com": [
+    200
+  ],
+  "www.giallozafferano.it": [
+    200
+  ],
+  "giallozafferano.it": [
+    301,
+    200
+  ],
+  "www.curbed.com": [
+    200,
+    302,
+    307,
+    304
+  ],
+  "curbed.com": [
+    301,
+    200,
+    302,
+    307,
+    304
+  ],
+  "www.hybrid.ai": [
+    522
+  ],
+  "hybrid.ai": [
+    200
+  ],
+  "www.univision.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400,
+    304
+  ],
+  "univision.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.digitaltrends.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    304
+  ],
+  "digitaltrends.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.apptentive.com": [
+    301,
+    200,
+    304
+  ],
+  "apptentive.com": [
+    301,
+    200,
+    304
+  ],
+  "www.mashable.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "mashable.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.voicemod.net": [
+    200,
+    304
+  ],
+  "voicemod.net": [
+    301,
+    200,
+    304
+  ],
+  "www.plo.vn": [
+    301,
+    200,
+    403,
+    304
+  ],
+  "plo.vn": [
+    200,
+    403,
+    304,
+    302,
+    400,
+    307,
+    404,
+    301,
+    303,
+    204
+  ],
+  "www.entergy.com": [
+    200
+  ],
+  "entergy.com": [
+    301,
+    200
+  ],
+  "www.bluestacks.com": [
+    200
+  ],
+  "bluestacks.com": [
+    301,
+    200
+  ],
+  "flingo.tv": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "www.jimdo.com": [
+    200,
+    302,
+    304
+  ],
+  "jimdo.com": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "www.leadsquared.com": [
+    302,
+    200
+  ],
+  "leadsquared.com": [
+    301,
+    302,
+    200
+  ],
+  "www.gala.de": [
+    200
+  ],
+  "gala.de": [
+    301,
+    200
+  ],
+  "www.rice.edu": [
+    200,
+    304
+  ],
+  "rice.edu": [
+    302,
+    200,
+    304
+  ],
+  "www.sport.ro": [
+    200
+  ],
+  "sport.ro": [
+    301,
+    200
+  ],
+  "mailchi.mp": [
+    301,
+    200,
+    302,
+    303
+  ],
+  "www.dome9.com": [
+    302,
+    301,
+    200,
+    202
+  ],
+  "dome9.com": [
+    302,
+    202,
+    301,
+    200
+  ],
+  "www.kobo.com": [
+    200,
+    304
+  ],
+  "kobo.com": [
+    302,
+    200,
+    304
+  ],
+  "www.uber.com": [
+    200
+  ],
+  "uber.com": [
+    301,
+    200
+  ],
+  "www.musescore.com": [
+    301,
+    200
+  ],
+  "musescore.com": [
+    200
+  ],
+  "www.enikos.gr": [
+    200,
+    302,
+    303,
+    307,
+    304,
+    400,
+    204
+  ],
+  "enikos.gr": [
+    301,
+    200,
+    302,
+    303,
+    307,
+    304,
+    204,
+    400
+  ],
+  "www.njuskalo.hr": [
+    200
+  ],
+  "njuskalo.hr": [
+    301,
+    200
+  ],
+  "www.superbet.ro": [
+    301,
+    200
+  ],
+  "superbet.ro": [
+    200
+  ],
+  "www.chumbacasino.com": [
+    200,
+    302,
+    304
+  ],
+  "chumbacasino.com": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "www.incognia.com": [
+    200,
+    304
+  ],
+  "incognia.com": [
+    301,
+    200,
+    304
+  ],
+  "www.ucl.ac.uk": [
+    200,
+    304
+  ],
+  "ucl.ac.uk": [
+    301,
+    200,
+    304
+  ],
+  "www.oikotie.fi": [
+    301,
+    200
+  ],
+  "oikotie.fi": [
+    301,
+    200
+  ],
+  "www.homes.com": [
+    200
+  ],
+  "www.manchestereveningnews.co.uk": [
+    200
+  ],
+  "manchestereveningnews.co.uk": [
+    301,
+    200
+  ],
+  "www.linternaute.com": [
+    200,
+    302,
+    301,
+    307,
+    400,
+    303,
+    204,
+    304
+  ],
+  "linternaute.com": [
+    301,
+    307,
+    200,
+    302,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.politifact.com": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "politifact.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.thomann.de": [
+    301,
+    200
+  ],
+  "thomann.de": [
+    301,
+    200
+  ],
+  "www.wb.com": [
+    301,
+    307,
+    200,
+    304
+  ],
+  "wb.com": [
+    301,
+    307,
+    200,
+    304
+  ],
+  "www.hasznaltauto.hu": [
+    200,
+    403
+  ],
+  "hasznaltauto.hu": [
+    301,
+    200,
+    403
+  ],
+  "www.smugmug.com": [
+    200
+  ],
+  "smugmug.com": [
+    301,
+    200
+  ],
+  "www.livechatenterprise.com": [
+    200,
+    304
+  ],
+  "livechatenterprise.com": [
+    301,
+    200
+  ],
+  "www.trovaprezzi.it": [
+    200
+  ],
+  "trovaprezzi.it": [
+    301,
+    200
+  ],
+  "www.reference.com": [
+    200
+  ],
+  "reference.com": [
+    301,
+    200
+  ],
+  "www.miami.edu": [
+    301,
+    307,
+    200
+  ],
+  "miami.edu": [
+    301,
+    307,
+    200
+  ],
+  "www.kpmg.com": [
+    301,
+    200,
+    304
+  ],
+  "kpmg.com": [
+    301,
+    200,
+    304
+  ],
+  "www.uva.nl": [
+    200
+  ],
+  "uva.nl": [
+    301,
+    200
+  ],
+  "www.su89-cdn.net": [
+    200
+  ],
+  "su89-cdn.net": [
+    200
+  ],
+  "www.juntadeandalucia.es": [
+    200
+  ],
+  "juntadeandalucia.es": [
+    307,
+    200
+  ],
+  "www.babycenter.com": [
+    200,
+    302,
+    307,
+    301,
+    303
+  ],
+  "babycenter.com": [
+    301,
+    200,
+    302,
+    307,
+    303
+  ],
+  "hoidap247.com": [
+    200,
+    302,
+    301,
+    307,
+    204,
+    303,
+    400,
+    304
+  ],
+  "www.happymail.co.jp": [
+    200
+  ],
+  "happymail.co.jp": [
+    200,
+    304
+  ],
+  "www.tudogostoso.com.br": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204,
+    400,
+    403
+  ],
+  "tudogostoso.com.br": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    403
+  ],
+  "www.vivox.com": [
+    302,
+    200
+  ],
+  "vivox.com": [
+    302,
+    200
+  ],
+  "www.ipsos.com": [
+    301,
+    200,
+    304
+  ],
+  "ipsos.com": [
+    301,
+    200,
+    304,
+    429
+  ],
+  "www.amazon.jobs": [
+    302,
+    200
+  ],
+  "amazon.jobs": [
+    302,
+    200
+  ],
+  "www.elisa.fi": [
+    301,
+    200
+  ],
+  "elisa.fi": [
+    200
+  ],
+  "www.thalia.de": [
+    200,
+    403
+  ],
+  "thalia.de": [
+    301,
+    200,
+    403
+  ],
+  "www.chicagotribune.com": [
+    200,
+    302,
+    301,
+    307,
+    303
+  ],
+  "chicagotribune.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204
+  ],
+  "www.athemes.com": [
+    301,
+    200
+  ],
+  "athemes.com": [
+    200
+  ],
+  "www.gazetawroclawska.pl": [
+    301,
+    200,
+    403
+  ],
+  "gazetawroclawska.pl": [
+    200,
+    403
+  ],
+  "www.megogo.net": [
+    301,
+    303,
+    200
+  ],
+  "megogo.net": [
+    303,
+    200
+  ],
+  "www.axios.com": [
+    200,
+    204
+  ],
+  "axios.com": [
+    301,
+    200,
+    204
+  ],
+  "www.skynet.be": [
+    302,
+    301,
+    200
+  ],
+  "skynet.be": [
+    301,
+    307,
+    302,
+    200
+  ],
+  "www.news24.com": [
+    200,
+    301,
+    302,
+    307,
+    303,
+    204,
+    400
+  ],
+  "news24.com": [
+    302,
+    200,
+    301,
+    304,
+    307,
+    303,
+    400,
+    503,
+    204
+  ],
+  "www.sportradarserving.com": [
+    301,
+    200
+  ],
+  "sportradarserving.com": [
+    301,
+    200
+  ],
+  "www.sondakika.com": [
+    200,
+    302,
+    301,
+    400,
+    303,
+    307
+  ],
+  "sondakika.com": [
+    301,
+    200
+  ],
+  "www.baltimoresun.com": [
+    200,
+    301,
+    302,
+    307,
+    303,
+    204
+  ],
+  "baltimoresun.com": [
+    301,
+    200,
+    302,
+    307,
+    303
+  ],
+  "www.yamaha.com": [
+    302,
+    200
+  ],
+  "yamaha.com": [
+    301,
+    307,
+    302,
+    200
+  ],
+  "www.personio.de": [
+    200,
+    304
+  ],
+  "personio.de": [
+    308,
+    200,
+    304
+  ],
+  "www.mass.gov": [
+    200,
+    304
+  ],
+  "mass.gov": [
+    301,
+    200
+  ],
+  "www.axis.com": [
+    307,
+    200,
+    304
+  ],
+  "axis.com": [
+    301,
+    307,
+    200,
+    304
+  ],
+  "www.dana.id": [
+    200
+  ],
+  "dana.id": [
+    301,
+    200
+  ],
+  "stripe.network": [
+    302,
+    200
+  ],
+  "www.n1info.rs": [
+    301,
+    200,
+    204
+  ],
+  "n1info.rs": [
+    200,
+    204
+  ],
+  "www.sojern.com": [
+    200,
+    304
+  ],
+  "sojern.com": [
+    301,
+    200,
+    304
+  ],
+  "www.dnb.com": [
+    301,
+    200,
+    304,
+    302
+  ],
+  "dnb.com": [
+    301,
+    200,
+    302
+  ],
+  "www.krikya.io": [
+    200,
+    403
+  ],
+  "krikya.io": [
+    200,
+    403
+  ],
+  "www.orange.com": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "orange.com": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "www.amnesty.org": [
+    302,
+    200
+  ],
+  "amnesty.org": [
+    301,
+    302,
+    200
+  ],
+  "www.ifortuna.sk": [
+    200
+  ],
+  "ifortuna.sk": [
+    301,
+    200
+  ],
+  "www.dhs.gov": [
+    200,
+    301
+  ],
+  "dhs.gov": [
+    301,
+    200,
+    304
+  ],
+  "www.haberturk.com": [
+    200,
+    304
+  ],
+  "haberturk.com": [
+    301,
+    200
+  ],
+  "www.cricbuzz.com": [
+    200
+  ],
+  "cricbuzz.com": [
+    302,
+    200
+  ],
+  "www.zara.com": [
+    200
+  ],
+  "zara.com": [
+    301,
+    200
+  ],
+  "www.blesk.cz": [
+    200,
+    302,
+    303
+  ],
+  "blesk.cz": [
+    301,
+    200,
+    302,
+    303
+  ],
+  "www.mediarithmics.com": [
+    301,
+    200,
+    304
+  ],
+  "mediarithmics.com": [
+    301,
+    200,
+    304
+  ],
+  "www.tesla.com": [
+    200,
+    304
+  ],
+  "tesla.com": [
+    301,
+    200,
+    304
+  ],
+  "www.ufl.edu": [
+    200,
+    304
+  ],
+  "ufl.edu": [
+    301,
+    200,
+    304
+  ],
+  "www.thetrainline.com": [
+    302,
+    200
+  ],
+  "thetrainline.com": [
+    301,
+    302,
+    200
+  ],
+  "www.szerencsejatek.hu": [
+    200
+  ],
+  "szerencsejatek.hu": [
+    301,
+    200
+  ],
+  "www.jeuxvideo.com": [
+    200
+  ],
+  "jeuxvideo.com": [
+    301,
+    200
+  ],
+  "www.swarovski.com": [
+    302,
+    200
+  ],
+  "swarovski.com": [
+    301,
+    302,
+    200
+  ],
+  "www.nowiny24.pl": [
+    301,
+    200,
+    403
+  ],
+  "nowiny24.pl": [
+    200,
+    403
+  ],
+  "www.wsj.net": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204
+  ],
+  "wsj.net": [
+    301,
+    200,
+    302,
+    307,
+    303
+  ],
+  "www.malwarebytes.com": [
+    200
+  ],
+  "malwarebytes.com": [
+    301,
+    200
+  ],
+  "www.decathlon.it": [
+    200
+  ],
+  "decathlon.it": [
+    301,
+    200
+  ],
+  "intercomcdn.com": [
+    301,
+    200,
+    302
+  ],
+  "bendingspoonsapps.com": [
+    301,
+    200,
+    304
+  ],
+  "www.homecenter.com.co": [
+    301,
+    200,
+    302
+  ],
+  "homecenter.com.co": [
+    301,
+    200,
+    302
+  ],
+  "www.idnes.cz": [
+    200
+  ],
+  "idnes.cz": [
+    302,
+    200
+  ],
+  "www.veikkaus.fi": [
+    200,
+    304
+  ],
+  "veikkaus.fi": [
+    301,
+    200,
+    304
+  ],
+  "www.skyscrapercity.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    400,
+    204
+  ],
+  "skyscrapercity.com": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    400,
+    304
+  ],
+  "www.moneycontrol.com": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204,
+    400
+  ],
+  "moneycontrol.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400
+  ],
+  "www.elperiodico.com": [
+    301,
+    200,
+    304
+  ],
+  "elperiodico.com": [
+    301,
+    200
+  ],
+  "www.monster.com": [
+    200,
+    302,
+    301,
+    204
+  ],
+  "monster.com": [
+    301,
+    200,
+    302,
+    204
+  ],
+  "www.walesonline.co.uk": [
+    200,
+    302,
+    307,
+    301,
+    400,
+    303,
+    204
+  ],
+  "walesonline.co.uk": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400
+  ],
+  "www.flashscore.pl": [
+    200,
+    304
+  ],
+  "flashscore.pl": [
+    301,
+    200,
+    304
+  ],
+  "www.nesine.com": [
+    200
+  ],
+  "nesine.com": [
+    301,
+    200
+  ],
+  "www.zupee.com": [
+    200
+  ],
+  "zupee.com": [
+    301,
+    200
+  ],
+  "www.kbz0pwvxmv.com": [
+    200
+  ],
+  "kbz0pwvxmv.com": [
+    200
+  ],
+  "www.empik.com": [
+    200
+  ],
+  "empik.com": [
+    301,
+    200
+  ],
+  "www.uhc.com": [
+    200,
+    304
+  ],
+  "uhc.com": [
+    301,
+    200,
+    304
+  ],
+  "www.vudu.com": [
+    301,
+    200
+  ],
+  "vudu.com": [
+    301,
+    200
+  ],
+  "www.betweendigital.com": [
+    302,
+    200
+  ],
+  "betweendigital.com": [
+    302,
+    200
+  ],
+  "www.abc.net.au": [
+    200,
+    304
+  ],
+  "abc.net.au": [
+    301,
+    200
+  ],
+  "www.yallakora.com": [
+    200,
+    302,
+    303,
+    307,
+    204,
+    400
+  ],
+  "yallakora.com": [
+    301,
+    200,
+    302,
+    303,
+    307,
+    204,
+    400
+  ],
+  "www.bain.com": [
+    200
+  ],
+  "bain.com": [
+    301,
+    200
+  ],
+  "www.square.site": [
+    404
+  ],
+  "square.site": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "www.ultradns.com": [
+    302,
+    200,
+    307
+  ],
+  "ultradns.com": [
+    302,
+    200,
+    307
+  ],
+  "www.usabilla.com": [
+    503
+  ],
+  "usabilla.com": [
+    301,
+    200,
+    302,
+    307
+  ],
+  "www.guard.io": [
+    301,
+    200,
+    302,
+    204,
+    304
+  ],
+  "guard.io": [
+    200,
+    204,
+    302,
+    304
+  ],
+  "www.haberler.com": [
+    200,
+    304
+  ],
+  "haberler.com": [
+    301,
+    200,
+    304
+  ],
+  "550909.com": [
+    200
+  ],
+  "www.issuu.com": [
+    900
+  ],
+  "issuu.com": [
+    200
+  ],
+  "www.fox.com": [
+    200
+  ],
+  "fox.com": [
+    301,
+    200
+  ],
+  "www.buienradar.nl": [
+    200
+  ],
+  "buienradar.nl": [
+    301,
+    200
+  ],
+  "www.voici.fr": [
+    302,
+    200
+  ],
+  "voici.fr": [
+    301,
+    302,
+    200
+  ],
+  "www.messefrankfurt.com": [
+    301,
+    200,
+    302
+  ],
+  "messefrankfurt.com": [
+    301,
+    200,
+    302
+  ],
+  "www.lifehack.org": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    400,
+    204,
+    304
+  ],
+  "lifehack.org": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    400,
+    204,
+    304
+  ],
+  "www.home.pl": [
+    301,
+    200,
+    304
+  ],
+  "home.pl": [
+    200,
+    304
+  ],
+  "www.iltalehti.fi": [
+    200
+  ],
+  "iltalehti.fi": [
+    301,
+    200
+  ],
+  "www.lazada.com.ph": [
+    200
+  ],
+  "lazada.com.ph": [
+    301,
+    200
+  ],
+  "www.mynet.com": [
+    200,
+    302,
+    301,
+    307,
+    204,
+    303,
+    400,
+    429
+  ],
+  "mynet.com": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    400
+  ],
+  "www.wbs.legal": [
+    200,
+    304
+  ],
+  "wbs.legal": [
+    301,
+    200,
+    304
+  ],
+  "www.urbanairship.com": [
+    301,
+    200
+  ],
+  "urbanairship.com": [
+    301,
+    200
+  ],
+  "www.rtbhouse.com": [
+    200,
+    304
+  ],
+  "rtbhouse.com": [
+    301,
+    200,
+    304
+  ],
+  "www.marktplaats.nl": [
+    200,
+    403
+  ],
+  "marktplaats.nl": [
+    403
+  ],
+  "spotim.market": [
+    301,
+    200,
+    302,
+    307,
+    304
+  ],
+  "www.cnnbrasil.com.br": [
+    200
+  ],
+  "cnnbrasil.com.br": [
+    301,
+    200
+  ],
+  "www.zahraa.mr": [
+    403
+  ],
+  "zahraa.mr": [
+    200,
+    302
+  ],
+  "www.mawdoo3.com": [
+    301,
+    200,
+    302
+  ],
+  "mawdoo3.com": [
+    200,
+    302
+  ],
+  "www.cricketwireless.com": [
+    200,
+    302
+  ],
+  "cricketwireless.com": [
+    301,
+    200,
+    302
+  ],
+  "www.zippia.com": [
+    200
+  ],
+  "zippia.com": [
+    301,
+    200
+  ],
+  "www.flashscore.pe": [
+    200,
+    304
+  ],
+  "flashscore.pe": [
+    301,
+    200,
+    304
+  ],
+  "www.ripley.cl": [
+    301,
+    403,
+    200
+  ],
+  "ripley.cl": [
+    301,
+    403,
+    200
+  ],
+  "www.over-blog.com": [
+    200
+  ],
+  "over-blog.com": [
+    301,
+    200
+  ],
+  "www.ledauphine.com": [
+    200
+  ],
+  "ledauphine.com": [
+    301,
+    200
+  ],
+  "www.ciceksepeti.com": [
+    200,
+    403
+  ],
+  "ciceksepeti.com": [
+    301,
+    200,
+    403
+  ],
+  "www.mercedes-benz.com": [
+    301,
+    200
+  ],
+  "mercedes-benz.com": [
+    301,
+    200
+  ],
+  "www.biomedcentral.com": [
+    200
+  ],
+  "biomedcentral.com": [
+    301,
+    200
+  ],
+  "suumo.jp": [
+    200,
+    302,
+    307
+  ],
+  "www.icicidirect.com": [
+    200
+  ],
+  "icicidirect.com": [
+    301,
+    200
+  ],
+  "www.ubc.ca": [
+    200,
+    302
+  ],
+  "ubc.ca": [
+    301,
+    405
+  ],
+  "sparkpostmail.com": [
+    301,
+    308,
+    200,
+    304
+  ],
+  "www.bell-labs.com": [
+    301,
+    200
+  ],
+  "bell-labs.com": [
+    301,
+    200
+  ],
+  "www.manoramaonline.com": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204,
+    400
+  ],
+  "manoramaonline.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400
+  ],
+  "www.bidtheatre.com": [
+    200
+  ],
+  "bidtheatre.com": [
+    301,
+    200
+  ],
+  "www.bolha.com": [
+    200
+  ],
+  "bolha.com": [
+    301,
+    200
+  ],
+  "www.nokia.com": [
+    200
+  ],
+  "nokia.com": [
+    301,
+    200
+  ],
+  "www.capgemini.com": [
+    200
+  ],
+  "capgemini.com": [
+    301,
+    200
+  ],
+  "www.dmm.com": [
+    200
+  ],
+  "dmm.com": [
+    301,
+    200
+  ],
+  "www.bt.com": [
+    200,
+    302
+  ],
+  "bt.com": [
+    301,
+    200,
+    302
+  ],
+  "www.ucf.edu": [
+    200
+  ],
+  "ucf.edu": [
+    301,
+    200
+  ],
+  "www.bgr.com": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    400
+  ],
+  "bgr.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400
+  ],
+  "www.elsevier.com": [
+    200
+  ],
+  "elsevier.com": [
+    301,
+    200
+  ],
+  "www.altervista.org": [
+    302,
+    200
+  ],
+  "altervista.org": [
+    302,
+    200
+  ],
+  "www.litnet.com": [
+    301,
+    200
+  ],
+  "litnet.com": [
+    200
+  ],
+  "www.afternic.com": [
+    200
+  ],
+  "afternic.com": [
+    301,
+    200
+  ],
+  "www.trello.com": [
+    301,
+    200
+  ],
+  "trello.com": [
+    200,
+    302
+  ],
+  "testbook.com": [
+    200
+  ],
+  "www.adroll.com": [
+    200
+  ],
+  "adroll.com": [
+    301,
+    200
+  ],
+  "www.lolesports.com": [
+    301,
+    307,
+    200,
+    302,
+    303,
+    400,
+    304
+  ],
+  "lolesports.com": [
+    307,
+    200,
+    302,
+    303,
+    400,
+    304
+  ],
+  "www.naukri.com": [
+    200,
+    302
+  ],
+  "naukri.com": [
+    301,
+    200,
+    302
+  ],
+  "www.inmobi.com": [
+    200
+  ],
+  "inmobi.com": [
+    301,
+    200
+  ],
+  "www.flashscore.ua": [
+    200,
+    304
+  ],
+  "flashscore.ua": [
+    301,
+    200,
+    304
+  ],
+  "www.theculturetrip.com": [
+    302,
+    200,
+    304,
+    301
+  ],
+  "theculturetrip.com": [
+    200,
+    304,
+    301
+  ],
+  "www.meshok.net": [
+    301,
+    302,
+    200
+  ],
+  "meshok.net": [
+    302,
+    200
+  ],
+  "www.uky.edu": [
+    200,
+    304
+  ],
+  "uky.edu": [
+    301,
+    200,
+    304
+  ],
+  "www.euronews.com": [
+    200,
+    304
+  ],
+  "euronews.com": [
+    301,
+    200,
+    304
+  ],
+  "www.thisisdax.com": [
+    301,
+    200,
+    304
+  ],
+  "thisisdax.com": [
+    301,
+    200,
+    304
+  ],
+  "www.reclameaqui.com.br": [
+    200,
+    302,
+    403,
+    301,
+    307,
+    303,
+    204,
+    400
+  ],
+  "reclameaqui.com.br": [
+    301,
+    200,
+    302,
+    403,
+    307,
+    303,
+    204,
+    400
+  ],
+  "www.halodoc.com": [
+    200
+  ],
+  "halodoc.com": [
+    301,
+    200
+  ],
+  "www.expressbydgoski.pl": [
+    301,
+    200,
+    403
+  ],
+  "expressbydgoski.pl": [
+    200,
+    403
+  ],
+  "www.nhm.ac.uk": [
+    200
+  ],
+  "nhm.ac.uk": [
+    301,
+    200
+  ],
+  "www.solaredge.com": [
+    302,
+    301,
+    200
+  ],
+  "solaredge.com": [
+    302,
+    301,
+    200
+  ],
+  "sndcdn.com": [
+    301,
+    200,
+    302
+  ],
+  "www.cuisineaz.com": [
+    200
+  ],
+  "cuisineaz.com": [
+    301,
+    200
+  ],
+  "www.seattletimes.com": [
+    200,
+    302,
+    301,
+    303,
+    307,
+    204,
+    400,
+    304
+  ],
+  "seattletimes.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.umontreal.ca": [
+    200,
+    304
+  ],
+  "umontreal.ca": [
+    301,
+    200,
+    304
+  ],
+  "www.extra.cz": [
+    200
+  ],
+  "extra.cz": [
+    301,
+    200
+  ],
+  "www.casapariurilor.ro": [
+    200
+  ],
+  "casapariurilor.ro": [
+    301,
+    200
+  ],
+  "www.launchdarkly.com": [
+    301,
+    200,
+    304
+  ],
+  "launchdarkly.com": [
+    200,
+    304
+  ],
+  "www.twitcasting.tv": [
+    302,
+    307,
+    200
+  ],
+  "twitcasting.tv": [
+    200
+  ],
+  "gendai.media": [
+    200,
+    302,
+    304,
+    303,
+    204,
+    301,
+    307,
+    400
+  ],
+  "we.tl": [
+    301,
+    200,
+    302,
+    307
+  ],
+  "wp.me": [
+    302,
+    200
+  ],
+  "www.flashscore.com.tr": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "flashscore.com.tr": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    304
+  ],
+  "www.rightmove.co.uk": [
+    200
+  ],
+  "rightmove.co.uk": [
+    301,
+    200
+  ],
+  "www.dexcom.com": [
+    302,
+    200,
+    304
+  ],
+  "dexcom.com": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "www.aptoide.com": [
+    301,
+    200
+  ],
+  "aptoide.com": [
+    301,
+    200
+  ],
+  "www.gala.fr": [
+    200
+  ],
+  "gala.fr": [
+    301,
+    200
+  ],
+  "www.worldwildlife.org": [
+    200,
+    302,
+    301
+  ],
+  "worldwildlife.org": [
+    301,
+    200,
+    302
+  ],
+  "kuruma-news.jp": [
+    200,
+    302,
+    303,
+    301
+  ],
+  "www.khanacademy.org": [
+    200
+  ],
+  "khanacademy.org": [
+    308,
+    200
+  ],
+  "www.leprogres.fr": [
+    200
+  ],
+  "leprogres.fr": [
+    301,
+    200
+  ],
+  "www.privacy.com.br": [
+    301,
+    302,
+    200
+  ],
+  "privacy.com.br": [
+    302,
+    200
+  ],
+  "www.who.int": [
+    200,
+    304
+  ],
+  "who.int": [
+    301,
+    200,
+    304
+  ],
+  "www.medlineplus.gov": [
+    200,
+    304
+  ],
+  "medlineplus.gov": [
+    200,
+    304
+  ],
+  "www.caixa.gov.br": [
+    302,
+    200
+  ],
+  "caixa.gov.br": [
+    302,
+    200
+  ],
+  "www.capital.fr": [
+    302,
+    200
+  ],
+  "capital.fr": [
+    301,
+    302,
+    200
+  ],
+  "www.deezer.com": [
+    301,
+    200
+  ],
+  "deezer.com": [
+    301,
+    200
+  ],
+  "www.betmgm.com": [
+    302,
+    301,
+    200
+  ],
+  "betmgm.com": [
+    302,
+    301,
+    200
+  ],
+  "www.otomoto.pl": [
+    200
+  ],
+  "otomoto.pl": [
+    301,
+    200
+  ],
+  "www.semana.es": [
+    200,
+    304
+  ],
+  "semana.es": [
+    301,
+    200,
+    304
+  ],
+  "www.unm.edu": [
+    200,
+    304
+  ],
+  "unm.edu": [
+    301,
+    307,
+    200,
+    304
+  ],
+  "www.dior.com": [
+    200,
+    304
+  ],
+  "dior.com": [
+    301,
+    200,
+    304
+  ],
+  "www.warnerbros.com": [
+    200,
+    304
+  ],
+  "warnerbros.com": [
+    301,
+    307,
+    200,
+    304
+  ],
+  "www.depositphotos.com": [
+    301,
+    200
+  ],
+  "depositphotos.com": [
+    200
+  ],
+  "www.lavozdegalicia.es": [
+    200
+  ],
+  "lavozdegalicia.es": [
+    301,
+    307,
+    200
+  ],
+  "www.xiaomi.com": [
+    301,
+    200,
+    302
+  ],
+  "xiaomi.com": [
+    301,
+    200,
+    302
+  ],
+  "www.roku.com": [
+    200
+  ],
+  "roku.com": [
+    301,
+    200
+  ],
+  "www.pagesix.com": [
+    301,
+    200,
+    302,
+    303,
+    204,
+    400,
+    304
+  ],
+  "pagesix.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    400,
+    204,
+    304
+  ],
+  "www.webteb.com": [
+    200,
+    301
+  ],
+  "webteb.com": [
+    301,
+    200
+  ],
+  "www.medonet.pl": [
+    200,
+    304
+  ],
+  "medonet.pl": [
+    301,
+    200,
+    304
+  ],
+  "www.illinois.edu": [
+    200,
+    304
+  ],
+  "illinois.edu": [
+    200,
+    304
+  ],
+  "www.thecut.com": [
+    200,
+    302,
+    307,
+    304
+  ],
+  "thecut.com": [
+    301,
+    200,
+    302,
+    307,
+    304
+  ],
+  "aptrinsic.com": [
+    301,
+    200,
+    302,
+    307
+  ],
+  "www.blogs.com": [
+    403,
+    200
+  ],
+  "blogs.com": [
+    403,
+    200
+  ],
+  "www.agoda.com": [
+    200
+  ],
+  "agoda.com": [
+    301,
+    200
+  ],
+  "www.flashscore.com.ua": [
+    200,
+    304
+  ],
+  "flashscore.com.ua": [
+    301,
+    200,
+    304
+  ],
+  "www.tandfonline.com": [
+    200,
+    403
+  ],
+  "tandfonline.com": [
+    301,
+    200,
+    403
+  ],
+  "www.lefigaro.fr": [
+    200
+  ],
+  "lefigaro.fr": [
+    301,
+    200
+  ],
+  "www.purepeople.com": [
+    200,
+    304
+  ],
+  "purepeople.com": [
+    301,
+    200,
+    304
+  ],
+  "www.crystals.ru": [
+    301,
+    200
+  ],
+  "crystals.ru": [
+    200
+  ],
+  "www.typeform.com": [
+    200,
+    304
+  ],
+  "typeform.com": [
+    301,
+    200,
+    304
+  ],
+  "www.aniview.com": [
+    301,
+    200
+  ],
+  "aniview.com": [
+    200
+  ],
+  "www.action.com": [
+    200
+  ],
+  "action.com": [
+    308,
+    200
+  ],
+  "www.splashtop.com": [
+    200,
+    304
+  ],
+  "splashtop.com": [
+    301,
+    200,
+    304
+  ],
+  "www.blueconic.net": [
+    301,
+    200
+  ],
+  "blueconic.net": [
+    301,
+    200
+  ],
+  "www.dynatrace.com": [
+    200,
+    302,
+    304
+  ],
+  "dynatrace.com": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "www.c6gj-static.net": [
+    200
+  ],
+  "c6gj-static.net": [
+    200
+  ],
+  "www.newsroom.bi": [
+    522
+  ],
+  "newsroom.bi": [
+    301,
+    200,
+    304
+  ],
+  "www.sportradar.com": [
+    301,
+    200
+  ],
+  "sportradar.com": [
+    200
+  ],
+  "www.dhnet.be": [
+    200,
+    304
+  ],
+  "dhnet.be": [
+    301,
+    200,
+    304
+  ],
+  "www.labanquepostale.fr": [
+    200,
+    304
+  ],
+  "labanquepostale.fr": [
+    301,
+    200,
+    304
+  ],
+  "www.boeing.com": [
+    200,
+    304
+  ],
+  "boeing.com": [
+    301,
+    200,
+    304
+  ],
+  "www.splashthat.com": [
+    301,
+    200
+  ],
+  "splashthat.com": [
+    200
+  ],
+  "www.walkme.com": [
+    200
+  ],
+  "walkme.com": [
+    301,
+    200
+  ],
+  "www.zalando.es": [
+    200
+  ],
+  "zalando.es": [
+    302,
+    200
+  ],
+  "www.toyokeizai.net": [
+    301,
+    200,
+    302,
+    303,
+    204,
+    400,
+    307
+  ],
+  "toyokeizai.net": [
+    200,
+    302,
+    301,
+    303,
+    204,
+    400
+  ],
+  "www.trip.com": [
+    302,
+    200
+  ],
+  "trip.com": [
+    301,
+    302,
+    200
+  ],
+  "www.stradivarius.com": [
+    200,
+    304
+  ],
+  "stradivarius.com": [
+    200,
+    301,
+    304
+  ],
+  "www.flashscore.sk": [
+    200,
+    304
+  ],
+  "flashscore.sk": [
+    301,
+    200,
+    304
+  ],
+  "www.stiripesurse.ro": [
+    200
+  ],
+  "stiripesurse.ro": [
+    301,
+    200
+  ],
+  "www.prodigygame.com": [
+    301,
+    200,
+    302,
+    307,
+    304
+  ],
+  "prodigygame.com": [
+    301,
+    200,
+    304,
+    302,
+    307
+  ],
+  "service-now.com": [
+    301,
+    200,
+    302
+  ],
+  "www.casa.it": [
+    200,
+    403
+  ],
+  "casa.it": [
+    301,
+    200,
+    403
+  ],
+  "www.rezultati.com": [
+    200,
+    304
+  ],
+  "rezultati.com": [
+    301,
+    200,
+    304
+  ],
+  "www.hostpoint.ch": [
+    200
+  ],
+  "hostpoint.ch": [
+    301,
+    200
+  ],
+  "www.publi24.ro": [
+    200
+  ],
+  "publi24.ro": [
+    301,
+    200
+  ],
+  "www.mi.com": [
+    301,
+    200,
+    302
+  ],
+  "mi.com": [
+    301,
+    200,
+    302
+  ],
+  "www.warthunder.com": [
+    301,
+    302,
+    200
+  ],
+  "warthunder.com": [
+    302,
+    200
+  ],
+  "www.vulture.com": [
+    200,
+    302,
+    307,
+    304
+  ],
+  "vulture.com": [
+    301,
+    200,
+    302,
+    307,
+    304
+  ],
+  "www.yourtango.com": [
+    200,
+    302,
+    307,
+    301,
+    204,
+    303,
+    400,
+    304
+  ],
+  "yourtango.com": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    400,
+    304
+  ],
+  "www.optimizely.com": [
+    200,
+    304
+  ],
+  "optimizely.com": [
+    301,
+    200,
+    304
+  ],
+  "www.gallup.com": [
+    301,
+    200
+  ],
+  "gallup.com": [
+    301,
+    200
+  ],
+  "www.marmiton.org": [
+    200
+  ],
+  "marmiton.org": [
+    301,
+    200
+  ],
+  "www.gloswielkopolski.pl": [
+    301,
+    200,
+    403
+  ],
+  "gloswielkopolski.pl": [
+    200,
+    403
+  ],
+  "www.tv-asahi.co.jp": [
+    200
+  ],
+  "tv-asahi.co.jp": [
+    301,
+    200
+  ],
+  "www.hotmart.com": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "hotmart.com": [
+    302,
+    200,
+    304
+  ],
+  "www.mdpi.com": [
+    200
+  ],
+  "mdpi.com": [
+    301,
+    200
+  ],
+  "www.pcmag.com": [
+    200,
+    302,
+    307,
+    301,
+    403,
+    303,
+    204,
+    400,
+    304
+  ],
+  "pcmag.com": [
+    301,
+    200,
+    302,
+    307,
+    403,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.dji.com": [
+    200
+  ],
+  "dji.com": [
+    301,
+    200
+  ],
+  "www.kandji.io": [
+    200,
+    304
+  ],
+  "kandji.io": [
+    301,
+    200,
+    304
+  ],
+  "www.20minutos.es": [
+    200,
+    304
+  ],
+  "20minutos.es": [
+    301,
+    200,
+    304
+  ],
+  "www.honor.com": [
+    302,
+    200,
+    307
+  ],
+  "honor.com": [
+    301,
+    302,
+    200,
+    307
+  ],
+  "www.tchibo.de": [
+    200
+  ],
+  "tchibo.de": [
+    301,
+    200
+  ],
+  "www.pomorska.pl": [
+    301,
+    200,
+    403
+  ],
+  "pomorska.pl": [
+    200,
+    403
+  ],
+  "www.softbank.jp": [
+    200
+  ],
+  "softbank.jp": [
+    302,
+    200
+  ],
+  "www.bricklink.com": [
+    302,
+    200
+  ],
+  "bricklink.com": [
+    302,
+    200
+  ],
+  "www.leparisien.fr": [
+    200
+  ],
+  "leparisien.fr": [
+    301,
+    200
+  ],
+  "www.warwick.ac.uk": [
+    301,
+    200
+  ],
+  "warwick.ac.uk": [
+    200
+  ],
+  "www.easyjet.com": [
+    302,
+    200
+  ],
+  "easyjet.com": [
+    301,
+    302,
+    200
+  ],
+  "www.lazada.com": [
+    302,
+    200
+  ],
+  "lazada.com": [
+    302,
+    200
+  ],
+  "piccoma.com": [
+    301,
+    200,
+    304
+  ],
+  "www.apptimize.com": [
+    301,
+    200
+  ],
+  "apptimize.com": [
+    200
+  ],
+  "www.letelegramme.fr": [
+    200,
+    302
+  ],
+  "letelegramme.fr": [
+    301,
+    200
+  ],
+  "www.krone.at": [
+    200
+  ],
+  "krone.at": [
+    301,
+    307,
+    200
+  ],
+  "www.aaa.com": [
+    302,
+    301,
+    200
+  ],
+  "aaa.com": [
+    301,
+    302,
+    200
+  ],
+  "www.kargo.com": [
+    200,
+    304
+  ],
+  "kargo.com": [
+    301,
+    200,
+    304
+  ],
+  "www.travelaudience.com": [
+    301,
+    200,
+    302
+  ],
+  "travelaudience.com": [
+    301,
+    200,
+    302
+  ],
+  "www.ixigo.com": [
+    200
+  ],
+  "ixigo.com": [
+    301,
+    200
+  ],
+  "www.airbnb.com": [
+    200
+  ],
+  "airbnb.com": [
+    301,
+    200
+  ],
+  "www.kto.com": [
+    302,
+    301,
+    200,
+    304
+  ],
+  "kto.com": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "www.ntv.co.jp": [
+    200,
+    304
+  ],
+  "ntv.co.jp": [
+    301,
+    200,
+    304
+  ],
+  "www.cra.cz": [
+    200
+  ],
+  "cra.cz": [
+    301,
+    200
+  ],
+  "www.snl24.com": [
+    200,
+    301,
+    403
+  ],
+  "snl24.com": [
+    301,
+    200,
+    403
+  ],
+  "www.ovhcloud.com": [
+    301,
+    200
+  ],
+  "ovhcloud.com": [
+    301,
+    200
+  ],
+  "www.sandiegouniontribune.com": [
+    200,
+    301,
+    302,
+    307,
+    303
+  ],
+  "sandiegouniontribune.com": [
+    301,
+    200,
+    302,
+    307,
+    303
+  ],
+  "www.15min.lt": [
+    200,
+    302,
+    303,
+    301,
+    204,
+    400,
+    429,
+    304
+  ],
+  "15min.lt": [
+    301,
+    200,
+    302,
+    303,
+    307,
+    204,
+    400,
+    429,
+    304
+  ],
+  "privacymanager.io": [
+    301,
+    307,
+    200
+  ],
+  "www.my.games": [
+    301,
+    200
+  ],
+  "my.games": [
+    200
+  ],
+  "www.aktuality.sk": [
+    200
+  ],
+  "aktuality.sk": [
+    301,
+    200
+  ],
+  "www.businessinsider.com.pl": [
+    301,
+    307,
+    200
+  ],
+  "businessinsider.com.pl": [
+    200,
+    304
+  ],
+  "www.tapad.com": [
+    200,
+    304
+  ],
+  "tapad.com": [
+    200,
+    304
+  ],
+  "www.juegosonce.es": [
+    200
+  ],
+  "juegosonce.es": [
+    301,
+    200
+  ],
+  "www.just-eat.co.uk": [
+    200,
+    304
+  ],
+  "just-eat.co.uk": [
+    301,
+    200,
+    304
+  ],
+  "www.legacy.com": [
+    200,
+    302,
+    307,
+    303,
+    304
+  ],
+  "legacy.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    304
+  ],
+  "www.fakt.pl": [
+    200,
+    304
+  ],
+  "fakt.pl": [
+    301,
+    200
+  ],
+  "www.marvel.com": [
+    200,
+    302,
+    304
+  ],
+  "marvel.com": [
+    302,
+    200,
+    304
+  ],
+  "www.nydailynews.com": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204
+  ],
+  "nydailynews.com": [
+    301,
+    200,
+    302,
+    307,
+    303
+  ],
+  "www.zeit.de": [
+    301,
+    200
+  ],
+  "zeit.de": [
+    301,
+    200
+  ],
+  "www.mlive.com": [
+    200,
+    301,
+    302,
+    303,
+    307
+  ],
+  "mlive.com": [
+    301,
+    200,
+    302,
+    303
+  ],
+  "www.net.hr": [
+    301,
+    200,
+    302,
+    307,
+    204
+  ],
+  "net.hr": [
+    200,
+    302,
+    307,
+    204
+  ],
+  "www.quizlet.com": [
+    301,
+    200,
+    403
+  ],
+  "quizlet.com": [
+    403,
+    200
+  ],
+  "www.allocine.fr": [
+    200,
+    304
+  ],
+  "allocine.fr": [
+    301,
+    200,
+    304
+  ],
+  "www.hihonor.com": [
+    302,
+    301,
+    200,
+    307
+  ],
+  "hihonor.com": [
+    301,
+    302,
+    200,
+    307
+  ],
+  "www.springer.com": [
+    303,
+    200
+  ],
+  "springer.com": [
+    301,
+    303,
+    200
+  ],
+  "www.sfr.fr": [
+    200,
+    304
+  ],
+  "sfr.fr": [
+    301,
+    200,
+    304
+  ],
+  "www.flashscore.pt": [
+    200
+  ],
+  "flashscore.pt": [
+    301,
+    200,
+    304
+  ],
+  "www.blackboard.com": [
+    301,
+    200
+  ],
+  "www.ox.ac.uk": [
+    200
+  ],
+  "ox.ac.uk": [
+    301,
+    200
+  ],
+  "www.ameba.jp": [
+    302,
+    200
+  ],
+  "ameba.jp": [
+    301,
+    302,
+    200
+  ],
+  "www.swissinfo.ch": [
+    301,
+    200
+  ],
+  "swissinfo.ch": [
+    301,
+    200
+  ],
+  "www.sharechat.com": [
+    200
+  ],
+  "sharechat.com": [
+    200
+  ],
+  "www.indiamart.com": [
+    200,
+    304
+  ],
+  "indiamart.com": [
+    301,
+    200,
+    304
+  ],
+  "smooch.io": [
+    200,
+    304,
+    302
+  ],
+  "www.outlookindia.com": [
+    200
+  ],
+  "outlookindia.com": [
+    301,
+    200
+  ],
+  "www.doordash.com": [
+    200,
+    302,
+    403
+  ],
+  "doordash.com": [
+    302,
+    200,
+    403
+  ],
+  "webs.com": [
+    301,
+    200,
+    302,
+    307,
+    304
+  ],
+  "www.lsu.edu": [
+    200
+  ],
+  "lsu.edu": [
+    200
+  ],
+  "www.klook.com": [
+    200,
+    403
+  ],
+  "klook.com": [
+    301,
+    200,
+    403
+  ],
+  "www.primor.eu": [
+    301,
+    200
+  ],
+  "primor.eu": [
+    301,
+    200
+  ],
+  "www.foxit.com": [
+    200
+  ],
+  "foxit.com": [
+    301,
+    200
+  ],
+  "www.sedo.com": [
+    301,
+    302,
+    200
+  ],
+  "sedo.com": [
+    302,
+    200
+  ],
+  "www.utwente.nl": [
+    200
+  ],
+  "utwente.nl": [
+    301,
+    200
+  ],
+  "www.mn.co": [
+    404
+  ],
+  "mn.co": [
+    301,
+    200,
+    304
+  ],
+  "mechacomic.jp": [
+    200,
+    302
+  ],
+  "www.heraldo.es": [
+    200,
+    304
+  ],
+  "heraldo.es": [
+    301,
+    200,
+    304
+  ],
+  "www.koctas.com.tr": [
+    200
+  ],
+  "koctas.com.tr": [
+    301,
+    200
+  ],
+  "www.lesnumeriques.com": [
+    200
+  ],
+  "lesnumeriques.com": [
+    301,
+    200
+  ],
+  "interactgo.com": [
+    302,
+    200
+  ],
+  "www.vfsglobal.com": [
+    301,
+    200,
+    304
+  ],
+  "vfsglobal.com": [
+    301,
+    200,
+    304
+  ],
+  "www.motherjones.com": [
+    200,
+    302,
+    301,
+    307,
+    204,
+    303,
+    400
+  ],
+  "motherjones.com": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    400
+  ],
+  "www.vanderbilt.edu": [
+    200,
+    304
+  ],
+  "vanderbilt.edu": [
+    302,
+    200,
+    304
+  ],
+  "www.binance.info": [
+    302,
+    200
+  ],
+  "binance.info": [
+    302,
+    200
+  ],
+  "www.kleinezeitung.at": [
+    200,
+    301
+  ],
+  "kleinezeitung.at": [
+    301,
+    200
+  ],
+  "www.lepoint.fr": [
+    200
+  ],
+  "lepoint.fr": [
+    301,
+    307,
+    200
+  ],
+  "www.redbus.in": [
+    200
+  ],
+  "redbus.in": [
+    301,
+    200
+  ],
+  "www.sorrisi.com": [
+    200
+  ],
+  "sorrisi.com": [
+    301,
+    200
+  ],
+  "www.sagepub.com": [
+    200
+  ],
+  "sagepub.com": [
+    301,
+    200
+  ],
+  "appier.net": [
+    302,
+    301,
+    200
+  ],
+  "www.optum.com": [
+    301,
+    200,
+    304
+  ],
+  "optum.com": [
+    301,
+    200,
+    304
+  ],
+  "www.menlosecurity.com": [
+    200,
+    304
+  ],
+  "menlosecurity.com": [
+    301,
+    200,
+    304
+  ],
+  "www.telekom.hu": [
+    301,
+    200
+  ],
+  "telekom.hu": [
+    301,
+    200
+  ],
+  "www.serasa.com.br": [
+    200,
+    302,
+    304
+  ],
+  "serasa.com.br": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "www.hermes.com": [
+    302,
+    200,
+    304
+  ],
+  "hermes.com": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "www.akc.org": [
+    200,
+    304
+  ],
+  "akc.org": [
+    301,
+    200,
+    304
+  ],
+  "www.remove.bg": [
+    200
+  ],
+  "remove.bg": [
+    308,
+    200
+  ],
+  "dialoguecorp.com": [
+    301,
+    200
+  ],
+  "www.muni.cz": [
+    200
+  ],
+  "muni.cz": [
+    301,
+    200
+  ],
+  "www.chefkoch.de": [
+    200,
+    304
+  ],
+  "chefkoch.de": [
+    308,
+    200,
+    304
+  ],
+  "bufferapp.com": [
+    301,
+    200
+  ],
+  "www.stern.de": [
+    200
+  ],
+  "stern.de": [
+    301,
+    200
+  ],
+  "www.exponea.com": [
+    301,
+    200
+  ],
+  "exponea.com": [
+    301,
+    200
+  ],
+  "www.canalblog.com": [
+    200
+  ],
+  "canalblog.com": [
+    200
+  ],
+  "www.clickpetroleoegas.com.br": [
+    301,
+    200,
+    304
+  ],
+  "clickpetroleoegas.com.br": [
+    200,
+    304
+  ],
+  "etc.uz": [
+    200
+  ],
+  "www.wsj.com": [
+    200,
+    302,
+    307,
+    301,
+    303
+  ],
+  "wsj.com": [
+    301,
+    200,
+    302,
+    307,
+    303
+  ],
+  "www.mobile.de": [
+    200
+  ],
+  "mobile.de": [
+    301,
+    200
+  ],
+  "www.pandora.com": [
+    200,
+    302
+  ],
+  "pandora.com": [
+    301,
+    200,
+    302
+  ],
+  "www.hitta.se": [
+    200,
+    302,
+    403,
+    204,
+    303,
+    307
+  ],
+  "hitta.se": [
+    301,
+    200,
+    302,
+    403,
+    303,
+    204,
+    307
+  ],
+  "www.bostonherald.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204
+  ],
+  "bostonherald.com": [
+    301,
+    200,
+    302,
+    307,
+    303
+  ],
+  "www.razerzone.com": [
+    301,
+    307,
+    200
+  ],
+  "www.shopee.com.br": [
+    302,
+    200
+  ],
+  "shopee.com.br": [
+    200
+  ],
+  "www.st-andrews.ac.uk": [
+    200
+  ],
+  "st-andrews.ac.uk": [
+    302,
+    200
+  ],
+  "www.pluto.tv": [
+    301,
+    200,
+    302
+  ],
+  "pluto.tv": [
+    200,
+    302
+  ],
+  "www.flashscore.co.id": [
+    200,
+    304
+  ],
+  "flashscore.co.id": [
+    301,
+    200,
+    304
+  ],
+  "www.turkishairlines.com": [
+    200
+  ],
+  "turkishairlines.com": [
+    301,
+    200
+  ],
+  "www.barchart.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400,
+    304
+  ],
+  "barchart.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.pracuj.pl": [
+    200
+  ],
+  "pracuj.pl": [
+    301,
+    200
+  ],
+  "www.klaviyo.com": [
+    200,
+    302,
+    307,
+    304
+  ],
+  "klaviyo.com": [
+    301,
+    200,
+    302,
+    307
+  ],
+  "www.spreaker.com": [
+    200
+  ],
+  "spreaker.com": [
+    301,
+    200
+  ],
+  "www.gist.build": [
+    301,
+    308,
+    200,
+    302,
+    304
+  ],
+  "gist.build": [
+    301,
+    308,
+    200,
+    302,
+    304
+  ],
+  "www.webengage.com": [
+    200,
+    304
+  ],
+  "webengage.com": [
+    200
+  ],
+  "www.ubi.com": [
+    301,
+    200,
+    302
+  ],
+  "ubi.com": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "www.nytimes.com": [
+    200,
+    302,
+    307,
+    303,
+    304
+  ],
+  "nytimes.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    304
+  ],
+  "www.celtra.com": [
+    301,
+    200,
+    304
+  ],
+  "celtra.com": [
+    200,
+    304
+  ],
+  "www.suara.com": [
+    200,
+    301,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "suara.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    400,
+    204,
+    304
+  ],
+  "www.midilibre.fr": [
+    200
+  ],
+  "midilibre.fr": [
+    301,
+    200
+  ],
+  "flic.kr": [
+    200
+  ],
+  "www.cnn.com": [
+    200,
+    302,
+    303,
+    204,
+    301,
+    307,
+    400,
+    304
+  ],
+  "cnn.com": [
+    301,
+    200,
+    302,
+    303,
+    204,
+    307,
+    400,
+    304
+  ],
+  "www.lagged.com": [
+    301,
+    307,
+    200,
+    304
+  ],
+  "lagged.com": [
+    200,
+    304
+  ],
+  "fout.jp": [
+    302,
+    200
+  ],
+  "www.lrytas.lt": [
+    200,
+    302,
+    307,
+    204,
+    303,
+    301,
+    429,
+    304
+  ],
+  "lrytas.lt": [
+    301,
+    200,
+    302,
+    303,
+    204,
+    307,
+    429,
+    304
+  ],
+  "www.nj.com": [
+    200,
+    301,
+    302,
+    307,
+    303
+  ],
+  "nj.com": [
+    301,
+    200,
+    302,
+    303,
+    307,
+    204,
+    400
+  ],
+  "www.ably.net": [
+    301,
+    200
+  ],
+  "ably.net": [
+    301,
+    200
+  ],
+  "one.one": [
+    301,
+    302,
+    200
+  ],
+  "www.enuygun.com": [
+    200,
+    403
+  ],
+  "enuygun.com": [
+    301,
+    200,
+    403
+  ],
+  "www.anota.ai": [
+    301,
+    200
+  ],
+  "anota.ai": [
+    302,
+    301,
+    200
+  ],
+  "www.rug.nl": [
+    200,
+    304
+  ],
+  "rug.nl": [
+    301,
+    200,
+    304
+  ],
+  "www.plex.tv": [
+    200
+  ],
+  "plex.tv": [
+    302,
+    200
+  ],
+  "www.sport.es": [
+    301,
+    200,
+    304
+  ],
+  "sport.es": [
+    301,
+    200,
+    304
+  ],
+  "auone.jp": [
+    301,
+    200,
+    302,
+    303,
+    304
+  ],
+  "www.usu.edu": [
+    200
+  ],
+  "usu.edu": [
+    301,
+    200
+  ],
+  "www.cashstar.com": [
+    301,
+    200,
+    302,
+    307,
+    304
+  ],
+  "cashstar.com": [
+    301,
+    200,
+    302,
+    307,
+    304
+  ],
+  "www.yanmaga.jp": [
+    200,
+    304
+  ],
+  "yanmaga.jp": [
+    200,
+    304
+  ],
+  "c212.net": [
+    200,
+    301,
+    302,
+    307,
+    304
+  ],
+  "macaro-ni.jp": [
+    200,
+    304
+  ],
+  "www.just-eat.com": [
+    301,
+    200,
+    304
+  ],
+  "just-eat.com": [
+    301,
+    200,
+    304
+  ],
+  "www.sun-sentinel.com": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204
+  ],
+  "sun-sentinel.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204
+  ],
+  "www.born2be.pl": [
+    301,
+    200
+  ],
+  "born2be.pl": [
+    200
+  ],
+  "www.f-secure.com": [
+    302,
+    200
+  ],
+  "f-secure.com": [
+    301,
+    302,
+    200
+  ],
+  "www.one.com": [
+    302,
+    200
+  ],
+  "one.com": [
+    301,
+    302,
+    200
+  ],
+  "www.abril.com.br": [
+    302,
+    200
+  ],
+  "abril.com.br": [
+    302,
+    200
+  ],
+  "www.kleinanzeigen.de": [
+    200
+  ],
+  "kleinanzeigen.de": [
+    301,
+    200
+  ],
+  "www.binance.com": [
+    302,
+    200
+  ],
+  "binance.com": [
+    301,
+    302,
+    200
+  ],
+  "bitrix.info": [
+    301,
+    200,
+    304
+  ],
+  "www.maersk.com": [
+    200
+  ],
+  "maersk.com": [
+    302,
+    200
+  ],
+  "www.samsungknox.com": [
+    302,
+    200,
+    304
+  ],
+  "samsungknox.com": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "www.dmm.co.jp": [
+    302,
+    200
+  ],
+  "dmm.co.jp": [
+    301,
+    302,
+    200
+  ],
+  "www.elephantbet.co.mz": [
+    200
+  ],
+  "elephantbet.co.mz": [
+    302,
+    200
+  ],
+  "www.ivideon.com": [
+    200
+  ],
+  "ivideon.com": [
+    200,
+    302
+  ],
+  "www.alza.cz": [
+    200
+  ],
+  "alza.cz": [
+    301,
+    200
+  ],
+  "www.trenitalia.com": [
+    302,
+    200
+  ],
+  "trenitalia.com": [
+    302,
+    200
+  ],
+  "ow.ly": [
+    301,
+    200,
+    304
+  ],
+  "www.shopeemobile.com": [
+    307,
+    200
+  ],
+  "shopeemobile.com": [
+    307,
+    200
+  ],
+  "www.tuasaude.com": [
+    200,
+    302,
+    307,
+    301,
+    204,
+    303,
+    400
+  ],
+  "tuasaude.com": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    400
+  ],
+  "www.sportybet.com": [
+    302,
+    200,
+    304
+  ],
+  "sportybet.com": [
+    301,
+    307,
+    302,
+    200,
+    304
+  ],
+  "www.fubo.tv": [
+    302,
+    200
+  ],
+  "fubo.tv": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "www.letras.mus.br": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400
+  ],
+  "letras.mus.br": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400
+  ],
+  "www.birminghammail.co.uk": [
+    200,
+    302,
+    307,
+    301,
+    204,
+    303,
+    400
+  ],
+  "birminghammail.co.uk": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400
+  ],
+  "www.nto.pl": [
+    301,
+    200,
+    403
+  ],
+  "nto.pl": [
+    200,
+    403
+  ],
+  "novelpia.com": [
+    200,
+    302,
+    307
+  ],
+  "www.mailerlite.com": [
+    200,
+    304
+  ],
+  "mailerlite.com": [
+    301,
+    200,
+    304
+  ],
+  "www.larazon.es": [
+    200
+  ],
+  "larazon.es": [
+    301,
+    200
+  ],
+  "www.getblueshift.com": [
+    301,
+    200
+  ],
+  "getblueshift.com": [
+    301,
+    200
+  ],
+  "www.flashscore.com": [
+    200
+  ],
+  "flashscore.com": [
+    301,
+    200
+  ],
+  "www.wetter.com": [
+    200
+  ],
+  "wetter.com": [
+    301,
+    200
+  ],
+  "www.webempresa.eu": [
+    302,
+    200
+  ],
+  "webempresa.eu": [
+    302,
+    200
+  ],
+  "www.lazada.com.my": [
+    200
+  ],
+  "lazada.com.my": [
+    301,
+    200
+  ],
+  "www.decathlon.fr": [
+    200
+  ],
+  "decathlon.fr": [
+    301,
+    200
+  ],
+  "www.leeds.ac.uk": [
+    200
+  ],
+  "leeds.ac.uk": [
+    302,
+    200
+  ],
+  "www.mercurynews.com": [
+    200,
+    301,
+    302,
+    307,
+    303,
+    204
+  ],
+  "mercurynews.com": [
+    301,
+    200,
+    302,
+    307,
+    303
+  ],
+  "www.webnode.com": [
+    200
+  ],
+  "webnode.com": [
+    301,
+    200
+  ],
+  "www.getsurrey.co.uk": [
+    200,
+    302,
+    307,
+    301,
+    204,
+    303,
+    400
+  ],
+  "getsurrey.co.uk": [
+    301,
+    200,
+    302,
+    307,
+    400,
+    303,
+    204
+  ],
+  "www.cookiebot.com": [
+    200
+  ],
+  "cookiebot.com": [
+    301,
+    200
+  ],
+  "www.flashscore.com.ve": [
+    200,
+    304
+  ],
+  "flashscore.com.ve": [
+    301,
+    200,
+    304
+  ],
+  "www.emarsys.net": [
+    302,
+    200
+  ],
+  "emarsys.net": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "www.unity3d.com": [
+    301,
+    200,
+    302
+  ],
+  "unity3d.com": [
+    301,
+    200,
+    302
+  ],
+  "www.livesport.cz": [
+    200,
+    304
+  ],
+  "livesport.cz": [
+    301,
+    200,
+    304
+  ],
+  "www.zalando.it": [
+    200
+  ],
+  "zalando.it": [
+    302,
+    200
+  ],
+  "www.essentiallysports.com": [
+    200,
+    304
+  ],
+  "essentiallysports.com": [
+    308,
+    200,
+    304
+  ],
+  "www.signalfx.com": [
+    301,
+    200,
+    304
+  ],
+  "www.jumpcloud.com": [
+    301,
+    200,
+    304
+  ],
+  "jumpcloud.com": [
+    200,
+    304
+  ],
+  "www.corel.com": [
+    302,
+    200
+  ],
+  "corel.com": [
+    302,
+    200,
+    304
+  ],
+  "www.free.fr": [
+    302,
+    200,
+    304
+  ],
+  "free.fr": [
+    301,
+    302,
+    200,
+    304
+  ],
+  "www.mbl.is": [
+    301,
+    200,
+    304
+  ],
+  "mbl.is": [
+    301,
+    200
+  ],
+  "www.revistaoeste.com": [
+    200,
+    304
+  ],
+  "revistaoeste.com": [
+    200,
+    304
+  ],
+  "www.kochava.com": [
+    200
+  ],
+  "kochava.com": [
+    301,
+    200
+  ],
+  "www.scotsman.com": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "scotsman.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.espncricinfo.com": [
+    200
+  ],
+  "espncricinfo.com": [
+    301,
+    200
+  ],
+  "www.flashscore.ro": [
+    200,
+    304
+  ],
+  "flashscore.ro": [
+    301,
+    200,
+    304
+  ],
+  "www.foxitsoftware.com": [
+    301,
+    200
+  ],
+  "foxitsoftware.com": [
+    301,
+    200
+  ],
+  "www.shop-apotheke.com": [
+    200
+  ],
+  "shop-apotheke.com": [
+    301,
+    200
+  ],
+  "www.hbs.edu": [
+    200,
+    304
+  ],
+  "hbs.edu": [
+    301,
+    200,
+    304
+  ],
+  "www.nazwa.pl": [
+    200,
+    304
+  ],
+  "nazwa.pl": [
+    301,
+    200,
+    304
+  ],
+  "www.lifehacker.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "lifehacker.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.da88.com": [
+    301,
+    200
+  ],
+  "da88.com": [
+    301,
+    200
+  ],
+  "www.captioncall.com": [
+    301,
+    200
+  ],
+  "captioncall.com": [
+    301,
+    200
+  ],
+  "www.premierleague.com": [
+    200,
+    304
+  ],
+  "premierleague.com": [
+    301,
+    200,
+    304
+  ],
+  "www.dezeen.com": [
+    200,
+    302,
+    301,
+    307,
+    204,
+    303,
+    400,
+    403
+  ],
+  "dezeen.com": [
+    302,
+    200,
+    301,
+    307,
+    204,
+    303,
+    400,
+    403
+  ],
+  "spilleddaily.com": [
+    200
+  ],
+  "www.elcorteingles.es": [
+    200
+  ],
+  "elcorteingles.es": [
+    301,
+    200
+  ],
+  "www.fsu.edu": [
+    200
+  ],
+  "fsu.edu": [
+    301,
+    200
+  ],
+  "www.premierbet.com": [
+    200
+  ],
+  "premierbet.com": [
+    301,
+    200
+  ],
+  "www.waho.pro": [
+    200
+  ],
+  "waho.pro": [
+    200
+  ],
+  "www.oregonlive.com": [
+    200,
+    301,
+    302,
+    303,
+    307,
+    204,
+    400
+  ],
+  "oregonlive.com": [
+    301,
+    200,
+    302,
+    303,
+    307
+  ],
+  "www.wetteronline.de": [
+    200
+  ],
+  "wetteronline.de": [
+    301,
+    200,
+    304
+  ],
+  "www.primeriti.es": [
+    200
+  ],
+  "primeriti.es": [
+    301,
+    200
+  ],
+  "www.diretta.it": [
+    200,
+    302,
+    304
+  ],
+  "diretta.it": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "stripecdn.com": [
+    302,
+    200
+  ],
+  "www.lecturas.com": [
+    200,
+    301,
+    302,
+    303,
+    400,
+    403,
+    304
+  ],
+  "lecturas.com": [
+    301,
+    200,
+    302,
+    403,
+    303,
+    400,
+    204,
+    307,
+    304
+  ],
+  "www.filmstarts.de": [
+    200,
+    304
+  ],
+  "filmstarts.de": [
+    301,
+    200,
+    304
+  ],
+  "www.xerox.com": [
+    301,
+    200,
+    304
+  ],
+  "xerox.com": [
+    301,
+    200,
+    304
+  ],
+  "www.cambridge.org": [
+    200,
+    304,
+    403
+  ],
+  "cambridge.org": [
+    301,
+    200,
+    304,
+    403
+  ],
+  "www.actu.fr": [
+    301,
+    200
+  ],
+  "actu.fr": [
+    200
+  ],
+  "www.smakosze.pl": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "smakosze.pl": [
+    200,
+    304
+  ],
+  "www.billboard.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400,
+    304
+  ],
+  "billboard.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    400,
+    204,
+    304
+  ],
+  "www.itu.int": [
+    302,
+    200
+  ],
+  "itu.int": [
+    301,
+    302,
+    200
+  ],
+  "www.mailjet.com": [
+    200,
+    304
+  ],
+  "mailjet.com": [
+    301,
+    200,
+    304
+  ],
+  "www.ancestry.co.uk": [
+    200
+  ],
+  "ancestry.co.uk": [
+    301,
+    200
+  ],
+  "www.formula1.com": [
+    200
+  ],
+  "formula1.com": [
+    301,
+    200
+  ],
+  "www.inquirer.net": [
+    200
+  ],
+  "inquirer.net": [
+    302,
+    200
+  ],
+  "www.nrich.ai": [
+    301,
+    200
+  ],
+  "nrich.ai": [
+    301,
+    200
+  ],
+  "www.theathletic.com": [
+    301,
+    200,
+    304
+  ],
+  "theathletic.com": [
+    301,
+    200,
+    304
+  ],
+  "www.customer.io": [
+    307,
+    200,
+    302,
+    304
+  ],
+  "customer.io": [
+    200,
+    302,
+    304
+  ],
+  "www.consumerreports.org": [
+    200,
+    302
+  ],
+  "consumerreports.org": [
+    301,
+    200,
+    302
+  ],
+  "www.adorocinema.com": [
+    200,
+    302,
+    301,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "adorocinema.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    400,
+    304
+  ],
+  "www.klevu.com": [
+    200,
+    304
+  ],
+  "klevu.com": [
+    301,
+    200,
+    304
+  ],
+  "www.tutsplus.com": [
+    301,
+    200
+  ],
+  "tutsplus.com": [
+    200
+  ],
+  "www.mackolik.com": [
+    302,
+    200
+  ],
+  "mackolik.com": [
+    302,
+    200
+  ],
+  "www.clickmeeting.com": [
+    301,
+    200
+  ],
+  "clickmeeting.com": [
+    200
+  ],
+  "www.stirileprotv.ro": [
+    301,
+    307,
+    200
+  ],
+  "stirileprotv.ro": [
+    200
+  ],
+  "www.liverpoolecho.co.uk": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    400,
+    304
+  ],
+  "liverpoolecho.co.uk": [
+    301,
+    200,
+    302,
+    307,
+    400,
+    303,
+    204
+  ],
+  "www.houzz.com": [
+    200
+  ],
+  "houzz.com": [
+    301,
+    200
+  ],
+  "www.clevelandclinic.org": [
+    302,
+    200
+  ],
+  "clevelandclinic.org": [
+    302,
+    200,
+    304
+  ],
+  "www.indiatimes.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    400,
+    204
+  ],
+  "indiatimes.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    400,
+    204
+  ],
+  "www.iop.org": [
+    200,
+    403
+  ],
+  "iop.org": [
+    301,
+    200,
+    403
+  ],
+  "www.elfsight.com": [
+    301,
+    200,
+    304
+  ],
+  "elfsight.com": [
+    200,
+    304
+  ],
+  "www.ifood.com.br": [
+    200
+  ],
+  "ifood.com.br": [
+    301,
+    200
+  ],
+  "www.crazyegg.com": [
+    200
+  ],
+  "crazyegg.com": [
+    301,
+    200
+  ],
+  "my-best.com": [
+    200
+  ],
+  "www.myway.com": [
+    200
+  ],
+  "myway.com": [
+    301,
+    200
+  ],
+  "www.gog.com": [
+    302,
+    200
+  ],
+  "gog.com": [
+    301,
+    302,
+    200
+  ],
+  "www.controlup.com": [
+    200
+  ],
+  "controlup.com": [
+    301,
+    200
+  ],
+  "www.ladbrokes.com": [
+    301,
+    200,
+    304
+  ],
+  "ladbrokes.com": [
+    301,
+    200,
+    304
+  ],
+  "g123.jp": [
+    307,
+    200
+  ],
+  "www.fnn.jp": [
+    200,
+    302,
+    303,
+    204
+  ],
+  "fnn.jp": [
+    301,
+    200,
+    302,
+    303,
+    204,
+    307,
+    400
+  ],
+  "www.lavanguardia.com": [
+    200,
+    302,
+    307,
+    301
+  ],
+  "lavanguardia.com": [
+    301,
+    200,
+    302,
+    307
+  ],
+  "www.deltaork.com": [
+    200,
+    302,
+    304
+  ],
+  "deltaork.com": [
+    200,
+    304,
+    302
+  ],
+  "www.magicbricks.com": [
+    200
+  ],
+  "magicbricks.com": [
+    301,
+    200
+  ],
+  "www.sentry.io": [
+    301,
+    302,
+    200
+  ],
+  "sentry.io": [
+    302,
+    200
+  ],
+  "www.strava.com": [
+    200
+  ],
+  "strava.com": [
+    301,
+    200
+  ],
+  "www.yg5sjx5kzy.com": [
+    200
+  ],
+  "yg5sjx5kzy.com": [
+    200
+  ],
+  "www.homegate.ch": [
+    301,
+    200,
+    307,
+    302,
+    204,
+    303
+  ],
+  "homegate.ch": [
+    301,
+    307,
+    200,
+    302,
+    204,
+    303
+  ],
+  "www.flashscorekz.com": [
+    200,
+    304
+  ],
+  "flashscorekz.com": [
+    301,
+    200,
+    304
+  ],
+  "www.singaporeair.com": [
+    302,
+    200
+  ],
+  "singaporeair.com": [
+    301,
+    302,
+    200
+  ],
+  "p-bandai.jp": [
+    301,
+    200,
+    304
+  ],
+  "www.inverse.com": [
+    200
+  ],
+  "inverse.com": [
+    301,
+    200
+  ],
+  "www.ubisoft.com": [
+    301,
+    200,
+    302
+  ],
+  "ubisoft.com": [
+    301,
+    200,
+    302
+  ],
+  "www.ameblo.jp": [
+    302,
+    200
+  ],
+  "ameblo.jp": [
+    200
+  ],
+  "www.filgoal.com": [
+    200,
+    302,
+    301
+  ],
+  "filgoal.com": [
+    301,
+    200,
+    302
+  ],
+  "www.contentful.com": [
+    200
+  ],
+  "contentful.com": [
+    308,
+    200
+  ],
+  "www.bling.com.br": [
+    200
+  ],
+  "bling.com.br": [
+    301,
+    200
+  ],
+  "www.x-cdn-static.com": [
+    200
+  ],
+  "x-cdn-static.com": [
+    200
+  ],
+  "www.cardekho.com": [
+    200
+  ],
+  "cardekho.com": [
+    301,
+    200
+  ],
+  "www.elconfidencial.com": [
+    200,
+    304
+  ],
+  "elconfidencial.com": [
+    301,
+    200,
+    304
+  ],
+  "www.liberation.fr": [
+    200
+  ],
+  "liberation.fr": [
+    301,
+    200
+  ],
+  "www.hepsiburada.com": [
+    200
+  ],
+  "hepsiburada.com": [
+    301,
+    200
+  ],
+  "www.cyberfolks.pl": [
+    301,
+    200
+  ],
+  "cyberfolks.pl": [
+    200
+  ],
+  "www.quantcast.com": [
+    302,
+    200
+  ],
+  "quantcast.com": [
+    301,
+    302,
+    200
+  ],
+  "www.indosatooredoo.com": [
+    301,
+    200,
+    307,
+    302
+  ],
+  "indosatooredoo.com": [
+    301,
+    200,
+    307,
+    302
+  ],
+  "www.slotor777.com.ua": [
+    520
+  ],
+  "slotor777.com.ua": [
+    200
+  ],
+  "www.ilgiornale.it": [
+    200,
+    301,
+    307,
+    302,
+    303,
+    304
+  ],
+  "ilgiornale.it": [
+    301,
+    200,
+    307,
+    302,
+    204,
+    303,
+    304,
+    400
+  ],
+  "www.flashscore.co": [
+    200,
+    304
+  ],
+  "flashscore.co": [
+    301,
+    200,
+    304
+  ],
+  "www.articulate.com": [
+    200
+  ],
+  "articulate.com": [
+    302,
+    200
+  ],
+  "www.olx.ua": [
+    302,
+    200,
+    204
+  ],
+  "olx.ua": [
+    301,
+    302,
+    200,
+    204
+  ],
+  "www.catawiki.com": [
+    301,
+    200
+  ],
+  "catawiki.com": [
+    301,
+    200
+  ],
+  "www.orlandosentinel.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204
+  ],
+  "orlandosentinel.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    403,
+    400
+  ],
+  "www.qualtrics.com": [
+    200,
+    304
+  ],
+  "qualtrics.com": [
+    301,
+    200,
+    304
+  ],
+  "www.vecernji.hr": [
+    200
+  ],
+  "vecernji.hr": [
+    301,
+    200
+  ],
+  "www.pearson.com": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "pearson.com": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "squarecdn.com": [
+    301,
+    200,
+    302,
+    304
+  ],
+  "www.apa.org": [
+    200
+  ],
+  "apa.org": [
+    301,
+    200
+  ],
+  "www.ladepeche.fr": [
+    200
+  ],
+  "ladepeche.fr": [
+    301,
+    200
+  ],
+  "www.digitaljournal.com": [
+    200,
+    304
+  ],
+  "digitaljournal.com": [
+    301,
+    200,
+    304
+  ],
+  "www.powerreviews.com": [
+    200
+  ],
+  "powerreviews.com": [
+    301,
+    200
+  ],
+  "www.siue.edu": [
+    200
+  ],
+  "siue.edu": [
+    301,
+    200
+  ],
+  "www.zalando.fr": [
+    200
+  ],
+  "zalando.fr": [
+    302,
+    200
+  ],
+  "www.iherb.com": [
+    200,
+    302
+  ],
+  "iherb.com": [
+    301,
+    200,
+    302
+  ],
+  "www.cleveland.com": [
+    200,
+    301,
+    302,
+    303,
+    307,
+    400,
+    204
+  ],
+  "cleveland.com": [
+    301,
+    200,
+    302,
+    303,
+    307
+  ],
+  "www.adjust.com": [
+    200,
+    304
+  ],
+  "adjust.com": [
+    307,
+    200,
+    304
+  ],
+  "www.springeropen.com": [
+    200,
+    304
+  ],
+  "springeropen.com": [
+    301,
+    200,
+    304
+  ],
+  "www.programme-tv.net": [
+    302,
+    200
+  ],
+  "programme-tv.net": [
+    301,
+    302,
+    200
+  ],
+  "www.knowbe4.com": [
+    200,
+    301
+  ],
+  "knowbe4.com": [
+    301,
+    200
+  ],
+  "www.brightspace.com": [
+    301,
+    200
+  ],
+  "brightspace.com": [
+    301,
+    200
+  ],
+  "www.mcgill.ca": [
+    200,
+    304
+  ],
+  "mcgill.ca": [
+    301,
+    200,
+    304
+  ],
+  "www.rtve.es": [
+    200,
+    301,
+    304
+  ],
+  "rtve.es": [
+    301,
+    200,
+    304,
+    302
+  ],
+  "www.provenexpert.com": [
+    302,
+    200
+  ],
+  "provenexpert.com": [
+    308,
+    302,
+    200
+  ],
+  "www.lindependant.fr": [
+    200
+  ],
+  "lindependant.fr": [
+    301,
+    200
+  ],
+  "www.groww.in": [
+    301,
+    200
+  ],
+  "groww.in": [
+    200
+  ],
+  "www.vocabulary.com": [
+    200
+  ],
+  "vocabulary.com": [
+    301,
+    200
+  ],
+  "www.ably.io": [
+    301,
+    200
+  ],
+  "ably.io": [
+    301,
+    200
+  ],
+  "www.infomaniak.ch": [
+    301,
+    302,
+    200
+  ],
+  "infomaniak.ch": [
+    301,
+    302,
+    200
+  ],
+  "www.mamikos.com": [
+    301,
+    200
+  ],
+  "mamikos.com": [
+    200
+  ],
+  "www.flashscore.es": [
+    200,
+    304
+  ],
+  "flashscore.es": [
+    301,
+    200,
+    304
+  ],
+  "www.nymag.com": [
+    301,
+    200,
+    302,
+    307,
+    304
+  ],
+  "nymag.com": [
+    200,
+    302,
+    307,
+    304
+  ],
+  "www.bl.uk": [
+    200,
+    304
+  ],
+  "bl.uk": [
+    301,
+    200,
+    304
+  ],
+  "www.linecorp.com": [
+    302,
+    307,
+    200,
+    304
+  ],
+  "linecorp.com": [
+    302,
+    200,
+    304
+  ],
+  "www.echodnia.eu": [
+    301,
+    200,
+    403
+  ],
+  "echodnia.eu": [
+    200,
+    403
+  ],
+  "www.researchgate.net": [
+    200,
+    403
+  ],
+  "researchgate.net": [
+    301,
+    200,
+    403
+  ],
+  "www.nhtsa.gov": [
+    200,
+    304
+  ],
+  "nhtsa.gov": [
+    302,
+    200,
+    304
+  ],
+  "www.sport.pl": [
+    301,
+    307,
+    200,
+    302
+  ],
+  "sport.pl": [
+    301,
+    200,
+    302
+  ],
+  "www.al.com": [
+    200,
+    301,
+    302,
+    303,
+    307,
+    400,
+    204
+  ],
+  "al.com": [
+    301,
+    200,
+    302,
+    303,
+    307
+  ],
+  "www.epicurious.com": [
+    200,
+    302,
+    303,
+    204,
+    307,
+    400
+  ],
+  "epicurious.com": [
+    301,
+    200,
+    302,
+    303,
+    204,
+    307,
+    400
+  ],
+  "www.pitt.edu": [
+    200
+  ],
+  "pitt.edu": [
+    301,
+    302,
+    200
+  ],
+  "www.dlink.com": [
+    302,
+    200
+  ],
+  "dlink.com": [
+    301,
+    302,
+    200
+  ],
+  "www.hs.fi": [
+    200,
+    302,
+    303,
+    304,
+    204
+  ],
+  "hs.fi": [
+    301,
+    200,
+    302,
+    303,
+    204
+  ],
+  "www.journaldesfemmes.fr": [
+    200,
+    302,
+    301,
+    303,
+    307,
+    400,
+    204,
+    304
+  ],
+  "journaldesfemmes.fr": [
+    301,
+    307,
+    200,
+    302,
+    303,
+    400,
+    204
+  ],
+  "www.sky.it": [
+    200,
+    304
+  ],
+  "sky.it": [
+    301,
+    200,
+    304
+  ],
+  "www.nyt.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    304,
+    204
+  ],
+  "nyt.com": [
+    301,
+    200,
+    302,
+    307,
+    303,
+    204,
+    304
+  ],
+  "www.gaana.com": [
+    301,
+    200
+  ],
+  "gaana.com": [
+    200
+  ],
+  "www.prestashop.com": [
+    301,
+    200,
+    304,
+    302
+  ],
+  "prestashop.com": [
+    200,
+    304
+  ],
+  "www.qnap.com": [
+    302,
+    200
+  ],
+  "qnap.com": [
+    302,
+    200
+  ],
+  "zozo.jp": [
+    200,
+    302,
+    304
+  ],
+  "www.zoominfo.com": [
+    200,
+    302,
+    307,
+    403
+  ],
+  "zoominfo.com": [
+    301,
+    403
+  ],
+  "www.ocregister.com": [
+    200,
+    302,
+    307,
+    301,
+    303,
+    204,
+    304
+  ],
+  "ocregister.com": [
+    301,
+    200,
+    302,
+    307,
+    204,
+    303,
+    304
+  ],
+  "www.mediamarkt.de": [
+    200
+  ],
+  "mediamarkt.de": [
+    301,
+    200
+  ],
+  "www.gazeta.pl": [
+    301,
+    200
+  ],
+  "gazeta.pl": [
+    301,
+    200
+  ],
+  "www.infomaniak.com": [
+    302,
+    200
+  ],
+  "infomaniak.com": [
+    301,
+    302,
+    200
+  ]
+}

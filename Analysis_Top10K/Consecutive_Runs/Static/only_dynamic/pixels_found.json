@@ -1,0 +1,32 @@
+{
+    "doubtnut.com": {
+        "PIXEL_GTM": {
+            "doubtnut.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TMTVFGF": [
+                        "1276237315850877"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "sweetwater.com": {
+        "PIXEL_GTM": {
+            "sweetwater.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T6TDJSD": [
+                        "1634882563483332"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "baselang.com": {
+        "pixel_ids": [
+            "980546829091538"
+        ],
+        "state_type": "FBP"
+    },
+    "watchit.com": {
+        "pixel_ids": [
+            "454221791908260",
+            "2443522549233506",
+            "1704366585371792"
+        ],
+        "state_type": "GTM"
+    },
+    "johnpyevehicles.co.uk": {
+        "pixel_ids": [
+            "1716552773858625",
+            "176574006120065"
+        ],
+        "state_type": "GTM"
+    },
+    "smartwatchbanden.nl": {
+        "pixel_ids": [
+            "259027312516707",
+            "1755590733783930"
+        ],
+        "state_type": "GTM"
+    },
+    "fjordnorway.com": {
+        "pixel_ids": [
+            "399556147151446",
+            "201659147584229",
+            "1749047411961167",
+            "993946027392067"
+        ],
+        "state_type": "GTM"
+    },
+    "mobitel.si": {
+        "pixel_ids": [
+            "376739978133889",
+            "1732696257468248"
+        ],
+        "state_type": "GTM"
+    },
+    "thedieselstop.com": {
+        "pixel_ids": [
+            "1755618154241313",
+            "5729616248438784"
+        ],
+        "state_type": "GTM"
+    }
+}

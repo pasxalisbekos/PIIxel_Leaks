@@ -1,0 +1,824 @@
+{
+    "opinel.com": {
+        "PIXEL_GTM": {
+            "opinel.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TTHJMR": [
+                        "225162768569455",
+                        "1753948374300997"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "aflegal.org": {
+        "PIXEL_GTM": {
+            "aflegal.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5W23W4F": [
+                        "630547721951165",
+                        "1753194514042388"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "kemira.com": {
+        "PIXEL_GTM": {
+            "kemira.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5SJGQV8": [
+                        "1661312837478980",
+                        "1742500886681559"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "armastore.com.br": {
+        "PIXEL_GTM": {
+            "armastore.com.br": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PBJJD96N": [
+                        "1754367520688488"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "bookingplanner.com": {
+        "PIXEL_GTM": {
+            "bookingplanner.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PXSN2JX": [
+                        "1733323114246266",
+                        "279054605768075"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "comfort.com.gr": {
+        "PIXEL_GTM": {
+            "comfort.com.gr": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K48C4BV": [
+                        "1506210999704853",
+                        "1753884574274883"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "pasiekisadowskich.pl": {
+        "PIXEL_GTM": {
+            "pasiekisadowskich.pl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NTWQXDT": [
+                        "645036736767142",
+                        "1754836218783477"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "skechers.pt": {
+        "PIXEL_GTM": {
+            "skechers.pt": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-M2M9R26H": [
+                        "569707237587960",
+                        "5284386851681341",
+                        "1054139001966083",
+                        "436185708568497",
+                        "1755538094992935",
+                        "543052027602126",
+                        "1126412997921367",
+                        "549654373225296",
+                        "535528821498723",
+                        "396310739004309",
+                        "424016896485773",
+                        "388788149920908",
+                        "3160549214262780",
+                        "1344513493037289",
+                        "4714425538635099"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "bondora.com": {
+        "PIXEL_GTM": {
+            "bondora.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T7JP7Q7": [
+                        "1752748273814316",
+                        "712282695615789"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "drinkolipop.com": {
+        "PIXEL_GTM": {
+            "drinkolipop.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-THWRVT4": [
+                        "452900448865909",
+                        "1743526729603127"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "casino.com.ro": {
+        "PIXEL_GTM": {
+            "casino.com.ro": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TZNTF2X": [
+                        "1737626454410449",
+                        "1227733884410694"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "lampak.hu": {
+        "PIXEL_GTM": {
+            "lampak.hu": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MRJG4N3X": [
+                        "208971476381113",
+                        "217834328989523",
+                        "123361238271204",
+                        "1755749839904596",
+                        "1880448321976525",
+                        "1940384159608878",
+                        "380100882466221",
+                        "1094510091017623",
+                        "250643439013296"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "aubade.com": {
+        "PIXEL_GTM": {
+            "aubade.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NT7Z7ZM": [
+                        "1753177251512899",
+                        "785724531468774"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "channelonline.com": {
+        "PIXEL_GTM": {
+            "channelonline.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5LH89CH": [
+                        "1754044699017718",
+                        "3037507629849219"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "givve.com": {
+        "PIXEL_GTM": {
+            "givve.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-P33632V": [
+                        "557099595251165",
+                        "1744709327467009"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "climamarket.it": {
+        "PIXEL_GTM": {
+            "climamarket.it": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-N3GQQFTT": [
+                        "1755680014828950",
+                        "454609922584103"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "myday.com.tw": {
+        "PIXEL_GTM": {
+            "myday.com.tw": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MQN258": [
+                        "1755151993575996",
+                        "229957664095626"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "haushaltshilfe24.at": {
+        "PIXEL_GTM": {
+            "haushaltshilfe24.at": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K2C8SQNQ": [
+                        "3831520927087453",
+                        "1324058878985567",
+                        "1658208438447234",
+                        "580316401314743",
+                        "6594205490702800",
+                        "1755098496195596",
+                        "1016767703781494",
+                        "588247623718949",
+                        "4362207763918320"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "blockstore.cl": {
+        "PIXEL_GTM": {
+            "blockstore.cl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PX5M6DH": [
+                        "1725992816379952",
+                        "371994230484281"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "vluchtelingenwerk.nl": {
+        "PIXEL_GTM": {
+            "vluchtelingenwerk.nl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5MTPGS9": [
+                        "1613703832290399"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "softonic.de": {
+        "PIXEL_GTM": {
+            "softonic.de": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5LWWHP": [
+                        "1754479042623159",
+                        "9488838626649539"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "bmgmoney.com": {
+        "PIXEL_GTM": {
+            "bmgmoney.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WVQFDRL4": [
+                        "1752496520736840"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "winterhalter.biz": {
+        "PIXEL_GTM": {
+            "winterhalter.biz": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W25LB95": [
+                        "2559366184334492",
+                        "250847136003561",
+                        "593214242412906",
+                        "431516044748483",
+                        "513652279348791",
+                        "605180703670706",
+                        "519640928980648",
+                        "896293161058922",
+                        "1755699680701034",
+                        "248680376137779",
+                        "503163917300475",
+                        "241982899808299",
+                        "1424274995234045"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "tix.to": {
+        "PIXEL_GTM": {
+            "tix.to": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NQZ6J8SW": [
+                        "1716831165903338",
+                        "678152906688847"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "microdinc.com": {
+        "PIXEL_GTM": {
+            "microdinc.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PVZ7ZDF": [
+                        "1755171629295252",
+                        "1076752089601463"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "dwtc.com": {
+        "PIXEL_GTM": {
+            "dwtc.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NMG7Q3": [
+                        "1750429529150811",
+                        "823132645768699"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "ksc.de": {
+        "PIXEL_GTM": {
+            "ksc.de": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-P836QZP7": [
+                        "1749567285711896",
+                        "521598435250240"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "migrainetrust.org": {
+        "PIXEL_GTM": {
+            "migrainetrust.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W4DRJZC": [
+                        "1732615946430430",
+                        "1526918214297782"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "sportano.ro": {
+        "PIXEL_GTM": {
+            "sportano.ro": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NPGLHZH": [
+                        "1712810563201906"
+                    ],
+                    "GTM-N5LZGTGG": [
+                        "1343788049672039",
+                        "623175702745901",
+                        "1113633799362647",
+                        "4736241063099208",
+                        "1143990096457743",
+                        "2886941071608041",
+                        "684956699363036",
+                        "533465375086112",
+                        "2512641665577577",
+                        "443810471261812",
+                        "941347827123768",
+                        "1740049284198278"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "kuponku.id": {
+        "PIXEL_GTM": {
+            "kuponku.id": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TPBN26P": [
+                        "1737102171608639",
+                        "1464874544374243"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {
+                    "GTM-NDRWQPH": [
+                        "1711076394972002",
+                        "1695826984172218"
+                    ]
+                },
+                "light_code_type": "potential"
+            }
+        }
+    },
+    "zillertalarena.com": {
+        "PIXEL_GTM": {
+            "zillertalarena.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TR48ND": [
+                        "1753737794905521",
+                        "1741767557876424"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "escapehunt.com": {
+        "PIXEL_GTM": {
+            "escapehunt.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KHJM77J": [
+                        "532594278721354",
+                        "1400544319994998",
+                        "1936571366558552",
+                        "1776469466628372",
+                        "367949501953927",
+                        "432556053827654",
+                        "914471563470392",
+                        "468444196824767",
+                        "322740951489484",
+                        "1755080490260255",
+                        "621415659994128",
+                        "168513018621664",
+                        "448469379449830"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "moyens.net": {
+        "PIXEL_GTM": {
+            "moyens.net": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5SJLKGL": [
+                        "5839712564139709",
+                        "1748908451673633"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "soldiersangels.org": {
+        "PIXEL_GTM": {
+            "soldiersangels.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W87WDWK": [
+                        "2599954543553229"
+                    ],
+                    "GTM-K44WVJTN": [
+                        "1727792437450871",
+                        "1029049744881450"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "viss.lv": {
+        "PIXEL_GTM": {
+            "viss.lv": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-M62NK2F9": [
+                        "1739051913720390",
+                        "5660618770224171"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "anicura.es": {
+        "PIXEL_GTM": {
+            "anicura.es": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-N3J8XN": [
+                        "310525959605478",
+                        "587475437648762"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "personaldefensenetwork.com": {
+        "PIXEL_GTM": {
+            "personaldefensenetwork.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TB2JHJB": [
+                        "1838042099963342",
+                        "1097873697894109",
+                        "1754411136866962",
+                        "667241775362602",
+                        "899233148273912",
+                        "909374077400339",
+                        "1219859238486671",
+                        "1354341495199977",
+                        "658228548445521",
+                        "508456525967734",
+                        "236883289355702",
+                        "1115707909449545",
+                        "1115692699601960"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "sinalbr.com.br": {
+        "PIXEL_GTM": {
+            "sinalbr.com.br": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K7C9N4L": [
+                        "243290708170342",
+                        "1721303495307348"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "studienkreis.de": {
+        "PIXEL_GTM": {
+            "studienkreis.de": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KMXTLS": [
+                        "1754579797026548",
+                        "994964033895926"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "pbnation.com": {
+        "PIXEL_GTM": {
+            "pbnation.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WQHTT6Z": [
+                        "5729616248438784",
+                        "1749822937829217"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "backatyou.com": {
+        "PIXEL_GTM": {
+            "backatyou.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-N7D6HZ2": [
+                        "1695099583803573",
+                        "1056262177738451"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "toi-moi.com": {
+        "PIXEL_GTM": {
+            "toi-moi.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MNKDZNMD": [
+                        "283658095605413",
+                        "1729501565100553"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "brandfield.nl": {
+        "PIXEL_GTM": {
+            "brandfield.nl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T3TS523K": [
+                        "1753174241363176",
+                        "609434682576180",
+                        "438716956742940",
+                        "381573215687139",
+                        "1526729950989508",
+                        "1069355443274650"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "gigasport.at": {
+        "PIXEL_GTM": {
+            "gigasport.at": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WK5TJT": [
+                        "204089701800027",
+                        "000000000000000",
+                        "2115892268661726",
+                        "2276413202623659",
+                        "820672249220315",
+                        "1754406162416236"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "velvetcaviar.com": {
+        "PIXEL_GTM": {
+            "velvetcaviar.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NBG996C": [
+                        "1708116895054961",
+                        "554427448043040"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "licg.nl": {
+        "PIXEL_GTM": {
+            "licg.nl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KQW4H8V": [
+                        "2639844869376103",
+                        "1739354299113908"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    }
+}

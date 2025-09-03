@@ -1,0 +1,122 @@
+{
+  "www.hybrid.ai": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.chicagotribune.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.bgr.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.otomoto.pl": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.newsroom.bi": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.15min.lt": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.motherjones.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "motherjones.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "etc.uz": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.bostonherald.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "barchart.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.cnn.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "cnn.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "nj.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.yanmaga.jp": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.scotsman.com": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "vecernji.hr": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.rtve.es": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "www.sky.it": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  },
+  "sky.it": {
+    "error_message": {
+      "name": "TimeoutError"
+    },
+    "description": "Unable to reload page"
+  }
+}

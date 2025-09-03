@@ -1,0 +1,58 @@
+{
+    "esportesdasorte.com": {
+        "pixel_ids": [
+            "1677486523199568"
+        ],
+        "state_type": "FBP"
+    },
+    "webrootanywhere.com": {
+        "pixel_ids": [
+            "1066169613516123"
+        ],
+        "state_type": "FBP"
+    },
+    "stitcher.com": {
+        "pixel_ids": [
+            "1568087270153240",
+            "1225677084239985"
+        ],
+        "state_type": "FBP"
+    },
+    "godaddy.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "hs-sites.com": {
+        "pixel_ids": [
+            "893596480692132"
+        ],
+        "state_type": "FBP"
+    },
+    "webmotors.com.br": {
+        "pixel_ids": [
+            "1538764946346491"
+        ],
+        "state_type": "FBP"
+    },
+    "sena.edu.co": {
+        "pixel_ids": [
+            "422752055648971"
+        ],
+        "state_type": "FBP"
+    },
+    "chinatimes.com": {
+        "pixel_ids": [
+            "6505068276238555"
+        ],
+        "state_type": "FBP"
+    },
+    "myshopline.com": {
+        "pixel_ids": [
+            "238903451808600",
+            "449793318556952"
+        ],
+        "state_type": "FBP"
+    }
+}

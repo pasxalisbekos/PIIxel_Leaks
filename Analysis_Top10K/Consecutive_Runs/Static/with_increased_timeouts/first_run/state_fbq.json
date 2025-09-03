@@ -1,0 +1,337 @@
+{
+    "cootek.com": {
+        "pixel_ids": [
+            "4355790257774187"
+        ],
+        "state_type": "FBP"
+    },
+    "appdynamics.com": {
+        "pixel_ids": [
+            "1642523699107798"
+        ],
+        "state_type": "FBP"
+    },
+    "athome.co.jp": {
+        "pixel_ids": [
+            "360941475917678",
+            "895215627717103",
+            "381461678298403",
+            "752546718686188",
+            "797716564395114"
+        ],
+        "state_type": "FBP"
+    },
+    "areteup.com": {
+        "pixel_ids": [
+            "417555171138829"
+        ],
+        "state_type": "FBP"
+    },
+    "jalan.net": {
+        "pixel_ids": [
+            "985639705493054",
+            "429254778372724",
+            "400345795207326",
+            "1575187032583244"
+        ],
+        "state_type": "FBP"
+    },
+    "ge.com": {
+        "pixel_ids": [
+            "1698582600447225",
+            "664516004695735"
+        ],
+        "state_type": "FBP"
+    },
+    "calm.com": {
+        "pixel_ids": [
+            "1716780165218419"
+        ],
+        "state_type": "FBP"
+    },
+    "sonyentertainmentnetwork.com": {
+        "pixel_ids": [
+            "1611628815822807"
+        ],
+        "state_type": "FBP"
+    },
+    "tokyodisneyresort.jp": {
+        "pixel_ids": [
+            "939090883544492",
+            "888557869322912",
+            "211832658511463"
+        ],
+        "state_type": "FBP"
+    },
+    "goldmansachs.com": {
+        "pixel_ids": [
+            "779622863765139"
+        ],
+        "state_type": "FBP"
+    },
+    "delfi.lt": {
+        "pixel_ids": [
+            "1720142964883079"
+        ],
+        "state_type": "FBP"
+    },
+    "goal.com": {
+        "pixel_ids": [
+            "214667635791008"
+        ],
+        "state_type": "FBP"
+    },
+    "colostate.edu": {
+        "pixel_ids": [
+            "627078264352393",
+            "249034819551239",
+            "1667041570431849",
+            "608477188161193"
+        ],
+        "state_type": "FBP"
+    },
+    "ciscospark.com": {
+        "pixel_ids": [
+            "116505272317553"
+        ],
+        "state_type": "FBP"
+    },
+    "prudential.com": {
+        "pixel_ids": [
+            "138946870111463"
+        ],
+        "state_type": "FBP"
+    },
+    "wixsite.com": {
+        "pixel_ids": [
+            "704136006388169"
+        ],
+        "state_type": "FBP"
+    },
+    "poste.dz": {
+        "pixel_ids": [
+            "495826053922610"
+        ],
+        "state_type": "FBP"
+    },
+    "correoargentino.com.ar": {
+        "pixel_ids": [
+            "410865503546960"
+        ],
+        "state_type": "FBP"
+    },
+    "muji.com": {
+        "pixel_ids": [
+            "2011960958877006"
+        ],
+        "state_type": "FBP"
+    },
+    "clickbank.net": {
+        "pixel_ids": [
+            "288558622133864",
+            "8831615373521615"
+        ],
+        "state_type": "FBP"
+    },
+    "sbisec.co.jp": {
+        "pixel_ids": [
+            "953699228635252",
+            "1195987824687717",
+            "378102557333944"
+        ],
+        "state_type": "FBP"
+    },
+    "officestation.jp": {
+        "pixel_ids": [
+            "359956621370035",
+            "964193311007291",
+            "836328121227990"
+        ],
+        "state_type": "FBP"
+    },
+    "nitori-net.jp": {
+        "pixel_ids": [
+            "173492441289190",
+            "418947712878316",
+            "1127409887940268",
+            "247489391147549",
+            "310638302743365"
+        ],
+        "state_type": "FBP"
+    },
+    "webrootcloudav.com": {
+        "pixel_ids": [
+            "1066169613516123"
+        ],
+        "state_type": "FBP"
+    },
+    "gwu.edu": {
+        "pixel_ids": [
+            "832192600124863"
+        ],
+        "state_type": "FBP"
+    },
+    "comcast.net": {
+        "pixel_ids": [
+            "1576063789359472"
+        ],
+        "state_type": "FBP"
+    },
+    "drogariasaopaulo.com.br": {
+        "pixel_ids": [
+            "320380748463275"
+        ],
+        "state_type": "FBP"
+    },
+    "smithsonianmag.com": {
+        "pixel_ids": [
+            "452270575524133",
+            "784323455034815",
+            "538226103776412"
+        ],
+        "state_type": "FBP"
+    },
+    "bybit.biz": {
+        "pixel_ids": [
+            "454752076119925"
+        ],
+        "state_type": "FBP"
+    },
+    "petsmart.com": {
+        "pixel_ids": [
+            "2403261479971841"
+        ],
+        "state_type": "FBP"
+    },
+    "malaysiakini.com": {
+        "pixel_ids": [
+            "546758262345624"
+        ],
+        "state_type": "FBP"
+    },
+    "mizuhobank.co.jp": {
+        "pixel_ids": [
+            "668116770696142"
+        ],
+        "state_type": "FBP"
+    },
+    "pantheonsite.io": {
+        "pixel_ids": [
+            "1581143362168942"
+        ],
+        "state_type": "FBP"
+    },
+    "delta.com": {
+        "pixel_ids": [
+            "410621589144261"
+        ],
+        "state_type": "FBP"
+    },
+    "weebly.com": {
+        "pixel_ids": [
+            "366647620149022"
+        ],
+        "state_type": "FBP"
+    },
+    "cmoa.jp": {
+        "pixel_ids": [
+            "745585186344543"
+        ],
+        "state_type": "FBP"
+    },
+    "popin.cc": {
+        "pixel_ids": [
+            "2317928841843088"
+        ],
+        "state_type": "FBP"
+    },
+    "comcast.com": {
+        "pixel_ids": [
+            "1576063789359472"
+        ],
+        "state_type": "FBP"
+    },
+    "takarakuji-official.jp": {
+        "pixel_ids": [
+            "592930059642692",
+            "366280550659189",
+            "1272136829932313",
+            "1144228266667980"
+        ],
+        "state_type": "FBP"
+    },
+    "intimissimi.com": {
+        "pixel_ids": [
+            "1392119607612897",
+            "1021934898205842",
+            "494778186154908",
+            "894351247951647",
+            "2798561123796216"
+        ],
+        "state_type": "GTM"
+    },
+    "curalate.com": {
+        "pixel_ids": [
+            "2024240697861312"
+        ],
+        "state_type": "GTM"
+    },
+    "survata.com": {
+        "pixel_ids": [
+            "329295620552387"
+        ],
+        "state_type": "FBP"
+    },
+    "verizon.net": {
+        "pixel_ids": [
+            "373315030862245"
+        ],
+        "state_type": "FBP"
+    },
+    "jfrog.io": {
+        "pixel_ids": [
+            "616379538459573"
+        ],
+        "state_type": "FBP"
+    },
+    "ondemand.com": {
+        "pixel_ids": [
+            "7456251769",
+            "477733216582324",
+            "620255624811889",
+            "620581288586950",
+            "1085401035224548"
+        ],
+        "state_type": "FBP"
+    },
+    "swrve.com": {
+        "pixel_ids": [
+            "1564180813816734",
+            "1155069412468021",
+            "1394432064797502"
+        ],
+        "state_type": "FBP"
+    },
+    "emc.com": {
+        "pixel_ids": [
+            "641890776746393"
+        ],
+        "state_type": "FBP"
+    },
+    "gs.com": {
+        "pixel_ids": [
+            "779622863765139"
+        ],
+        "state_type": "FBP"
+    },
+    "calzedonia.com": {
+        "pixel_ids": [
+            "1702953193328452",
+            "3856932367701843",
+            "2303036119875199",
+            "699370150595928",
+            "634247604621541"
+        ],
+        "state_type": "GTM"
+    }
+}
