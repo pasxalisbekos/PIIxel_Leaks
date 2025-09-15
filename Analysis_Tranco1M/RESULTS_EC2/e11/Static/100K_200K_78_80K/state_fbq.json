@@ -1,0 +1,783 @@
+{
+    "neobet.de": {
+        "pixel_ids": [
+            "523200311627128"
+        ],
+        "state_type": "GTM"
+    },
+    "ziplyfiber.com": {
+        "pixel_ids": [
+            "1646650368815698"
+        ],
+        "state_type": "FBP"
+    },
+    "crystalgolfresort.com": {
+        "pixel_ids": [
+            "642740959240800",
+            "686012431871173",
+            "442790839620966"
+        ],
+        "state_type": "FBP"
+    },
+    "agnesb.co.jp": {
+        "pixel_ids": [
+            "1096802513826193"
+        ],
+        "state_type": "FBP"
+    },
+    "rakuten.de": {
+        "pixel_ids": [
+            "565036811436486",
+            "2983132765348309",
+            "1276832439498158",
+            "742537769967218"
+        ],
+        "state_type": "GTM"
+    },
+    "yamamay.com": {
+        "pixel_ids": [
+            "1139937350337784"
+        ],
+        "state_type": "FBP"
+    },
+    "ashbyprd.com": {
+        "pixel_ids": [
+            "1065268511221778"
+        ],
+        "state_type": "FBP"
+    },
+    "clubd.co.jp": {
+        "pixel_ids": [
+            "1663538357240469"
+        ],
+        "state_type": "FBP"
+    },
+    "citbank.com": {
+        "pixel_ids": [
+            "1053949304639039"
+        ],
+        "state_type": "GTM"
+    },
+    "beck.com": {
+        "pixel_ids": [
+            "305178966511386",
+            "567318173708059"
+        ],
+        "state_type": "FBP"
+    },
+    "uspnf.com": {
+        "pixel_ids": [
+            "1564022697182803"
+        ],
+        "state_type": "FBP"
+    },
+    "momondo.com.br": {
+        "pixel_ids": [
+            "189563405032048",
+            "503693384212506",
+            "508727445916581",
+            "1347583438592982",
+            "143839513144905",
+            "442442193590619",
+            "593382611027188",
+            "376320733624491",
+            "1753019971445860",
+            "2132883120290726"
+        ],
+        "state_type": "GTM"
+    },
+    "cheapair.com": {
+        "pixel_ids": [
+            "8936001659801770",
+            "1749425878811706",
+            "1652447535647336"
+        ],
+        "state_type": "GTM"
+    },
+    "pierrotshop.jp": {
+        "pixel_ids": [
+            "1236568854368262"
+        ],
+        "state_type": "FBP"
+    },
+    "bybitx.global": {
+        "pixel_ids": [
+            "454752076119925"
+        ],
+        "state_type": "FBP"
+    },
+    "commonwealthclub.org": {
+        "pixel_ids": [
+            "481451412215387"
+        ],
+        "state_type": "FBP"
+    },
+    "cybcube.com": {
+        "pixel_ids": [
+            "974082550056703"
+        ],
+        "state_type": "FBP"
+    },
+    "quadlockcase.com.au": {
+        "pixel_ids": [
+            "689880521140367"
+        ],
+        "state_type": "FBP"
+    },
+    "socceroos.com.au": {
+        "pixel_ids": [
+            "1534683480170494",
+            "313975565998881"
+        ],
+        "state_type": "FBP"
+    },
+    "djerfavenue.com": {
+        "pixel_ids": [
+            "591408571478671"
+        ],
+        "state_type": "GTM"
+    },
+    "carohosting.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "goaura.com": {
+        "pixel_ids": [
+            "2320650811529308"
+        ],
+        "state_type": "FBP"
+    },
+    "nationalgrideso.com": {
+        "pixel_ids": [
+            "844515164462400"
+        ],
+        "state_type": "FBP"
+    },
+    "dewezet.de": {
+        "pixel_ids": [
+            "305126398434532"
+        ],
+        "state_type": "GTM"
+    },
+    "opendurian.com": {
+        "pixel_ids": [
+            "186292710806857",
+            "725603777613978",
+            "675793799628374"
+        ],
+        "state_type": "FBP"
+    },
+    "hometogo.it": {
+        "pixel_ids": [
+            "526811781165816",
+            "1659561034275910",
+            "1459808147650450",
+            "109193706084787",
+            "404536053069100",
+            "515544358656290",
+            "1711287812423563",
+            "215925535653075",
+            "1460735087557153",
+            "168435096901239",
+            "1588456601443548",
+            "532139190305945",
+            "326758367711796",
+            "935862831984504",
+            "816046288491259",
+            "586910935050829",
+            "244258029805143",
+            "107808819863043",
+            "834609986714898",
+            "450183078473804",
+            "917376561648949",
+            "244163372658239",
+            "1337082826362362",
+            "284304920670512",
+            "562873870533345"
+        ],
+        "state_type": "GTM"
+    },
+    "grossglockner.at": {
+        "pixel_ids": [
+            "2231392253798185"
+        ],
+        "state_type": "GTM"
+    },
+    "brightlightsfilm.com": {
+        "pixel_ids": [
+            "2126247327605538"
+        ],
+        "state_type": "FBP"
+    },
+    "axiebet88.net": {
+        "pixel_ids": [
+            "1489950678265929",
+            "1438421700091830"
+        ],
+        "state_type": "FBP"
+    },
+    "dufrio.com.br": {
+        "pixel_ids": [
+            "1054380289373786"
+        ],
+        "state_type": "GTM"
+    },
+    "psychologiemagazine.nl": {
+        "pixel_ids": [
+            "203073247417687"
+        ],
+        "state_type": "GTM"
+    },
+    "boomy.com": {
+        "pixel_ids": [
+            "2399537293068118"
+        ],
+        "state_type": "GTM"
+    },
+    "santaisabel.cl": {
+        "pixel_ids": [
+            "1780195405544700"
+        ],
+        "state_type": "FBP"
+    },
+    "greenchoice.nl": {
+        "pixel_ids": [
+            "423207598045963"
+        ],
+        "state_type": "GTM"
+    },
+    "printfresh.com": {
+        "pixel_ids": [
+            "373100906400464"
+        ],
+        "state_type": "FBP"
+    },
+    "pokerstarsmtairycasino.com": {
+        "pixel_ids": [
+            "2090805121031871",
+            "525785668203376",
+            "356952005540116",
+            "1950417788596748",
+            "207235553208333"
+        ],
+        "state_type": "GTM"
+    },
+    "bcgame.vc": {
+        "pixel_ids": [
+            "1700705300228226"
+        ],
+        "state_type": "GTM"
+    },
+    "viajerospiratas.es": {
+        "pixel_ids": [
+            "808694785917793"
+        ],
+        "state_type": "FBP"
+    },
+    "nowcerts.com": {
+        "pixel_ids": [
+            "733782340030382"
+        ],
+        "state_type": "FBP"
+    },
+    "shrinershospitalsforchildren.org": {
+        "pixel_ids": [
+            "259353328104323"
+        ],
+        "state_type": "GTM"
+    },
+    "emanualonline.com": {
+        "pixel_ids": [
+            "1613400095566430"
+        ],
+        "state_type": "FBP"
+    },
+    "naf.no": {
+        "pixel_ids": [
+            "614082342035763",
+            "418899204545373"
+        ],
+        "state_type": "GTM"
+    },
+    "goodlifefitness.com": {
+        "pixel_ids": [
+            "487951785935233",
+            "632489592114502"
+        ],
+        "state_type": "FBP"
+    },
+    "wolterskluwer.pl": {
+        "pixel_ids": [
+            "317828909612797",
+            "317828909612797"
+        ],
+        "state_type": "GTM"
+    },
+    "flixbus.ua": {
+        "pixel_ids": [
+            "1655326258125007"
+        ],
+        "state_type": "FBP"
+    },
+    "32market.com": {
+        "pixel_ids": [
+            "231567385508134"
+        ],
+        "state_type": "FBP"
+    },
+    "maperformance.com": {
+        "pixel_ids": [
+            "957540490946521"
+        ],
+        "state_type": "FBP"
+    },
+    "dominos.co.kr": {
+        "pixel_ids": [
+            "1137429790769197"
+        ],
+        "state_type": "FBP"
+    },
+    "bizneo.com": {
+        "pixel_ids": [
+            "789321539838676"
+        ],
+        "state_type": "FBP"
+    },
+    "startbet.io": {
+        "pixel_ids": [
+            "1556303048642448",
+            "529858852746519"
+        ],
+        "state_type": "FBP"
+    },
+    "zalando-lounge.co.uk": {
+        "pixel_ids": [
+            "130012280739307",
+            "1007329883369728",
+            "1441805072757407",
+            "479261208843016",
+            "2737730169584505",
+            "1495213624031658",
+            "777980103143088",
+            "550256131752722",
+            "450789210146796",
+            "1494107820805936",
+            "1712059109095941",
+            "215235690513220",
+            "500349837076837",
+            "343972264131767",
+            "2814062618887508",
+            "1153350728030344",
+            "130012280739307",
+            "1007329883369728",
+            "1441805072757407",
+            "479261208843016",
+            "2737730169584505",
+            "1495213624031658",
+            "777980103143088",
+            "550256131752722",
+            "450789210146796",
+            "1494107820805936",
+            "1712059109095941",
+            "215235690513220",
+            "500349837076837",
+            "343972264131767",
+            "2814062618887508",
+            "1153350728030344"
+        ],
+        "state_type": "GTM"
+    },
+    "casinoatlanticcity.com": {
+        "pixel_ids": [
+            "744876650009062"
+        ],
+        "state_type": "FBP"
+    },
+    "franklinsports.com": {
+        "pixel_ids": [
+            "385802178674757",
+            "833828556664886",
+            "281213719228972"
+        ],
+        "state_type": "GTM"
+    },
+    "comparaja.pt": {
+        "pixel_ids": [
+            "869139417400103",
+            "1880840788837828"
+        ],
+        "state_type": "GTM"
+    },
+    "vestis.com": {
+        "pixel_ids": [
+            "882244433560022"
+        ],
+        "state_type": "FBP"
+    },
+    "forestholidays.co.uk": {
+        "pixel_ids": [
+            "762945020959603"
+        ],
+        "state_type": "GTM"
+    },
+    "myschoolportal.co.uk": {
+        "pixel_ids": [
+            "829835018362299",
+            "1123428008758649"
+        ],
+        "state_type": "GTM"
+    },
+    "britishcouncil.org.mx": {
+        "pixel_ids": [
+            "891636964266202",
+            "777060812469545",
+            "556311212897063"
+        ],
+        "state_type": "GTM"
+    },
+    "nflallday.com": {
+        "pixel_ids": [
+            "906819933470313"
+        ],
+        "state_type": "FBP"
+    },
+    "financescout24.ch": {
+        "pixel_ids": [
+            "809429402793554"
+        ],
+        "state_type": "GTM"
+    },
+    "streamsinfo.com": {
+        "pixel_ids": [
+            "6544196357785415"
+        ],
+        "state_type": "GTM"
+    },
+    "arcteryx.jp": {
+        "pixel_ids": [
+            "638144728300123"
+        ],
+        "state_type": "FBP"
+    },
+    "cakemail.com": {
+        "pixel_ids": [
+            "290670989457628"
+        ],
+        "state_type": "FBP"
+    },
+    "handyhuellen.de": {
+        "pixel_ids": [
+            "675759963502610",
+            "2025599084490535",
+            "761713074219490"
+        ],
+        "state_type": "GTM"
+    },
+    "wildewolf.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "burnleyfootballclub.com": {
+        "pixel_ids": [
+            "1032502587593001",
+            "1182692133066848"
+        ],
+        "state_type": "FBP"
+    },
+    "tmcc.edu": {
+        "pixel_ids": [
+            "293331981438333"
+        ],
+        "state_type": "FBP"
+    },
+    "jobscore.com": {
+        "pixel_ids": [
+            "688224729568605"
+        ],
+        "state_type": "FBP"
+    },
+    "severreal.org": {
+        "pixel_ids": [
+            "641003344078221"
+        ],
+        "state_type": "FBP"
+    },
+    "corient.com": {
+        "pixel_ids": [
+            "1686409341862071"
+        ],
+        "state_type": "FBP"
+    },
+    "funkidslive.com": {
+        "pixel_ids": [
+            "224402614600108"
+        ],
+        "state_type": "FBP"
+    },
+    "visitdetroit.com": {
+        "pixel_ids": [
+            "1406365342866705",
+            "149240881211888"
+        ],
+        "state_type": "FBP"
+    },
+    "slingcommerce.com": {
+        "pixel_ids": [
+            "540451996466903"
+        ],
+        "state_type": "FBP"
+    },
+    "manulife.com.sg": {
+        "pixel_ids": [
+            "1543721125659560"
+        ],
+        "state_type": "FBP"
+    },
+    "stfrock.com.au": {
+        "pixel_ids": [
+            "964543586896638"
+        ],
+        "state_type": "FBP"
+    },
+    "protectmyid.com": {
+        "pixel_ids": [
+            "680167488685105"
+        ],
+        "state_type": "FBP"
+    },
+    "skornorth.com": {
+        "pixel_ids": [
+            "1",
+            "2195508843867439"
+        ],
+        "state_type": "FBP"
+    },
+    "hiltonhotels.com": {
+        "pixel_ids": [
+            "967617709996912"
+        ],
+        "state_type": "FBP"
+    },
+    "bohemianplus.com": {
+        "pixel_ids": [
+            "1509186386326948"
+        ],
+        "state_type": "FBP"
+    },
+    "monaonline.com": {
+        "pixel_ids": [
+            "280713143157611"
+        ],
+        "state_type": "FBP"
+    },
+    "clearstem.com": {
+        "pixel_ids": [
+            "285108948869107"
+        ],
+        "state_type": "FBP"
+    },
+    "mycarpe.com": {
+        "pixel_ids": [
+            "1642677932681680"
+        ],
+        "state_type": "FBP"
+    },
+    "handpickedhotels.co.uk": {
+        "pixel_ids": [
+            "185623638465081"
+        ],
+        "state_type": "GTM"
+    },
+    "hunkemoller.be": {
+        "pixel_ids": [
+            "418393235365762"
+        ],
+        "state_type": "FBP"
+    },
+    "poorvika.com": {
+        "pixel_ids": [
+            "2551076321883319"
+        ],
+        "state_type": "FBP"
+    },
+    "tygodnikpowszechny.pl": {
+        "pixel_ids": [
+            "842129502620963"
+        ],
+        "state_type": "GTM"
+    },
+    "pittarosso.com": {
+        "pixel_ids": [
+            "1602212906681631"
+        ],
+        "state_type": "GTM"
+    },
+    "blueland.com": {
+        "pixel_ids": [
+            "1039255249596221"
+        ],
+        "state_type": "FBP"
+    },
+    "xchief.com": {
+        "pixel_ids": [
+            "941080729632331"
+        ],
+        "state_type": "FBP"
+    },
+    "theherald.com.au": {
+        "pixel_ids": [
+            "879107572176501"
+        ],
+        "state_type": "FBP"
+    },
+    "fnx.co.il": {
+        "pixel_ids": [
+            "354302725581392",
+            "927505357820528",
+            "887976645535696"
+        ],
+        "state_type": "FBP"
+    },
+    "miclaro.com.ec": {
+        "pixel_ids": [
+            "214821873541763"
+        ],
+        "state_type": "FBP"
+    },
+    "startups.com": {
+        "pixel_ids": [
+            "1465263326873578"
+        ],
+        "state_type": "FBP"
+    },
+    "mojo.video": {
+        "pixel_ids": [
+            "660506051834297"
+        ],
+        "state_type": "GTM"
+    },
+    "secret.com": {
+        "pixel_ids": [
+            "632381807203918"
+        ],
+        "state_type": "FBP"
+    },
+    "camofire.com": {
+        "pixel_ids": [
+            "127989142669462"
+        ],
+        "state_type": "FBP"
+    },
+    "servicemagic.com": {
+        "pixel_ids": [
+            "283067868526010",
+            "634827671228483"
+        ],
+        "state_type": "FBP"
+    },
+    "totallypromotional.com": {
+        "pixel_ids": [
+            "550509548460271"
+        ],
+        "state_type": "FBP"
+    },
+    "rge-rs.com.br": {
+        "pixel_ids": [
+            "360168313822994"
+        ],
+        "state_type": "FBP"
+    },
+    "bjornborg.com": {
+        "pixel_ids": [
+            "1633455303548467"
+        ],
+        "state_type": "GTM"
+    },
+    "beautyforever.com": {
+        "pixel_ids": [
+            "263835225885480"
+        ],
+        "state_type": "FBP"
+    },
+    "blackknightinc.com": {
+        "pixel_ids": [
+            "1564460254127901"
+        ],
+        "state_type": "FBP"
+    },
+    "logilokforce.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "remax.com.br": {
+        "pixel_ids": [
+            "654069856564810"
+        ],
+        "state_type": "FBP"
+    },
+    "mcobeauty.com": {
+        "pixel_ids": [
+            "644168996288383"
+        ],
+        "state_type": "FBP"
+    },
+    "hermods.se": {
+        "pixel_ids": [
+            "246419986029931",
+            "753820581624291",
+            "369460877129737",
+            "2200308800227726",
+            "1618128135164307",
+            "2224570700948694",
+            "293559701484138",
+            "558828291215045",
+            "351918145544015",
+            "903029746753390"
+        ],
+        "state_type": "GTM"
+    },
+    "outplayhq.com": {
+        "pixel_ids": [
+            "917561033888519"
+        ],
+        "state_type": "FBP"
+    },
+    "jiraalign.com": {
+        "pixel_ids": [
+            "221213238088884"
+        ],
+        "state_type": "FBP"
+    },
+    "turijobs.com": {
+        "pixel_ids": [
+            "803827294947665",
+            "1764635983816366",
+            "327838480955420"
+        ],
+        "state_type": "GTM"
+    },
+    "wego.ae": {
+        "pixel_ids": [
+            "1624553231088837"
+        ],
+        "state_type": "GTM"
+    },
+    "garysinisefoundation.org": {
+        "pixel_ids": [
+            "434106394221327"
+        ],
+        "state_type": "FBP"
+    },
+    "indigo-herbs.co.uk": {
+        "pixel_ids": [
+            "1584831582030595"
+        ],
+        "state_type": "FBP"
+    }
+}

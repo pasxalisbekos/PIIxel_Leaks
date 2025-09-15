@@ -1,0 +1,64 @@
+{
+    "snapfish.co.nz": [
+        "em",
+        "fn",
+        "ln",
+        "ph",
+        "ge",
+        "zp",
+        "ct",
+        "st",
+        "db",
+        "country",
+        "external_id"
+    ],
+    "propertyfinder.com": [
+        "em",
+        "fn",
+        "ln",
+        "ph",
+        "ge",
+        "zp",
+        "ct",
+        "st",
+        "country",
+        "db",
+        "external_id"
+    ],
+    "flatspot.com": [
+        "em",
+        "fn",
+        "ln",
+        "ph",
+        "ge",
+        "zp",
+        "ct",
+        "st"
+    ],
+    "nimbi.com.br": [
+        "em",
+        "fn",
+        "ln",
+        "ge",
+        "ph",
+        "ct",
+        "st",
+        "zp",
+        "db",
+        "country",
+        "external_id"
+    ],
+    "velleman.eu": [
+        "em",
+        "fn",
+        "ln",
+        "ph",
+        "ge",
+        "zp",
+        "ct",
+        "st",
+        "country",
+        "db",
+        "external_id"
+    ]
+}

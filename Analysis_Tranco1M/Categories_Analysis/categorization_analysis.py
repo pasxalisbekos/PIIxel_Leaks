@@ -458,6 +458,7 @@ if __name__ == "__main__":
     plt.savefig('parameter_tracking_heatmap.pdf', dpi=300, bbox_inches='tight')
     create_stacked_barplot()    
 
+    # print(ordered_per_category_count)
 
     fig = create_sensitive_param_category_heatmap(sensitive_per_category_count, sensitive_per_category_param_percentages)
     plt.savefig('sensitive_categories_parameter_tracking_heatmap.pdf', dpi=300, bbox_inches='tight')

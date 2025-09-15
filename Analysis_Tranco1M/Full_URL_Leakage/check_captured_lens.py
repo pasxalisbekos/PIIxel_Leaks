@@ -8,10 +8,7 @@ import numpy as np
 import seaborn as sns
 from urllib.parse import urlparse
 from matplotlib.gridspec import GridSpec
-import csv
-import tldextract
-import collections
-from tabulate import tabulate
+
 
 
 def extract_hostname(url):
@@ -35,6 +32,17 @@ categories_dict = {
 }
 
 
+import os
+import re
+import json
+import csv
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd 
+import tldextract
+import collections
+from urllib.parse import urlparse
+from tabulate import tabulate
 
 
 unreachable = dict()
@@ -62,6 +70,7 @@ def get_results(category_type):
     for path, subdirs, files in os.walk('./FullURL_results'):
             for name in files:
                 temp_path = os.path.join(path,name)
+                # print(temp_path)
 
                 if temp_path.endswith("_errors.json") and category_type in temp_path:
                     data = []   
@@ -106,6 +115,7 @@ def get_results(category_type):
                             explored[domain] = data[domain]
 
     for domain in explored.keys():
+        # if domain not in unreachable.keys():
         towards_analysis[domain] = explored[domain]
 
 
@@ -139,7 +149,7 @@ def handle_complete_navigation(nav_log, requests_captured_per_subpage, website):
 
     for i in range(len(nav_log)):
         item = nav_log[i]
-        if("url" in item.keys()):
+        if("url" in item.keys()): # this is the first page (parent) step 
             pass
         else:
             if ("error" in item.keys()):
@@ -167,6 +177,7 @@ no_pixel_requests_on_subpages = []
 second_visitation_raised_error = []
 
 def get_analytics(towards_analysis):
+    # init counters and containers
     total_websites = len(towards_analysis.keys())
     no_navigation_log = []
     no_pixel_requests = []
@@ -176,11 +187,13 @@ def get_analytics(towards_analysis):
     not_pixel_activity = []
     nav_logs_total = {}
     
+    # keep track which websites have been categorized to ensure no double counting
     categorized_websites = set()
     
     for website in towards_analysis.keys():
         values = towards_analysis[website]
         
+        # -----> WE SKIP: websites that have already been categorized
         if website in categorized_websites:
             continue
             
@@ -198,11 +211,13 @@ def get_analytics(towards_analysis):
 
         visited_path_len = len(requests_captured_per_subpage.keys())
 
+        # If we have captured no Facebook Pixel requests at all during our visitation
         if visited_path_len == 0:
             no_pixel_requests.append(website)
             categorized_websites.add(website)
             continue
         
+        # Check for errors in navigation log
         if len(nav_log) > 0 and ("error" in nav_log[0].keys()):
             raised_error_before_exploration.append(website)
             categorized_websites.add(website)
@@ -213,11 +228,13 @@ def get_analytics(towards_analysis):
             categorized_websites.add(website)
             continue
             
+        # If we captured only on one page Facebook Pixel requests
         if visited_path_len == 1 or len(nav_log) == 1:
             single_visitation_only.append(towards_analysis[website])
             categorized_websites.add(website)
             continue
         
+        # Process complete navigation logs
         temp_nav_log = handle_complete_navigation(nav_log, requests_captured_per_subpage, website)
         if len(temp_nav_log) > 0:
             nav_logs_total[website] = temp_nav_log
@@ -385,8 +402,10 @@ def check_pii_leakage_with_URL_leakage(domains):
         domain_name = domain.replace('https://','').replace('http://','')
         domain_name = domain_name.split('/')[0]
         if domain_name not in unified_dataset.keys():
+            # print(domain_name)
             temp_dom = domain_name.replace('www.','')
             if temp_dom not in unified_dataset.keys():
+                # print(temp_dom)
                 not_found_in_unified += 1
             else:
                 tracked_once = 0
@@ -411,6 +430,8 @@ def check_pii_leakage_with_URL_leakage(domains):
 
                     parameters_overall_dict[param] += 1
     
+    # print(not_found_in_unified)
+    # print(parameters_overall_dict)
     print(f'At least one unique PII: {unique_PII}')
     return parameters_overall_dict
 

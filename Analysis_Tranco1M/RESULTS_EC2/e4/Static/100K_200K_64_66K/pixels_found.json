@@ -1,0 +1,5808 @@
+{
+    "playon.tv": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "playon.tv",
+                    "init": [
+                        "402371928821918"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "402371928821918",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=402371928821918&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "kentreporter.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "kentreporter.com",
+                    "init": [
+                        "1847949945485914"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1847949945485914",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1847949945485914&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "softwarekey.com": {
+        "PIXEL_GTM": {
+            "softwarekey.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KLHHF2N": [
+                        "999519153436308"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "nscc.ca": {
+        "PIXEL_GTM": {
+            "nscc.ca": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PQQPKJ3": [
+                        "610367347365530"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "moj.io": {
+        "PIXEL_GTM": {
+            "moj.io": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KB82D67": [
+                        "1838052282881347"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "isharing.us": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "isharing.us",
+                    "init": [
+                        "374263916745912"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "374263916745912",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=374263916745912&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "queopinas.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "queopinas.com",
+                    "init": [
+                        "434566996955915"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "434566996955915",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=434566996955915&amp;ev=PageView&amp;noscript=1\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "feature.fm": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "245183453828558",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=245183453828558&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "apexinvesting.com": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "1718008735110710",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1718008735110710&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "dcentwallet.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "dcentwallet.com",
+                    "init": [
+                        "472946653521667"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "uwdawgpound.com": {
+        "PIXEL_GTM": {
+            "uwdawgpound.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W8JKW6": [
+                        "594981607301768",
+                        "439774561665195"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "laurelhealth.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "laurelhealth.com",
+                    "init": [
+                        "180624270066981"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "180624270066981",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=180624270066981&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "372213038469447",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=372213038469447&amp;ev=PageView\n&amp;noscript=1\" width=\"1\">\n</img>"
+                ]
+            ]
+        }
+    },
+    "fcbanking.com": {
+        "PIXEL_GTM": {
+            "fcbanking.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PP2CWC": [
+                        "728509778834797",
+                        "214684188971581"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "msl.ua": {
+        "PIXEL_GTM": {
+            "msl.ua": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MRMLR6P": [
+                        "440604906281500"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "vmfa.museum": {
+        "PIXEL_GTM": {
+            "vmfa.museum": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WZD9MGF": [
+                        "1401480206566122"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "quickbutik.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "quickbutik.com",
+                    "init": [
+                        "883804198347527"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "entravision.com": {
+        "PIXEL_GTM": {
+            "entravision.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5CP2DG": [
+                        "510864367264114",
+                        "1124734621432910",
+                        "4976217112460438",
+                        "661255195134642",
+                        "2696748897129351",
+                        "514922106685616",
+                        "996138494067994",
+                        "5084908101573984",
+                        "2143621379120396"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "direnc.net": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "direnc.net",
+                    "init": [
+                        "596807253819561"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView', {}, {eventID: 'PageView_' + window.FB_EVENT_ID});"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "curvedream.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "curvedream.com",
+                    "init": [
+                        "283412030245412"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "283412030245412",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=283412030245412&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "sideshowtoy.com": {
+        "PIXEL_GTM": {
+            "sideshowtoy.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WHRK7N": [
+                        "923573487718348"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "atakama.com": {
+        "PIXEL_GTM": {
+            "atakama.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5X2RLXG": [
+                        "318480642192044"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "artistworks.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "artistworks.com",
+                    "init": [
+                        "887714881312372"
+                    ],
+                    "track": [
+                        "fbq('track', \"PageView\", '', {eventID: fb_event_id});"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "887714881312372",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=887714881312372&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "shoplc.de": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "shoplc.de",
+                    "init": [
+                        "687052752011347"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "687052752011347",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=687052752011347&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "jobylon.com": {
+        "PIXEL_GTM": {
+            "jobylon.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NGSLVSS": [
+                        "796729761229245"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "flashnews.gr": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "1584217285281167",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=1584217285281167&amp;ev=PageView&amp;noscript=1&amp;cd%5Bpage_title%5D=%CE%9A%CE%B5%CE%BD%CF%84%CF%81%CE%B9%CE%BA%CE%AE&amp;cd%5Bpost_type%5D=page&amp;cd%5Bpost_id%5D=488926&amp;cd%5Bplugin%5D=PixelYourSite&amp;cd%5Buser_role%5D=guest&amp;cd%5Bevent_url%5D=flashnews.gr%2F\" style=\"display: none;\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "i-sight.com": {
+        "PIXEL_GTM": {
+            "i-sight.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MMHWPN": [
+                        "465584737884272"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "bookafy.com": {
+        "PIXEL_GTM": {
+            "bookafy.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PK57V6N": [
+                        "654057005191344"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "runbuggy.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "runbuggy.com",
+                    "init": [
+                        "590324741465194"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "468430518281254",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=468430518281254&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "day.it": {
+        "PIXEL_GTM": {
+            "day.it": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5BRPQJN": [
+                        "746963092945207"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "inspirato.com": {
+        "PIXEL_GTM": {
+            "inspirato.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KCX7T6": [
+                        "703056596497266"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "universign.com": {
+        "PIXEL_GTM": {
+            "universign.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PF53D9F": [
+                        "549880423920170"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "lorealparis.com.ar": {
+        "PIXEL_GTM": {
+            "lorealparis.com.ar": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PX78G8C": [
+                        "242991619742253"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "precopopular.com.br": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "precopopular.com.br",
+                    "init": [
+                        "790783491410844"
+                    ],
+                    "track": []
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "conects.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "conects.com",
+                    "init": [
+                        "181048952281805"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "181048952281805",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=181048952281805&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "hypeboost.com": {
+        "PIXEL_GTM": {
+            "hypeboost.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NN8RRDS": [
+                        "559948298373706"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "addisonlee.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "addisonlee.com",
+                    "init": [
+                        "1257105001910262"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1257105001910262",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1257105001910262&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "photosi.com": {
+        "PIXEL_GTM": {
+            "photosi.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-JTVQ": [
+                        "805607971053198"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "seniorhelpers.com": {
+        "PIXEL_GTM": {
+            "seniorhelpers.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MMBHM9V": [
+                        "257711459295316"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "afpesp.org.br": {
+        "PIXEL_GTM": {
+            "afpesp.org.br": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TX4NXJ3": [
+                        "379127309568564"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "driscolls.com": {
+        "PIXEL_GTM": {
+            "driscolls.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MTFHWV": [
+                        "224166141555082",
+                        "643531632399809"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "paysafecash.com": {
+        "PIXEL_GTM": {
+            "paysafecash.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T8KNH4G": [
+                        "2951323338454182"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "orsted.dk": {
+        "PIXEL_GTM": {
+            "orsted.dk": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W3RMM4C": [
+                        "1691501967628020",
+                        "943009184628182"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "excel.london": {
+        "PIXEL_IN_OTHER_TP": {
+            "url": "https://excel.london",
+            "implementations": [
+                {
+                    "pixel_id": "1730643690556271",
+                    "implementation_type": "third-party",
+                    "script_url": "https://excel.london/assets/js/script.v29.js",
+                    "script_content": "// Detect pixel ratio, set into cookie and refresh page\n(function(){\n\tif( document.cookie.indexOf('device_pixel_ratio') == -1 && 'devicePixelRatio' in window && window.devicePixelRatio >= 1 ){\n\t\tvar date = new Date();\n\t\tdate.setTime( date.getTime() + 3600000 );\n\n\t\tdocument.cookie = 'device_pixel_ratio=' + window.devicePixelRatio + ';' +  ' expires=' + date.toUTCString() +'; path=/';\n\t\t//if cookies are not blocked, reload the page\n\t\tif(document.cookie.indexOf('device_pixel_ratio') != -1) {\n\t\t\twindow.location.reload();\n\t\t}\n\t}\n})();\n\nvar selectedTags = Array();\nvar filtertray = 'closed';\nvar previousTags = '';\nvar filterDate = '';\n\n\n// recaptcha check\nfunction get_action(form) \n{\n\tvar v = grecaptcha.getResponse();\n\tif(v.length == 0)\n\t{\n\t\t//document.getElementById('captcha').innerHTML=\"You can't leave Captcha Code empty\";\n\t\treturn false;\n\t}\n\telse\n\t{\n\t\t//document.getElementById('captcha').innerHTML=\"Captcha completed\";\n\t\treturn true; \n\t}\n}\n\n// Stripe setup\nvar url = window.location.href;\n//",
+                    "context": ",s)}(window, document,'script',\n\t\t'https://connect.facebook.net/en_US/fbevents.js');\n\t\tfbq('init', '1730643690556271');\n\t\tfbq('track', 'PageView');\n\t}\n\t\n\tfunction disableFacebookPixel(){\n\t\teraseCookie('_fbp');\n\t\teras",
+                    "custom_config": {
+                        "custom_events": [
+                            "events.js');\n\t\tfbq('init', '1730643690556271');\n\t\tfbq('track', 'PageView');\n\t}\n\t\n\tfunction disableFacebookPixel(){\n\t\teraseCookie('_fbp');\n\t\teraseCookie('fr');\n\t\teraseCookie('tr');\n\t}\n\t\t\n\t// Slide in cookie bar\n\t"
+                        ]
+                    }
+                }
+            ],
+            "total_implementations": 1,
+            "unique_pixels": 1
+        }
+    },
+    "ryanhomes.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "ryanhomes.com",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "2180866125302004",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2180866125302004&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "thanko.jp": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "thanko.jp",
+                    "init": [
+                        "437400171222781"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'Purchase', {value: final_price_without_currency, currency: \u2018JPY\u2019});",
+                        "fbq('track', 'FindLocation');",
+                        "fbq('track', 'Search');",
+                        "fbq('track', 'ViewContent');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "437400171222781",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=437400171222781&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "574796084273382",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=574796084273382&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "allsoft.ru": {
+        "PIXEL_IN_OTHER_TP": {
+            "url": "https://allsoft.ru",
+            "implementations": [
+                {
+                    "pixel_id": "2795389910538373",
+                    "implementation_type": "third-party",
+                    "script_url": "https://allsoft.ru/bitrix/templates/allsoft2011/js/common.js?v=73",
+                    "script_content": "(function($) {\n\n\n\n$.fn.a2BannerRotate = function(Options) {\n\tvar options = $.extend({\n\t\tstartCurrent: 0,\n\t\ttimeout: 5000,\n\t\tlinkBannersClass: \"b-link_banner\",\n\t\tlinkBannerActiveClass: \"b-link_banner_active\",\n\t\tbannerSlidesClass: \"b-banner_slide\",\n\t\tbannerSlideActiveClass: \"b-banner_slide_active\"\n\t}, Options);\n\treturn this.each(function() {\n\t\tvar $mainBlock = $(this);\n\t\tvar $linkBanners = $mainBlock.find(\".\" + options.linkBannersClass);\n\t\tvar $bannerSlides = $mainBlock.find(\".\" + options.bannerSlidesClass);\n\t\tvar current = options.startCurrent;\n\t\tvar timer;\n\t\t$mainBlock.showBanner = function(index) {\n\n\t\t\t$bannerSlides.find('.banner-mtk').attr('data-slide', 'N');\n\t\t\tlet item = $bannerSlides.eq(index).find('.banner-mtk');\n\t\t\titem.attr('data-slide', 'Y');\n\n\t\t\tlet data_scroll = item.attr('data-scroll');\n\t\t\tif (data_scroll == 'Y') {\n\t\t\t\tlet view_goal = item.data('mtk-view-goal');\n\t\t\t\tif (view_goal != \"\") {\n\t\t\t\t\tlet bn_id = item.data('banner-id');\n\t\t\t\t\tbanner.makeGoal(view_goal, bn_id);\n\t\t\t\t}",
+                    "context": "(window, document,'script',\n\t\t  'https://connect.facebook.net/en_US/fbevents.js');\n\t\t  fbq('init', '2795389910538373');\n\t\t  fbq('track', 'PageView');\n\n\t    $('.js-add_button').click(function() {\n\t    \tprice = $(this)",
+                    "custom_config": {
+                        "custom_events": [
+                            "ts.js');\n\t\t  fbq('init', '2795389910538373');\n\t\t  fbq('track', 'PageView');\n\n\t    $('.js-add_button').click(function() {\n\t    \tprice = $(this).attr('price');\n\t    \tgood_id = $(this).attr('good_id');\n\t    \tname =",
+                            "if (price!=undefined && name!=undefined) {\n\t\t    \tfbq('track', 'AddToCart', {\n\t\t\t\t\t content_name: name,    //\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\n\t\t\t\t\t content_ids: [good_id],      //\u0418\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u044b \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0445 \u0442\u043e\u0432\u0430\u0440\u043e\u0432\n\t\t\t\t\t content_type: '"
+                        ]
+                    }
+                }
+            ],
+            "total_implementations": 1,
+            "unique_pixels": 1
+        }
+    },
+    "shopfactory.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "shopfactory.com",
+                    "init": [
+                        "293184237808792"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "ettnet.se": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "ettnet.se",
+                    "init": [
+                        "449722819202873"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "449722819202873",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=449722819202873&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "wpworld.host": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "wpworld.host",
+                    "init": [
+                        "1147183902914868"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1147183902914868",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1147183902914868&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "tytocare.com": {
+        "PIXEL_GTM": {
+            "tytocare.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KMQWWXP": [
+                        "223118774168342",
+                        "759144851156623"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "sweetanalytics.com": {
+        "PIXEL_GTM": {
+            "sweetanalytics.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PTJ4BMB": [
+                        "415765270554778"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "betsafe.ee": {
+        "PIXEL_GTM": {
+            "betsafe.ee": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-522MQD": [
+                        "103416051937416",
+                        "380183542342704",
+                        "665776357199699",
+                        "1246707358718060",
+                        "1169454573124124",
+                        "1164625395377385",
+                        "1651614445770604",
+                        "644407646065905",
+                        "667004314743232",
+                        "2028663947642980",
+                        "1333207444476000",
+                        "831527427518293",
+                        "365508549119651",
+                        "453960796186106"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "animatron.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "animatron.com",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "cio.com.au": {
+        "PIXEL_GTM": {
+            "cio.com.au": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5JGZ3LH": [
+                        "783301121827721",
+                        "528995260596026"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "crisisprevention.com": {
+        "PIXEL_GTM": {
+            "crisisprevention.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W79Z": [
+                        "849935760136273",
+                        "850622655029192"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "focusconcursos.com.br": {
+        "PIXEL_GTM": {
+            "focusconcursos.com.br": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WS8RMF": [
+                        "314013231775983"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "documentodoestudante.com.br": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "documentodoestudante.com.br",
+                    "init": [
+                        "787582203250256"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "julo.co.id": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "julo.co.id",
+                    "init": [
+                        "181206109176630"
+                    ],
+                    "track": [
+                        "fbq(\"track\", \"PageView\");"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "181206109176630",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=181206109176630&amp;ev=PageView\n         &amp;noscript=1\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "world-architects.com": {
+        "PIXEL_GTM": {
+            "world-architects.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TPGRK9C": [
+                        "1978468375729952"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "area15.com": {
+        "PIXEL_GTM": {
+            "area15.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KQN9PSL": [
+                        "525538373662283",
+                        "5935699076525053",
+                        "1362200370598172",
+                        "1556453408231822",
+                        "742448061414675"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "whiskyadvocate.com": {
+        "PIXEL_GTM": {
+            "whiskyadvocate.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NRBD8TC": [
+                        "495059251962788"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "budgetinsurance.com": {
+        "PIXEL_GTM": {
+            "budgetinsurance.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MB363DK": [
+                        "167903127177682"
+                    ],
+                    "GTM-PMRML53": [
+                        "167903127177682"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "verstappen.com": {
+        "PIXEL_GTM": {
+            "verstappen.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KCRRGCC": [
+                        "1121995839007845",
+                        "142149541060511"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "rockethub.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "rockethub.com",
+                    "init": [
+                        "1771219923069038"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1771219923069038",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1771219923069038&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "289215106423485",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=289215106423485&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "friendstheexperience.com": {
+        "PIXEL_GTM": {
+            "friendstheexperience.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5FQ4PPFV": [
+                        "965416272017369"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "fiorano.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "fiorano.com",
+                    "init": [
+                        "259616454895200"
+                    ],
+                    "track": [
+                        "fbq('track','PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "259616454895200",
+                    "<img data-pagespeed-url-hash=\"851461081\" height=\"1\" src=\"https://www.facebook.com/tr?id=259616454895200&amp;ev=PageView\r\n&amp;noscript=1\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "molly.gratis": {
+        "PIXEL_GTM": {
+            "molly.gratis": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MFPJ38D": [
+                        "398651382781572"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "nextgearcapital.com": {
+        "PIXEL_GTM": {
+            "nextgearcapital.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5V9PBGV": [
+                        "1991669034403516"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "kabelshop.nl": {
+        "PIXEL_GTM": {
+            "kabelshop.nl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KQQ7C4Q": [
+                        "2815157515169234"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "nooro-us.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "nooro-us.com",
+                    "init": [
+                        "192029370112067"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "192029370112067",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=192029370112067&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "excellusbcbs.com": {
+        "PIXEL_GTM": {
+            "excellusbcbs.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MQ72Z8": [
+                        "1071718709535091",
+                        "1563795170987995"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "generali.hu": {
+        "PIXEL_GTM": {
+            "generali.hu": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TFMPVZP": [
+                        "1205959399570301"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "connectingthreads.com": {
+        "PIXEL_GTM": {
+            "connectingthreads.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NSCHHXV": [
+                        "700282140035520",
+                        "183405002404023"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "veneziaunica.it": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "veneziaunica.it",
+                    "init": [
+                        "332942483526812"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "332942483526812",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=332942483526812&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "studio-88.co.za": {
+        "PIXEL_GTM": {
+            "studio-88.co.za": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MQ6N2SC": [
+                        "1046223977155954"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "readinga-z.com": {
+        "PIXEL_GTM": {
+            "readinga-z.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TMD5JVT": [
+                        "660763031035814"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "clayton.edu": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clayton.edu",
+                    "init": [
+                        "295578285454323"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "295578285454323",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=295578285454323&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "atelier-amaya.com": {
+        "PIXEL_GTM": {
+            "atelier-amaya.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NJ2MXTN": [
+                        "247631643197156"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "graphic.jp": {
+        "PIXEL_GTM": {
+            "graphic.jp": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5FHJW8N": [
+                        "1005504766247296"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "legacyhealth.org": {
+        "PIXEL_GTM": {
+            "legacyhealth.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NSSFDB": [
+                        "588196541344939"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "2simple.com": {
+        "PIXEL_GTM": {
+            "2simple.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KK28Q2": [
+                        "385852601775245"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "thefeed.com": {
+        "PIXEL_IN_OTHER_TP": {
+            "url": "https://thefeed.com",
+            "implementations": [
+                {
+                    "pixel_id": "639546136116426",
+                    "implementation_type": "third-party",
+                    "script_url": "https://thefeed.com/_next/static/chunks/app/%5Blocale%5D/(root)/layout-799775fec4ece80d.js",
+                    "script_content": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof self?self:{},t=(new e.Error).stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]=\"c5bced52-2aa1-4752-af34-c197fe706002\",e._sentryDebugIdIdentifier=\"sentry-dbid-c5bced52-2aa1-4752-af34-c197fe706002\")}catch(e){}}(),(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6073,5738,6590,6991],{7981:function(e,t,i){Promise.resolve().then(i.bind(i,97272)),Promise.resolve().then(i.bind(i,10194)),Promise.resolve().then(i.bind(i,23609)),Promise.resolve().then(i.bind(i,14907)),Promise.resolve().then(i.t.bind(i,99033,23)),Promise.resolve().then(i.bind(i,9850)),Promise.resolve().then(i.bind(i,47618)),Promise.resolve().then(i.bind(i,83742)),Promise.resolve().then(i.bind(i,96797)),Promise.resolve().then(i.bind(i,48806)),Promise.resolve().then(i.bind(i,94996)),Promise.resolve().then(i.t.bind(i,28791,23)),Promise.resolve().then(i.bind(i,90155)),Promise.resolve().then(i.bind",
+                    "context": "ent,'script',\\n          'https://connect.facebook.net/en_US/fbevents.js');\\n          fbq('init', '639546136116426');\\n          fbq('track', 'PageView');\\n        \"}),(0,n.jsx)(s.default,{id:\"drip-inline\",children",
+                    "custom_config": {
+                        "custom_events": [
+                            "       fbq('init', '639546136116426');\\n          fbq('track', 'PageView');\\n        \"}),(0,n.jsx)(s.default,{id:\"drip-inline\",children:\"\\n          var _dcq = _dcq || [];\\n          var _dcs = _dcs || {};\\n    ",
+                            "oductName:i=\"\",price:n=0}=e;window.fbq&&t&&window.fbq(\"track\",\"AddToCart\",{content_ids:[t.toString()],content_name:i,content_type:\"product_group\",value:n,currency:\"USD\"})},trackProduct:e=>{try{let t=(0,r.ej)(\"pr"
+                        ]
+                    }
+                }
+            ],
+            "total_implementations": 1,
+            "unique_pixels": 1
+        }
+    },
+    "contpaqi.com": {
+        "PIXEL_GTM": {
+            "contpaqi.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TSZKB4F": [
+                        "571666897358797"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "billyjoel.com": {
+        "PIXEL_GTM": {
+            "billyjoel.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MQX3XB": [
+                        "336617377178130",
+                        "977700965768537",
+                        "146714904084883",
+                        "153628082142612",
+                        "412904915022473",
+                        "386920928936604",
+                        "814166172015834",
+                        "948432418826100",
+                        "2252529331701387",
+                        "716606501766430",
+                        "360115874131187",
+                        "395020201211245",
+                        "310367642821572"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "cyclomedia.com": {
+        "PIXEL_GTM": {
+            "cyclomedia.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K2VSP89": [
+                        "974929330570153"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "hungry-girl.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "hungry-girl.com",
+                    "init": [
+                        "1020441411357857"
+                    ],
+                    "track": [
+                        "fbq('track', \"PageView\");"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1020441411357857",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1020441411357857&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "harzkurier.de": {
+        "PIXEL_GTM": {
+            "harzkurier.de": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PFPF5KK": [
+                        "1050753279080834"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "holistiplan.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "holistiplan.com",
+                    "init": [
+                        "434666561094263"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "434666561094263",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=434666561094263&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "maspatule.com": {
+        "PIXEL_GTM": {
+            "maspatule.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T8V78C": [
+                        "1725390994360648"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "dunnedwards.com": {
+        "PIXEL_GTM": {
+            "dunnedwards.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KSQJGD": [
+                        "256080461555817"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "journal.hr": {
+        "PIXEL_GTM": {
+            "journal.hr": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-53HSBNK": [
+                        "313384527787126"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "bit-erp.ru": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "bit-erp.ru",
+                    "init": [
+                        "985306868306448"
+                    ],
+                    "track": [
+                        "fbq('track','PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "985306868306448",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=985306868306448&amp;ev=PageView&amp;agent=pltilda&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "behindthemarkets.com": {
+        "PIXEL_GTM": {
+            "behindthemarkets.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WNRH3TX": [
+                        "926011172542252",
+                        "2532639316933378"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "thehistorypress.co.uk": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "thehistorypress.co.uk",
+                    "init": [
+                        "1560376744704938"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1560376744704938",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1560376744704938&amp;ev=PageView\n\t\t\t  &amp;noscript=1\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "kbr.be": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "kbr.be",
+                    "init": [
+                        "522745899077497"
+                    ],
+                    "track": []
+                }
+            ],
+            "lightweight": [
+                [
+                    "522745899077497",
+                    "<img alt=\"fbpx\" height=\"1\" src=\"https://www.facebook.com/tr?id=522745899077497&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "kindlepreneur.com": {
+        "PIXEL_GTM": {
+            "kindlepreneur.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5ZRTZBR": [
+                        "496756953830133"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "fsinsight.com": {
+        "PIXEL_GTM": {
+            "fsinsight.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T694QRK": [
+                        "561398272598451"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "canvasondemand.com": {
+        "PIXEL_GTM": {
+            "canvasondemand.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-VLJRD": [
+                        "1215578795133494"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "mrappliance.com": {
+        "PIXEL_GTM": {
+            "mrappliance.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PPG7SSK": [
+                        "779282379286832",
+                        "958965916051847",
+                        "492520855276072",
+                        "826579564773709",
+                        "440223348022657",
+                        "969006389972792",
+                        "220522979260160",
+                        "291794814837687",
+                        "1264483107248426",
+                        "508096636990486",
+                        "225479804990086",
+                        "377301293192670",
+                        "2514915055204383",
+                        "379364262914876",
+                        "370455340206412"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "ordermentum.com": {
+        "PIXEL_GTM": {
+            "ordermentum.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TCKZFR8": [
+                        "624974371342973"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "mirvish.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "mirvish.com",
+                    "init": [
+                        "687195344748464"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "687195344748464",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=687195344748464&amp;ev=PageView\n    &amp;noscript=1\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "arkenzoo.se": {
+        "PIXEL_GTM": {
+            "arkenzoo.se": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NQXVHS7": [
+                        "984333874989802",
+                        "362508160591707",
+                        "519052994935368",
+                        "1027131838768603",
+                        "1718752965073190",
+                        "791601625856806"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "agaroot.jp": {
+        "PIXEL_GTM": {
+            "agaroot.jp": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5HD2CLF": [
+                        "228397267700923",
+                        "1483346195916801",
+                        "2354940688030731"
+                    ],
+                    "GTM-NX5ZMGP7": [
+                        "502754542185257"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "subaruoutback.org": {
+        "PIXEL_GTM": {
+            "subaruoutback.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NRZJZTJ": [
+                        "5729616248438784"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "sitebuilderreport.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "sitebuilderreport.com",
+                    "init": [
+                        "830363047630941"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "830363047630941",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=830363047630941&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "royaldesign.se": {
+        "PIXEL_GTM": {
+            "royaldesign.se": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NC874VM": [
+                        "1731456470288345",
+                        "305673183470570"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "profuturo.mx": {
+        "PIXEL_GTM": {
+            "profuturo.mx": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TJXK2RR4": [
+                        "7642441572449840"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "geekculture.co": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "geekculture.co",
+                    "init": [
+                        "920701884749425"
+                    ],
+                    "track": []
+                }
+            ],
+            "lightweight": [
+                [
+                    "920701884749425",
+                    "<img alt=\"fbpx\" height=\"1\" src=\"https://www.facebook.com/tr?id=920701884749425&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "920701884749425",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=920701884749425&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "sss.fi": {
+        "PIXEL_GTM": {
+            "sss.fi": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5WQFFCG": [
+                        "1005348004609982"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "patrolbase.co.uk": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "patrolbase.co.uk",
+                    "init": [
+                        "197599847604987"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "197599847604987",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=197599847604987&amp;ev=PageView&amp;noscript=1\" style=\"display: none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "knapp.com": {
+        "PIXEL_GTM": {
+            "knapp.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MTDH669": [
+                        "629327905470017"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "teletal.hu": {
+        "PIXEL_GTM": {
+            "teletal.hu": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KSLZHJC": [
+                        "556660178585765"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "grv.org.au": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "grv.org.au",
+                    "init": [
+                        "838681189556200"
+                    ],
+                    "track": [
+                        "fbq('track', \"PageView\");"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "838681189556200",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=838681189556200&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "prezentmarzen.com": {
+        "PIXEL_GTM": {
+            "prezentmarzen.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MTS4PF": [
+                        "1561959574015871"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "valleyviewcasino.com": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "1752938511447436",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1752938511447436&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "asc-aqua.org": {
+        "PIXEL_GTM": {
+            "asc-aqua.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-N85KHKR": [
+                        "1071486717011614"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "honestdocs.id": {
+        "PIXEL_GTM": {
+            "honestdocs.id": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5GKFRSG": [
+                        "619872925404258"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "kemma.hu": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "kemma.hu",
+                    "init": [
+                        "1637596699829896"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1637596699829896",
+                    "<img alt=\"fb-noscript\" height=\"1\" src=\"https://www.facebook.com/tr?id=1637596699829896&amp;ev=PageView&amp;noscript=1\" style=\"display: none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "paulekman.com": {
+        "PIXEL_GTM": {
+            "paulekman.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W8BW7K": [
+                        "1110063590108792"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "plateiq.com": {
+        "PIXEL_GTM": {
+            "plateiq.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TWFSHQ9": [
+                        "533790614358433"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "meta-inf.hu": {
+        "PIXEL_GTM": {
+            "meta-inf.hu": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-584498T": [
+                        "1558163917811203"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "textmaster.com": {
+        "PIXEL_GTM": {
+            "textmaster.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NG9X73": [
+                        "433835621695480"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "greelane.com": {
+        "PIXEL_GTM": {
+            "greelane.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5MM5T5N": [
+                        "3609124934128625"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "nicenews.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "nicenews.com",
+                    "init": [
+                        "751124273872912"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "goetheweb.jp": {
+        "PIXEL_GTM": {
+            "goetheweb.jp": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W6R69JW": [
+                        "1010495534003914"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "comevo.com": {
+        "PIXEL_GTM": {
+            "comevo.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KRTD897": [
+                        "595810464477102"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "scraperapi.com": {
+        "PIXEL_GTM": {
+            "scraperapi.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K4CBW6S": [
+                        "452943788578060"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "brampton.ca": {
+        "PIXEL_GTM": {
+            "brampton.ca": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TFFSCBW": [
+                        "423142638170427",
+                        "1423243401153955"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "intellectdesign.com": {
+        "PIXEL_GTM": {
+            "intellectdesign.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-P2GWKJ7": [
+                        "395272809535334"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "snowplow.io": {
+        "PIXEL_GTM": {
+            "snowplow.io": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PBMV98P": [
+                        "156963686538808"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "cdp.it": {
+        "PIXEL_GTM": {
+            "cdp.it": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TPKZ3DX": [
+                        "1149043579785424"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "nvdaily.com": {
+        "PIXEL_GTM": {
+            "nvdaily.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TNRWV7R6": [
+                        "1057288579308337"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "cinchhomeservices.com": {
+        "PIXEL_GTM": {
+            "cinchhomeservices.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KBWJBB4": [
+                        "1445059575647250"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "uvv.br": {
+        "PIXEL_GTM": {
+            "uvv.br": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WX9N7NX": [
+                        "449716689409286"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "winchester.ac.uk": {
+        "PIXEL_GTM": {
+            "winchester.ac.uk": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W3W53B5": [
+                        "694908027699397",
+                        "1234230550309998"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "inter-state.com": {
+        "PIXEL_GTM": {
+            "inter-state.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MWHZPF": [
+                        "654980084640206"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "kanal5.com.mk": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "kanal5.com.mk",
+                    "init": [
+                        "151220180146180"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "151220180146180",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=151220180146180&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "lovedeco.ro": {
+        "PIXEL_GTM": {
+            "lovedeco.ro": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K4P3RWS": [
+                        "717148552493497"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "myimprov.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "myimprov.com",
+                    "init": [
+                        "945760118797143"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "945760118797143",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=945760118797143&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "librarycalendar.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "librarycalendar.com",
+                    "init": [
+                        "404830223270984"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "404830223270984",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=404830223270984&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\">\n</img>"
+                ]
+            ]
+        }
+    },
+    "motor.no": {
+        "PIXEL_GTM": {
+            "motor.no": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T4KZ2F": [
+                        "2100596786686427",
+                        "1497646786951583"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "pnbmetlife.com": {
+        "PIXEL_GTM": {
+            "pnbmetlife.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WHHFCS": [
+                        "446839432424187",
+                        "1159055292457709",
+                        "828933347682637",
+                        "191214304958388",
+                        "1716200682466119"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "cgi.ca": {
+        "PIXEL_GTM": {
+            "cgi.ca": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WH6C33NT": [
+                        "488717005138198",
+                        "103046209549631",
+                        "1599812376996882"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "myprotime.eu": {
+        "PIXEL_GTM": {
+            "myprotime.eu": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KKLH4P8": [
+                        "974630416075008",
+                        "1258594622185945",
+                        "119303702052831"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "mylofamily.com": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "1560174350951119",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=1560174350951119&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "haberkibris.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "haberkibris.com",
+                    "init": [
+                        "507922259735003"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "507922259735003",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=507922259735003&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "pickleballcentral.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "pickleballcentral.com",
+                    "init": [
+                        "2321409431445128"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView', {}, {\"eventID\":\"2e554335-0a27-4bd5-8e5a-8d43d678559b\"});"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "2321409431445128",
+                    "<img alt=\"null\" height=\"1\" src=\"https://www.facebook.com/tr?id=2321409431445128&amp;ev=PageView&amp;noscript=1&amp;a=plbigcommerce1.2&amp;eid=2e554335-0a27-4bd5-8e5a-8d43d678559b\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "athletico.com.br": {
+        "PIXEL_GTM": {
+            "athletico.com.br": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KFJT2WT": [
+                        "552507885493757"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "drscholls.com": {
+        "PIXEL_GTM": {
+            "drscholls.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-P2LXD32": [
+                        "413828689536571"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "gleneagles.com": {
+        "PIXEL_GTM": {
+            "gleneagles.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TKTTLK3": [
+                        "592626227962787",
+                        "459102947821989"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "flipgive.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "flipgive.com",
+                    "init": [
+                        "459144104291391"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "brinksinc.com": {
+        "PIXEL_GTM": {
+            "brinksinc.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PZK6H94": [
+                        "582400233029901"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "marcumllp.com": {
+        "PIXEL_GTM": {
+            "marcumllp.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PLCJXCD": [
+                        "1608222929439638"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "liveauctionworld.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "liveauctionworld.com",
+                    "init": [
+                        "338972392930592",
+                        "425857275818181"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "338972392930592",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=338972392930592&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "425857275818181",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=425857275818181&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "playonrecorder.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "playonrecorder.com",
+                    "init": [
+                        "402371928821918"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "402371928821918",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=402371928821918&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "progenda.be": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "progenda.be",
+                    "init": [
+                        "242983312798657"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "242983312798657",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=242983312798657&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "endian.com": {
+        "PIXEL_GTM": {
+            "endian.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NZM66G7": [
+                        "317054808803126"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "opendoorsusa.org": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "opendoorsusa.org",
+                    "init": [
+                        "748314069958702"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "748314069958702",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=748314069958702&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "vitafy.de": {
+        "PIXEL_GTM": {
+            "vitafy.de": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-G3C2": [
+                        "228507527348515"
+                    ]
+                },
+                "base_code_type": "simple_list",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "waternet.nl": {
+        "PIXEL_GTM": {
+            "waternet.nl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MZKNZ4": [
+                        "847842202395293"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "ichijo.co.jp": {
+        "PIXEL_GTM": {
+            "ichijo.co.jp": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MRBFRK": [
+                        "940021316162592",
+                        "683797568980707",
+                        "529591054857925",
+                        "1497595497482280",
+                        "400885607668639",
+                        "492690061479520"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "taxamo.com": {
+        "PIXEL_GTM": {
+            "taxamo.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-M58NNXB": [
+                        "944539019423231"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "mycharisma.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "mycharisma.com",
+                    "init": [
+                        "592148652725171"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "592148652725171",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=592148652725171&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "tedcruz.org": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "tedcruz.org",
+                    "init": [
+                        "2033579740242926"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "2033579740242926",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2033579740242926&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "hoopshabit.com": {
+        "PIXEL_GTM": {
+            "hoopshabit.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TCW5HW": [
+                        "6120327217993824",
+                        "403353812126389",
+                        "256815508846618",
+                        "739763452834773",
+                        "1112903852997918"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "rynek-kolejowy.pl": {
+        "PIXEL_GTM": {
+            "rynek-kolejowy.pl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MZ2GW7K": [
+                        "1307778219367054"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "f5k.ru": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "f5k.ru",
+                    "init": [
+                        "884036195847170"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "884036195847170",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=884036195847170&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "kwikrewards.com": {
+        "PIXEL_GTM": {
+            "kwikrewards.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NS73PVR": [
+                        "1031312086892388",
+                        "2128951867326538"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "iibc-global.org": {
+        "PIXEL_GTM": {
+            "iibc-global.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K8VPMZ": [
+                        "708149461122817",
+                        "1224162264271751",
+                        "3345960069068208",
+                        "671348518419276",
+                        "459023713198951",
+                        "830673687458471"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "paper.id": {
+        "PIXEL_GTM": {
+            "paper.id": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5647T8B": [
+                        "651669989268840"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "feestbazaar.nl": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "feestbazaar.nl",
+                    "init": [
+                        "339237940251751"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView', []);"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "339237940251751",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=339237940251751&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "mnp.ca": {
+        "PIXEL_GTM": {
+            "mnp.ca": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5W4G94": [
+                        "646533537540541",
+                        "226665578865935",
+                        "713135758770782"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "govloop.com": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "732801913406742",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=732801913406742&amp;ev=PixelInitialized\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "starbucksathome.com": {
+        "PIXEL_GTM": {
+            "starbucksathome.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-M56KF67": [
+                        "1366201850382139"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "smmfollows.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "smmfollows.com",
+                    "init": [
+                        "911446472243186"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "911446472243186",
+                    "<img alt=\"Facebook Pixel Code\" class=\"hidden\" height=\"1\" src=\"https://www.facebook.com/tr?id=911446472243186&amp;ev=PageView&amp;noscript=1\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "madisonriver.net": {
+        "PIXEL_GTM": {
+            "madisonriver.net": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-55LHQGV": [
+                        "4692104954249216"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "casinoregina.com": {
+        "PIXEL_GTM": {
+            "casinoregina.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W97CP5F": [
+                        "210295782810738"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "chaffey.edu": {
+        "PIXEL_GTM": {
+            "chaffey.edu": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KXFBKHL": [
+                        "829877528257118"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "janeapp.co.uk": {
+        "PIXEL_GTM": {
+            "janeapp.co.uk": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K5496WW2": [
+                        "478029256059576"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "namecheapapi.com": {
+        "PIXEL_GTM": {
+            "namecheapapi.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-544JFM": [
+                        "1420159808240413"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "the-digital-reader.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "the-digital-reader.com",
+                    "init": [
+                        "501909555859601"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "501909555859601",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=501909555859601&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "alicecooper.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "alicecooper.com",
+                    "init": [
+                        "1011857638879534"
+                    ],
+                    "track": [
+                        "fbq('track', \"PageView\");"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1011857638879534",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1011857638879534&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "386920928936604",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=386920928936604&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "hollister.com": {
+        "PIXEL_GTM": {
+            "hollister.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PX7DDL": [
+                        "1864104873861104"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "neotel.com.mk": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "neotel.com.mk",
+                    "init": [
+                        "393210791613653"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "393210791613653",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=393210791613653&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "dailyyoga.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "dailyyoga.com",
+                    "init": [
+                        "1298233417726519"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1298233417726519",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1298233417726519&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "mcfc.co.uk": {
+        "PIXEL_GTM": {
+            "mcfc.co.uk": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-P9PGGKP": [
+                        "1305994017243444",
+                        "1276110053403449",
+                        "1780898995470641"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "down4soundshop.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "down4soundshop.com",
+                    "init": [
+                        "1541085389383161"
+                    ],
+                    "track": []
+                }
+            ],
+            "lightweight": [
+                [
+                    "1541085389383161",
+                    "<img alt=\"null\" height=\"1\" src=\"https://www.facebook.com/tr?id=1541085389383161&amp;ev=PageView&amp;noscript=1&amp;a=plbigcommerce1.2&amp;eid=f71d5a04-bff4-4ea7-9377-2b2c2a85748f\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "clinicaalemana.cl": {
+        "PIXEL_GTM": {
+            "clinicaalemana.cl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-M4PW6M": [
+                        "2754313858217188"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "ridewill.it": {
+        "PIXEL_GTM": {
+            "ridewill.it": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MZM9SSS": [
+                        "221027751613211"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "charbroil.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "charbroil.com",
+                    "init": [
+                        "2122052634777671",
+                        "2122052634777671"
+                    ],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", pageViewData, pageViewEventIdObj);"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "doku.com": {
+        "PIXEL_GTM": {
+            "doku.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NNJ7XK9": [
+                        "762917667869961"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "unify.com": {
+        "PIXEL_GTM": {
+            "unify.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KRCLKN": [
+                        "430733777757298"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "godanriver.com": {
+        "PIXEL_GTM": {
+            "godanriver.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TDWDC2": [
+                        "489016488837408"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "landc.co.uk": {
+        "PIXEL_GTM": {
+            "landc.co.uk": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5RXQNDT6": [
+                        "709908879086645"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "badewelt-sinsheim.de": {
+        "PIXEL_GTM": {
+            "badewelt-sinsheim.de": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KMCRJ7DL": [
+                        "135937206953657",
+                        "1909954909241216",
+                        "802823653162262"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "dcunited.com": {
+        "PIXEL_GTM": {
+            "dcunited.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TZ9F6LF": [
+                        "1159112544447178",
+                        "440570806284128",
+                        "427273654663741",
+                        "1703110776625248",
+                        "758178195410230",
+                        "1403482949936633",
+                        "467954086996576",
+                        "266160081004964",
+                        "1942564076003314",
+                        "615622713614355",
+                        "820950454973050",
+                        "1408754312758518",
+                        "870174420776387",
+                        "978743325536123",
+                        "2865205890373325",
+                        "161356589496000",
+                        "553433960213541",
+                        "1659916854290228",
+                        "1546178015676027",
+                        "611480095723420",
+                        "216350648945480",
+                        "5373494236049475",
+                        "560497205844924",
+                        "129545407785823",
+                        "1288173418673034",
+                        "239586103402178",
+                        "435733663903260",
+                        "1687741684886082"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "theaftd.org": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "theaftd.org",
+                    "init": [
+                        "621027033186083"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "621027033186083",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=621027033186083&amp;ev=PageView &amp;noscript=1\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "ggamaur.net": {
+        "PIXEL_GTM": {
+            "ggamaur.net": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MK9XPCP": [
+                        "1266736483754541"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "dac.dk": {
+        "PIXEL_GTM": {
+            "dac.dk": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T4HFNFB": [
+                        "662125387255260"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "merano-suedtirol.it": {
+        "PIXEL_GTM": {
+            "merano-suedtirol.it": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5RN2SS6": [
+                        "847317895445988",
+                        "1019504411440833",
+                        "1449163968458637",
+                        "230409701018611"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "transformcredit.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "transformcredit.com",
+                    "init": [
+                        "719342283668660"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "719342283668660",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=719342283668660&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "callkeeper.ru": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "callkeeper.ru",
+                    "init": [
+                        "903310053432022"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "japanesepod101.com": {
+        "PIXEL_GTM": {
+            "japanesepod101.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TZWV3FR": [
+                        "521061188924593",
+                        "191493026787311",
+                        "1065955806857875",
+                        "212012974097553",
+                        "279454563914912",
+                        "327212596949005"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "originalgames.io": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "originalgames.io",
+                    "init": [
+                        "873209630652393"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "873209630652393",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=873209630652393&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "873209630652393",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=873209630652393&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "profiauto.net": {
+        "PIXEL_GTM": {
+            "profiauto.net": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PCNFLT": [
+                        "628677704844447",
+                        "614193729891320",
+                        "1200910060355042"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "vandra.ai": {
+        "PIXEL_GTM": {
+            "vandra.ai": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5VMBKVF": [
+                        "424756916367215"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "safesurfer.io": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "safesurfer.io",
+                    "init": [
+                        "793781398270536"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "793781398270536",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=793781398270536&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "uktsc.com": {
+        "PIXEL_GTM": {
+            "uktsc.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KL5ZJNPF": [
+                        "1089486417768465",
+                        "3572576499461397",
+                        "650770605545312"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "upperdeck.com": {
+        "PIXEL_GTM": {
+            "upperdeck.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KK7MHL7D": [
+                        "610012404561778"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "solarsystemscope.com": {
+        "PIXEL_GTM": {
+            "solarsystemscope.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MDW8FQ9": [
+                        "1891110627883000"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "deliveroo.com.kw": {
+        "PIXEL_GTM": {
+            "deliveroo.com.kw": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PMJMHHC": [
+                        "1666308043654355",
+                        "566288674934870"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "ucare.org": {
+        "PIXEL_GTM": {
+            "ucare.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-M4RM886": [
+                        "424579525690355",
+                        "361968424340191"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "vintageguitar.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "vintageguitar.com",
+                    "init": [
+                        "622585878234745"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "622585878234745",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=622585878234745&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "297158475837983",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=297158475837983&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "rankingcoach.com": {
+        "PIXEL_GTM": {
+            "rankingcoach.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WMVJTV": [
+                        "1476860212620636"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "siviaggia.it": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "siviaggia.it",
+                    "init": [
+                        "689653194723723"
+                    ],
+                    "track": []
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "bemytravelmuse.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "bemytravelmuse.com",
+                    "init": [
+                        "553786848103720"
+                    ],
+                    "track": [
+                        "fbq(\"track\", \"PageView\");"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "553786848103720",
+                    "<img alt=\"facebook\" height=\"1\" src=\"https://www.facebook.com/tr?id=553786848103720&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "feedonomics.com": {
+        "PIXEL_GTM": {
+            "feedonomics.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MFRBT6N": [
+                        "1374435775943494"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "contagionlive.com": {
+        "PIXEL_GTM": {
+            "contagionlive.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5VPZP4P": [
+                        "504667411879111"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "voiso.com": {
+        "PIXEL_GTM": {
+            "voiso.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KBBX4RN": [
+                        "909419167073508"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "vatgia.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "vatgia.com",
+                    "init": [
+                        "918662285244232"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "918662285244232",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=918662285244232&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "reachmee.com": {
+        "PIXEL_GTM": {
+            "reachmee.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WNW82JK": [
+                        "683436076281354",
+                        "600501110975299",
+                        "1121466759640781"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "medik8.com": {
+        "PIXEL_GTM": {
+            "medik8.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PGVVZSD": [
+                        "1133551866728996"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "alpiniste.fr": {
+        "PIXEL_GTM": {
+            "alpiniste.fr": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-D3S6XVG": [
+                        "1612081058808094"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "fifthplay.com": {
+        "PIXEL_GTM": {
+            "fifthplay.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K7Q74BX": [
+                        "194519537667223"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "eventbrite.at": {
+        "PIXEL_GTM": {
+            "eventbrite.at": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5P8FXJ": [
+                        "860573327346891",
+                        "722929966719902"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "da88.win": {
+        "PIXEL_GTM": {
+            "da88.win": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WHZQLGW2": [
+                        "1167031421169533",
+                        "1667970240673728",
+                        "1167664628260277",
+                        "3972642023022387",
+                        "1110978083328462",
+                        "3803389546596006",
+                        "615454280842401",
+                        "385853960876153",
+                        "767603405523248",
+                        "1122566362676208",
+                        "334742309668049",
+                        "3618156961783228",
+                        "1482617182351331",
+                        "436288259228608",
+                        "903588881795243",
+                        "2194580114239936",
+                        "1029489695463641",
+                        "962269768923286",
+                        "1377163967008974",
+                        "596348473130620"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "somn.io": {
+        "PIXEL_GTM": {
+            "somn.io": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5MBMD9NJ": [
+                        "958028414921697"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "theorie-leren.nl": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "668568221522701",
+                    "<img alt=\"\" height=\"1\" loading=\"lazy\" src=\"https://www.facebook.com/tr?id=668568221522701&amp;ev=PageView&amp;noscript=1&amp;cd%5Bpage_title%5D=Theorie+examen+oefenen&amp;cd%5Bpost_type%5D=page&amp;cd%5Bpost_id%5D=15995&amp;cd%5Bplugin%5D=PixelYourSite&amp;cd%5Buser_role%5D=guest&amp;cd%5Bevent_url%5D=theorie-leren.nl%2F\" style=\"display: none;\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "naadam.co": {
+        "PIXEL_GTM": {
+            "naadam.co": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MZRD7H7": [
+                        "1329054443868128"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "massresort.com": {
+        "PIXEL_GTM": {
+            "massresort.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-M6HPZF": [
+                        "1654287231564139"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "blendtec.com": {
+        "PIXEL_GTM": {
+            "blendtec.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5LX4V32": [
+                        "902786607606911"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "pdnonline.com": {
+        "PIXEL_GTM": {
+            "pdnonline.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NQPD2D": [
+                        "1565129323673062",
+                        "1116492298370725"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "unired.cl": {
+        "PIXEL_GTM": {
+            "unired.cl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KGX4PK": [
+                        "341027525757104",
+                        "1726940590676505"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "rich.com": {
+        "PIXEL_GTM": {
+            "rich.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-P8WDKTW": [
+                        "373834206991944",
+                        "303273543354653"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "valleywisehealth.org": {
+        "PIXEL_GTM": {
+            "valleywisehealth.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NNPGMWF": [
+                        "617279356967199"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "radiocomercial.pt": {
+        "PIXEL_GTM": {
+            "radiocomercial.pt": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5TL5Z5K": [
+                        "8646870903487785",
+                        "807869310168749"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "acer.org": {
+        "PIXEL_GTM": {
+            "acer.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KRVFTV8": [
+                        "951141128817611",
+                        "384428168605914"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "dsm5.org": {
+        "PIXEL_GTM": {
+            "dsm5.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KD7VST": [
+                        "114716565836440"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "elgin.edu": {
+        "PIXEL_GTM": {
+            "elgin.edu": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TXT7CH": [
+                        "415658952793223"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "vapi.ai": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "vapi.ai",
+                    "init": [
+                        "1294407825096884"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1294407825096884",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=1294407825096884&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "snapfish.com.au": {
+        "PIXEL_GTM": {
+            "snapfish.com.au": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WNMS26W": [
+                        "413582659024154",
+                        "332831933811870",
+                        "442389662612530",
+                        "138941989920850",
+                        "179500702597944",
+                        "768860346628154",
+                        "1730212533949486",
+                        "424541901064485"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "theconversioncloud.com": {
+        "PIXEL_GTM": {
+            "theconversioncloud.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NRMFPZP": [
+                        "1747313322080841"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "iguana.cat": {
+        "PIXEL_GTM": {
+            "iguana.cat": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5SRSQP": [
+                        "215011122164344"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "brut.media": {
+        "PIXEL_GTM": {
+            "brut.media": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NWP2RJ44": [
+                        "567536587479732"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "fractalaudio.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "fractalaudio.com",
+                    "init": [
+                        "3453615758078215"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "3453615758078215",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=3453615758078215&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "clarios.com": {
+        "PIXEL_GTM": {
+            "clarios.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TCD8JGN": [
+                        "557687669054601"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "cognia.org": {
+        "PIXEL_GTM": {
+            "cognia.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NVMRF57": [
+                        "1524429631096086"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "daystarr.net": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "daystarr.net",
+                    "init": [
+                        "798497557207539"
+                    ],
+                    "track": []
+                }
+            ],
+            "lightweight": [
+                [
+                    "798497557207539",
+                    "<img alt=\"fbpx\" height=\"1\" src=\"https://www.facebook.com/tr?id=798497557207539&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "inone.com": {
+        "PIXEL_GTM": {
+            "inone.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K3333Z5": [
+                        "1746918792748912"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "blazemedia.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "blazemedia.com",
+                    "init": [
+                        "1398069580413568"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1398069580413568",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1398069580413568&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "thebridalbox.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "thebridalbox.com",
+                    "init": [
+                        "1317903971590708"
+                    ],
+                    "track": [
+                        "fbq('track','PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "levi.jp": {
+        "PIXEL_GTM": {
+            "levi.jp": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WGLLXCG": [
+                        "387748790685390"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "beisbolplay.com": {
+        "PIXEL_GTM": {
+            "beisbolplay.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5T7FDLV": [
+                        "934467497512524"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "sonalika.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "sonalika.com",
+                    "init": [
+                        "1424724607986788"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1424724607986788",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1424724607986788&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "myneworleans.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "myneworleans.com",
+                    "init": [
+                        "869035463574316"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "869035463574316",
+                    "<img class=\"pixel\" height=\"1\" src=\"https://www.facebook.com/tr?id=869035463574316&amp;ev=PageView&amp;noscript=1\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "exodustravels.com": {
+        "PIXEL_GTM": {
+            "exodustravels.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MKB6H8": [
+                        "4420344864706948",
+                        "683133015389225"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "jfk.org": {
+        "PIXEL_GTM": {
+            "jfk.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5TMW2V4": [
+                        "453460690344625"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "nureva.com": {
+        "PIXEL_GTM": {
+            "nureva.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WJDFG8D": [
+                        "195616077898072"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "aitrillion.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "aitrillion.com",
+                    "init": [
+                        "660577090986758"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "660577090986758",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=660577090986758&amp;ev=PageView\n&amp;noscript=1\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "giftsforyounow.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "giftsforyounow.com",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'Search');",
+                        "fbq('track', 'Search');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "joinmochi.com": {
+        "PIXEL_GTM": {
+            "joinmochi.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5B32S8B8": [
+                        "917187753235257",
+                        "811480227789774"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "speakerhub.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "speakerhub.com",
+                    "init": [
+                        "1830697187683332"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "twr360.org": {
+        "PIXEL_GTM": {
+            "twr360.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W39BLS": [
+                        "237400220087396",
+                        "591014337757975"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "businessmap.io": {
+        "PIXEL_GTM": {
+            "businessmap.io": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5J95Z6J": [
+                        "819539818226937"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "thebark.com": {
+        "PIXEL_GTM": {
+            "thebark.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K99R86RH": [
+                        "279801620424322",
+                        "123456789123456"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "campminder.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "campminder.com",
+                    "init": [
+                        "882488759038632"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "882488759038632",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=882488759038632&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "forbesargentina.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "forbesargentina.com",
+                    "init": [
+                        "565765784789096"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "565765784789096",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=565765784789096&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "tyzhden.ua": {
+        "PIXEL_GTM": {
+            "tyzhden.ua": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PK9HWTL": [
+                        "746134956327940"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "mymixtapez.com": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "476123461173074",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=476123461173074&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "clinicalascondes.cl": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clinicalascondes.cl",
+                    "init": [
+                        "837591200913302"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "837591200913302",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=837591200913302&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "tamadres.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "tamadres.com",
+                    "init": [
+                        "711374649474129"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView', {\n  source: \"magento2\",\n  version: \"2.4.2-p1\",\n  pluginVersion: \"1.0.0\"\n});"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "711374649474129",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=711374649474129&amp;ev=PageView&amp;noscript=1&amp;a=magento2-2.4.2-p1-1.0.0\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "eviemagazine.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "eviemagazine.com",
+                    "init": [
+                        "873553954270188"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "ritual.co": {
+        "PIXEL_GTM": {
+            "ritual.co": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W7FLFR4": [
+                        "410933459779413"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "estherperel.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "estherperel.com",
+                    "init": [
+                        "1430405220601399"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "eveworkbench.com": {
+        "PIXEL_GTM": {
+            "eveworkbench.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PSL4KS": [
+                        "9504571883281148"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "moshicom.com": {
+        "PIXEL_GTM": {
+            "moshicom.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5N5765": [
+                        "775033086352780"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "vlerick.com": {
+        "PIXEL_GTM": {
+            "vlerick.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WWRNFX": [
+                        "597919036985109"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "simonmed.com": {
+        "PIXEL_GTM": {
+            "simonmed.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-N3KQ9KG": [
+                        "1036260518557400",
+                        "355789741485921"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "airly.org": {
+        "PIXEL_GTM": {
+            "airly.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WLVQ75K": [
+                        "256252100812975"
+                    ],
+                    "GTM-NDBDHH4": [
+                        "298403498055428"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "cellularoneonline.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "cellularoneonline.com",
+                    "init": [
+                        "844199310373624"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "844199310373624",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=844199310373624&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "didafashion.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "didafashion.com",
+                    "init": [
+                        "1024095161770016"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView', {}, {eventID: id});"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1024095161770016",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1024095161770016&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "homify.co.uk": {
+        "PIXEL_GTM": {
+            "homify.co.uk": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W9GW3GZ": [
+                        "7074004294865517"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "drinkripples.com": {
+        "PIXEL_GTM": {
+            "drinkripples.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WV9RD7H": [
+                        "2011811492489557"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "h2foz.com.br": {
+        "PIXEL_IN_OTHER_TP": {
+            "url": "https://h2foz.com.br",
+            "implementations": [
+                {
+                    "pixel_id": "557233793263198",
+                    "implementation_type": "third-party",
+                    "script_url": "https://blackadnet.s3.us-east-2.amazonaws.com/ad/h2foz/display/header.js",
+                    "script_content": "x = document.createElement('script');\r\nx.src = 'https://securepubads.g.doubleclick.net/tag/js/gpt.js';\r\ndocument.getElementsByTagName('head')[0].appendChild(x);\r\nwindow.googletag = window.googletag || {cmd: []};\r\n\r\ngoogletag.cmd.push(function() {\r\n\r\nvar REFRESH_KEY = 'refresh';\r\nvar REFRESH_VALUE = 'true';\r\n\r\ngoogletag.defineSlot('/22828348856,21927521537/H2FOZ/H2FOZ_300X250', [[300, 250]], 'display-ad-blackadnet-300x250').setTargeting(REFRESH_KEY, REFRESH_VALUE).setTargeting('test', 'event').addService(googletag.pubads());\r\n/* googletag.defineSlot('/22828348856,21927521537/H2FOZ/H2FOZ_300X600', [[300, 600]], 'display-ad-blackadnet-300x600').setTargeting(REFRESH_KEY, REFRESH_VALUE).setTargeting('test', 'event').addService(googletag.pubads());\r\ngoogletag.defineSlot('/22828348856,21927521537/H2FOZ/H2FOZ_728X90', [[728, 90]], 'display-ad-blackadnet-728x90').setTargeting(REFRESH_KEY, REFRESH_VALUE).setTargeting('test', 'event').addService(googletag.pubads());\r\ngoogletag.defineSlot('/228283",
+                    "context": ")}(window, document,'script',\r\n  'https://connect.facebook.net/en_US/fbevents.js');\r\n  fbq('init', '557233793263198');\r\n  fbq('track', 'PageView');\r\n  document.getElementsByTagName(\"head\")[0].appendChild(pxlMeta);\r\n",
+                    "custom_config": {
+                        "custom_events": [
+                            "vents.js');\r\n  fbq('init', '557233793263198');\r\n  fbq('track', 'PageView');\r\n  document.getElementsByTagName(\"head\")[0].appendChild(pxlMeta);\r\n  pxlMeta.onload = () => {\r\n  window.$(\"body\").append(\"<noscript><im"
+                        ]
+                    }
+                }
+            ],
+            "total_implementations": 1,
+            "unique_pixels": 1
+        }
+    },
+    "monashfodmap.com": {
+        "PIXEL_GTM": {
+            "monashfodmap.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-N8Z5FDX": [
+                        "381340839214624",
+                        "466809564164342"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "chatham.edu": {
+        "PIXEL_GTM": {
+            "chatham.edu": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5M8TXC": [
+                        "320468624996419"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "kenei-pharm.com": {
+        "PIXEL_GTM": {
+            "kenei-pharm.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MVCJHR2": [
+                        "950860232554569",
+                        "532756266167723"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "epaka.pl": {
+        "PIXEL_GTM": {
+            "epaka.pl": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MBKZN83": [
+                        "560019061567537",
+                        "1049485268595119",
+                        "726636127515001"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "shipmonk.com": {
+        "PIXEL_GTM": {
+            "shipmonk.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MW5HW3V": [
+                        "1731725893728819"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "coin.it": {
+        "PIXEL_GTM": {
+            "coin.it": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KBPQRFV": [
+                        "2461089817359839"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "binat.net.il": {
+        "PIXEL_GTM": {
+            "binat.net.il": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MV8ZMGX": [
+                        "1919922144938434"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "dealogic.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "dealogic.com",
+                    "init": [
+                        "2147483647"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView', {\n\t\t\"source\": \"wordpress\",\n\t\t\"version\": \"6.3.2\",\n\t\t\"pluginVersion\": \"1.7.5\"\n\t});"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "2147483647",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2147483647&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "419922848465059",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=419922848465059&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "vegnonveg.com": {
+        "PIXEL_GTM": {
+            "vegnonveg.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T62P2PL": [
+                        "937729090295269",
+                        "158535031404774"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "bigmotoringworld.co.uk": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "bigmotoringworld.co.uk",
+                    "init": [
+                        "2362266220498858"
+                    ],
+                    "track": []
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "genotec.ch": {
+        "PIXEL_GTM": {
+            "genotec.ch": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K462SH8": [
+                        "2894841717430840"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "hukitchen.com": {
+        "PIXEL_GTM": {
+            "hukitchen.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5QV6LVJ": [
+                        "456795371471333"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "heetch.com": {
+        "PIXEL_GTM": {
+            "heetch.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WZPT37B": [
+                        "2704217326549356",
+                        "630563961382469",
+                        "1033713916713390",
+                        "1415420025302353",
+                        "174784959712433",
+                        "461149599341147",
+                        "1101812023710707",
+                        "741731633216362",
+                        "303944070309064",
+                        "3136899539957763",
+                        "3291116697883457",
+                        "689108214943476",
+                        "2224511357853008"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "dancyu.jp": {
+        "PIXEL_GTM": {
+            "dancyu.jp": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MHGD964": [
+                        "406373275802290"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "perfectsnacks.com": {
+        "PIXEL_GTM": {
+            "perfectsnacks.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TRFSDVM": [
+                        "960130457440845"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "bakcell.com": {
+        "PIXEL_GTM": {
+            "bakcell.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MBF38M8": [
+                        "200898170650782"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "neur.io": {
+        "PIXEL_GTM": {
+            "neur.io": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-T439SHK": [
+                        "6311371892264425"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "theredhandfiles.com": {
+        "PIXEL_GTM": {
+            "theredhandfiles.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5VFQT55": [
+                        "554951778186340"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "uniphore.com": {
+        "PIXEL_GTM": {
+            "uniphore.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PXQSFKF": [
+                        "672209353443981"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "gearnews.com": {
+        "PIXEL_GTM": {
+            "gearnews.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KC6B3S": [
+                        "448388222015988",
+                        "520898398018927"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "cibse.org": {
+        "PIXEL_GTM": {
+            "cibse.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TDF8MXC": [
+                        "115103189133491"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "sadia.com.br": {
+        "PIXEL_GTM": {
+            "sadia.com.br": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-KDL2L7R": [
+                        "674450570095093",
+                        "1992888384353851",
+                        "1241824679577507",
+                        "739841039471751",
+                        "185954733197058"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "daicolor.co.jp": {
+        "PIXEL_GTM": {
+            "daicolor.co.jp": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-P77MMJS": [
+                        "3254813701198888"
+                    ],
+                    "GTM-W4P5NDH": [
+                        "147229637258389"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "shipsticks.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "shipsticks.com",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'Contact');",
+                        "fbq('track', 'EmailSignup');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "bloomberglinea.com.br": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "bloomberglinea.com.br",
+                    "init": [
+                        "965267477702813"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "965267477702813",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=965267477702813&amp;ev=PageView&amp;noscript=1\" style=\"display:none;visibility:hidden\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "thestandard.com": {
+        "PIXEL_GTM": {
+            "thestandard.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5JGZ3LH": [
+                        "783301121827721",
+                        "528995260596026"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "radioradio.it": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "radioradio.it",
+                    "init": [
+                        "225323846363346"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "225323846363346",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=225323846363346&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "mim.ec": {
+        "PIXEL_GTM": {
+            "mim.ec": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-MWZVBR2": [
+                        "836472287062344",
+                        "774315897475269"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "gorillafund.org": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "gorillafund.org",
+                    "init": [
+                        "1764567146963594"
+                    ],
+                    "track": []
+                }
+            ],
+            "lightweight": [
+                [
+                    "1764567146963594",
+                    "<img alt=\"fbpx\" height=\"1\" src=\"https://www.facebook.com/tr?id=1764567146963594&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "natureindex.com": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "1657480634564902",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1657480634564902&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "starbucks.co.id": {
+        "PIXEL_GTM": {
+            "starbucks.co.id": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5PJQP8F": [
+                        "1238360772846867"
+                    ]
+                },
+                "base_code_type": "vtp",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "hennesseyperformance.com": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "806018117325187",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=806018117325187&amp;ev=PageView&amp;noscript=1&amp;cd%5Bpage_title%5D=Home&amp;cd%5Bpost_type%5D=page&amp;cd%5Bpost_id%5D=79&amp;cd%5Bplugin%5D=PixelYourSite&amp;cd%5Buser_role%5D=guest&amp;cd%5Bevent_url%5D=www.hennesseyperformance.com%2F\" style=\"display: none;\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "paintscout.com": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "1391365178002259",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=1391365178002259&amp;ev=PageView&amp;noscript=1&amp;cd%5Bpage_title%5D=Home&amp;cd%5Bpost_type%5D=page&amp;cd%5Bpost_id%5D=43&amp;cd%5Bplugin%5D=PixelYourSite&amp;cd%5Buser_role%5D=guest&amp;cd%5Bevent_url%5D=www.paintscout.com%2F\" style=\"display: none;\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "amd.by": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "amd.by",
+                    "init": [
+                        "457840627283320"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "457840627283320",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=457840627283320&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "affordabledomains.co.nz": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "affordabledomains.co.nz",
+                    "init": [
+                        "1940851586065959"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1940851586065959",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1940851586065959&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "sistic.com.sg": {
+        "PIXEL_GTM": {
+            "sistic.com.sg": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5RK4SL3": [
+                        "2317311448668074",
+                        "3645220459129923",
+                        "423381123836123",
+                        "780321443618255",
+                        "1132706214621761",
+                        "547633384918747",
+                        "467487795787168",
+                        "583011374143075",
+                        "504166268714402",
+                        "2975941895893957",
+                        "1331427147618904",
+                        "972482638001766",
+                        "1004642364230147",
+                        "8717030898345383",
+                        "605990491826731",
+                        "407617057954653",
+                        "576348288329344",
+                        "2436648906667984",
+                        "1313665563370403",
+                        "673829584594066",
+                        "1541835829519224",
+                        "727341916222007",
+                        "1530789367615206",
+                        "5320946251274711",
+                        "372838818435727",
+                        "1151568209405898",
+                        "982739670330377",
+                        "829871165348472",
+                        "1348960881814088",
+                        "1141491483534206",
+                        "969670684327220",
+                        "505788335054297",
+                        "960409449191362",
+                        "2257227614641943",
+                        "668414015005486",
+                        "1171706634556427",
+                        "1152220812369746",
+                        "767065061255672",
+                        "1777477095992932",
+                        "538358445584028",
+                        "418634084507283",
+                        "354280187750239",
+                        "1205734780640715",
+                        "428060134764031",
+                        "1241635213700182",
+                        "1444895483078061",
+                        "410029056154155",
+                        "7434255886603855",
+                        "967290731477196",
+                        "438120431095683",
+                        "897468067844288",
+                        "3338354253122103"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "franciscan.edu": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "franciscan.edu",
+                    "init": [
+                        "927094344012164"
+                    ],
+                    "track": [
+                        "fbq(\"track\", \"PageView\");",
+                        "fbq(\"track\", \"ViewContent\");",
+                        "fbq(\"track\", \"Lead\");"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "927094344012164",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=927094344012164&amp;ev=PageView\r\n&amp;noscript=1\" width=\"1\">\n</img>"
+                ]
+            ]
+        }
+    },
+    "totalsoft.ro": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "totalsoft.ro",
+                    "init": [
+                        "639547467297332"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "639547467297332",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=639547467297332&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "powergame.gr": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "powergame.gr",
+                    "init": [
+                        "310545344564279"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "310545344564279",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=310545344564279&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "theleela.com": {
+        "PIXEL_GTM": {
+            "theleela.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-WBCB233X": [
+                        "967808257277017",
+                        "573295917456711",
+                        "404479714909368",
+                        "687496691663023",
+                        "283789763696064",
+                        "399537538712272",
+                        "1296953321474885",
+                        "5633895296697450",
+                        "8940083976021831",
+                        "305144401495436"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "worldmanager.com": {
+        "PIXEL_GTM": {
+            "worldmanager.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TPQ8GTK": [
+                        "968746011150877"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "petedge.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "petedge.com",
+                    "init": [
+                        "443114042923155"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView', {\n  source: \"magento2\",\n  pluginVersion: \"1.4.6\"\n});"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "443114042923155",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=443114042923155&amp;ev=PageView&amp;noscript=1&amp;a=magento2-0.0.0-1.4.6\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "braintumor.org": {
+        "PIXEL_GTM": {
+            "braintumor.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-NJPC4B3": [
+                        "780753085444108"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "aenor.com": {
+        "PIXEL_GTM": {
+            "aenor.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PG4JLVH": [
+                        "672080510824297"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "lindipendente.online": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "lindipendente.online",
+                    "init": [
+                        "586115422638324"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "586115422638324",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=586115422638324&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "veriheal.com": {
+        "PIXEL_GTM": {
+            "veriheal.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-55HBMKJ": [
+                        "5091584270223708"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "thepowerhost.in": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "thepowerhost.in",
+                    "init": [
+                        "329307915307266"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "329307915307266",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=329307915307266&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "lanacionweb.com": {
+        "PIXEL_GTM": {
+            "lanacionweb.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5NG7J3RB": [
+                        "6660576367227932",
+                        "1743132317645348"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "jddonline.com": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "jddonline.com",
+                    "init": [
+                        "417354108850464"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "417354108850464",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=417354108850464&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "417354108850464",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=417354108850464&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    }
+}

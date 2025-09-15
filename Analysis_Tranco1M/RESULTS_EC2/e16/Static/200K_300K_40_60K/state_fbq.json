@@ -1,0 +1,6683 @@
+{
+    "ahotu.com": {
+        "pixel_ids": [
+            "255137670293777"
+        ],
+        "state_type": "FBP"
+    },
+    "academictransfer.com": {
+        "pixel_ids": [
+            "252291916315541"
+        ],
+        "state_type": "GTM"
+    },
+    "bitflyer.jp": {
+        "pixel_ids": [
+            "104873146772036"
+        ],
+        "state_type": "FBP"
+    },
+    "greeneking-pubs.co.uk": {
+        "pixel_ids": [
+            "202011217548605",
+            "546151397493099",
+            "462481851751209"
+        ],
+        "state_type": "GTM"
+    },
+    "watsons.com": {
+        "pixel_ids": [
+            "348730576676965"
+        ],
+        "state_type": "FBP"
+    },
+    "ribblecycles.co.uk": {
+        "pixel_ids": [
+            "1034328618100150"
+        ],
+        "state_type": "FBP"
+    },
+    "unitestudents.com": {
+        "pixel_ids": [
+            "381112915848639"
+        ],
+        "state_type": "GTM"
+    },
+    "letsbeco.com": {
+        "pixel_ids": [
+            "280827099480409"
+        ],
+        "state_type": "FBP"
+    },
+    "view.com.au": {
+        "pixel_ids": [
+            "3349129195136053"
+        ],
+        "state_type": "FBP"
+    },
+    "timberland.es": {
+        "pixel_ids": [
+            "693055221081127"
+        ],
+        "state_type": "GTM"
+    },
+    "rodakorset.se": {
+        "pixel_ids": [
+            "2297826173596432"
+        ],
+        "state_type": "GTM"
+    },
+    "sunny.org": {
+        "pixel_ids": [
+            "892547717509961",
+            "748439681886873",
+            "2675172482762643",
+            "175953757605482",
+            "417881152455537"
+        ],
+        "state_type": "FBP"
+    },
+    "slotozal-online.live": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "lordsfilms4.zone": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "charmhealth.com": {
+        "pixel_ids": [
+            "266030193956529"
+        ],
+        "state_type": "FBP"
+    },
+    "barkerandstonehouse.co.uk": {
+        "pixel_ids": [
+            "650194211825011"
+        ],
+        "state_type": "GTM"
+    },
+    "cpac.org": {
+        "pixel_ids": [
+            "239205444030165"
+        ],
+        "state_type": "FBP"
+    },
+    "vans.pt": {
+        "pixel_ids": [
+            "1524200277984162"
+        ],
+        "state_type": "GTM"
+    },
+    "quotemehappy.com": {
+        "pixel_ids": [
+            "5184421424985089"
+        ],
+        "state_type": "FBP"
+    },
+    "bioionic.com": {
+        "pixel_ids": [
+            "405501173327696"
+        ],
+        "state_type": "FBP"
+    },
+    "multibankfx.com": {
+        "pixel_ids": [
+            "969162404464665"
+        ],
+        "state_type": "FBP"
+    },
+    "coofandy.com": {
+        "pixel_ids": [
+            "156710983995945",
+            "243429775129325"
+        ],
+        "state_type": "FBP"
+    },
+    "nic.health": {
+        "pixel_ids": [
+            "655348809639676"
+        ],
+        "state_type": "FBP"
+    },
+    "kalkhoff-bikes.com": {
+        "pixel_ids": [
+            "380318205487647"
+        ],
+        "state_type": "GTM"
+    },
+    "trainz.com": {
+        "pixel_ids": [
+            "1587357484907173"
+        ],
+        "state_type": "FBP"
+    },
+    "fyidoctors.com": {
+        "pixel_ids": [
+            "1074984123427333"
+        ],
+        "state_type": "FBP"
+    },
+    "vittoria.com": {
+        "pixel_ids": [
+            "276947387793852"
+        ],
+        "state_type": "FBP"
+    },
+    "teapigs.co.uk": {
+        "pixel_ids": [
+            "1210171178999196"
+        ],
+        "state_type": "FBP"
+    },
+    "canadapooch.com": {
+        "pixel_ids": [
+            "837535439653899"
+        ],
+        "state_type": "FBP"
+    },
+    "niceonesa.com": {
+        "pixel_ids": [
+            "2366279993468225"
+        ],
+        "state_type": "FBP"
+    },
+    "newfunclub.com": {
+        "pixel_ids": [
+            "518413130654168"
+        ],
+        "state_type": "GTM"
+    },
+    "777faraon-bet.net": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "tjxstyleplus.ca": {
+        "pixel_ids": [
+            "1632771733642545",
+            "287609778438190"
+        ],
+        "state_type": "FBP"
+    },
+    "winners.ca": {
+        "pixel_ids": [
+            "332752307884771"
+        ],
+        "state_type": "FBP"
+    },
+    "computerarts.co.uk": {
+        "pixel_ids": [
+            "1390539141708760",
+            "1422285942000622"
+        ],
+        "state_type": "FBP"
+    },
+    "proptiger.com": {
+        "pixel_ids": [
+            "771236629654593"
+        ],
+        "state_type": "GTM"
+    },
+    "bluehens.com": {
+        "pixel_ids": [
+            "313252352863949"
+        ],
+        "state_type": "FBP"
+    },
+    "1wbot.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "looking4.com": {
+        "pixel_ids": [
+            "322927925059662"
+        ],
+        "state_type": "FBP"
+    },
+    "couche-tard.com": {
+        "pixel_ids": [
+            "106110046761508",
+            "231148698219444",
+            "4793124360751156",
+            "504676577377640",
+            "705502110440415",
+            "1474655242631392",
+            "1320257254805918"
+        ],
+        "state_type": "GTM"
+    },
+    "princesshouse.com": {
+        "pixel_ids": [
+            "241838143139110"
+        ],
+        "state_type": "FBP"
+    },
+    "percivalclo.com": {
+        "pixel_ids": [
+            "1956891821232956"
+        ],
+        "state_type": "FBP"
+    },
+    "metlink.org.nz": {
+        "pixel_ids": [
+            "1949651092094435"
+        ],
+        "state_type": "FBP"
+    },
+    "brightidea.com": {
+        "pixel_ids": [
+            "578919215797103"
+        ],
+        "state_type": "FBP"
+    },
+    "ulovdomov.cz": {
+        "pixel_ids": [
+            "1074012372698656"
+        ],
+        "state_type": "GTM"
+    },
+    "beloader.com": {
+        "pixel_ids": [
+            "1"
+        ],
+        "state_type": "FBP"
+    },
+    "wbr.com": {
+        "pixel_ids": [
+            "651625628320982"
+        ],
+        "state_type": "FBP"
+    },
+    "liveoakbank.com": {
+        "pixel_ids": [
+            "231436787192773",
+            "355354686592392"
+        ],
+        "state_type": "FBP"
+    },
+    "sainsmart.com": {
+        "pixel_ids": [
+            "1336909046405930"
+        ],
+        "state_type": "FBP"
+    },
+    "activ8me.net.au": {
+        "pixel_ids": [
+            "963057507107916"
+        ],
+        "state_type": "FBP"
+    },
+    "stiftungen.org": {
+        "pixel_ids": [
+            "450375228862909",
+            "1466828310151974"
+        ],
+        "state_type": "GTM"
+    },
+    "almonds.com": {
+        "pixel_ids": [
+            "1453920518028967"
+        ],
+        "state_type": "FBP"
+    },
+    "vivehealth.com": {
+        "pixel_ids": [
+            "879463612842594"
+        ],
+        "state_type": "FBP"
+    },
+    "littlelives.com": {
+        "pixel_ids": [
+            "4648316018554828"
+        ],
+        "state_type": "FBP"
+    },
+    "herohealth.com": {
+        "pixel_ids": [
+            "253410215316218"
+        ],
+        "state_type": "FBP"
+    },
+    "thrift.plus": {
+        "pixel_ids": [
+            "1699862444115112"
+        ],
+        "state_type": "GTM"
+    },
+    "dt.ua": {
+        "pixel_ids": [
+            "5515961538037914"
+        ],
+        "state_type": "GTM"
+    },
+    "anthonynolan.org": {
+        "pixel_ids": [
+            "1587143271551214"
+        ],
+        "state_type": "GTM"
+    },
+    "centralwesterndaily.com.au": {
+        "pixel_ids": [
+            "212556246621990"
+        ],
+        "state_type": "FBP"
+    },
+    "ayr.com": {
+        "pixel_ids": [
+            "1229426067076912"
+        ],
+        "state_type": "FBP"
+    },
+    "stlouiscountymn.gov": {
+        "pixel_ids": [
+            "1110472770099475"
+        ],
+        "state_type": "FBP"
+    },
+    "chooseenergy.com": {
+        "pixel_ids": [
+            "1708014132764740"
+        ],
+        "state_type": "FBP"
+    },
+    "unlimitedvacationclub.com": {
+        "pixel_ids": [
+            "2335326739991203"
+        ],
+        "state_type": "GTM"
+    },
+    "gorhody.com": {
+        "pixel_ids": [
+            "1711429769081746"
+        ],
+        "state_type": "FBP"
+    },
+    "lumsa.it": {
+        "pixel_ids": [
+            "642895088140672"
+        ],
+        "state_type": "FBP"
+    },
+    "verbatim.com": {
+        "pixel_ids": [
+            "236290087496296"
+        ],
+        "state_type": "FBP"
+    },
+    "ideascreative.pk": {
+        "pixel_ids": [
+            "3205433163098194"
+        ],
+        "state_type": "FBP"
+    },
+    "gravely.com": {
+        "pixel_ids": [
+            "509065532767830"
+        ],
+        "state_type": "FBP"
+    },
+    "wallsandfloors.co.uk": {
+        "pixel_ids": [
+            "1078985933405609"
+        ],
+        "state_type": "FBP"
+    },
+    "mrtoys.com.au": {
+        "pixel_ids": [
+            "509539822526572"
+        ],
+        "state_type": "FBP"
+    },
+    "weide.cl": {
+        "pixel_ids": [
+            "1995163777596354"
+        ],
+        "state_type": "FBP"
+    },
+    "movistar.com.ec": {
+        "pixel_ids": [
+            "1043291113458566",
+            "223063655084787",
+            "1320056795608921",
+            "2369448796776865"
+        ],
+        "state_type": "GTM"
+    },
+    "hellobatch.com": {
+        "pixel_ids": [
+            "2062083334176822"
+        ],
+        "state_type": "FBP"
+    },
+    "nowtolove.co.nz": {
+        "pixel_ids": [
+            "305271303947006",
+            "340329063622688",
+            "460259104509055",
+            "2693548590922384",
+            "299052290479700",
+            "1821108738155233",
+            "2581274802111615",
+            "755732235000900",
+            "774509139365615",
+            "2350777465109701",
+            "2621616228060038",
+            "699918610590528"
+        ],
+        "state_type": "GTM"
+    },
+    "ggbetoid.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "vulkanst.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "desjardinsgeneralinsurance.com": {
+        "pixel_ids": [
+            "188579228388404",
+            "188579228388404"
+        ],
+        "state_type": "GTM"
+    },
+    "mysqlperformanceblog.com": {
+        "pixel_ids": [
+            "683258458924217"
+        ],
+        "state_type": "FBP"
+    },
+    "lactaid.com": {
+        "pixel_ids": [
+            "273595999844936"
+        ],
+        "state_type": "GTM"
+    },
+    "aptaclub.de": {
+        "pixel_ids": [
+            "219354943249638"
+        ],
+        "state_type": "GTM"
+    },
+    "moneyhero.com.hk": {
+        "pixel_ids": [
+            "1196803700423524"
+        ],
+        "state_type": "FBP"
+    },
+    "jula.se": {
+        "pixel_ids": [
+            "2485823118347949",
+            "452822892102366",
+            "988547381526200"
+        ],
+        "state_type": "GTM"
+    },
+    "lordfilms.zone": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "aufbau-verlage.de": {
+        "pixel_ids": [
+            "338613395951061"
+        ],
+        "state_type": "GTM"
+    },
+    "theexcellencecollection.com": {
+        "pixel_ids": [
+            "833176004170400"
+        ],
+        "state_type": "FBP"
+    },
+    "offerte365-it.com": {
+        "pixel_ids": [
+            "1268385344353471"
+        ],
+        "state_type": "FBP"
+    },
+    "dejongintra.nl": {
+        "pixel_ids": [
+            "1290469921154907"
+        ],
+        "state_type": "GTM"
+    },
+    "wellandtribune.ca": {
+        "pixel_ids": [
+            "238428956832148"
+        ],
+        "state_type": "FBP"
+    },
+    "mc2saintbarth.com": {
+        "pixel_ids": [
+            "1788472638060317"
+        ],
+        "state_type": "FBP"
+    },
+    "msnd26.com": {
+        "pixel_ids": [
+            "278738296456258"
+        ],
+        "state_type": "FBP"
+    },
+    "fehaute.com": {
+        "pixel_ids": [
+            "259579089945405",
+            "961644159405026"
+        ],
+        "state_type": "FBP"
+    },
+    "dessertnowdinnerlater.com": {
+        "pixel_ids": [
+            "308519652912505",
+            "660849960732595"
+        ],
+        "state_type": "GTM"
+    },
+    "freeflyapparel.com": {
+        "pixel_ids": [
+            "1490682677878774"
+        ],
+        "state_type": "FBP"
+    },
+    "timeout.fr": {
+        "pixel_ids": [
+            "1493036311000359",
+            "566880398873806"
+        ],
+        "state_type": "FBP"
+    },
+    "uptownie.com": {
+        "pixel_ids": [
+            "461815391281783"
+        ],
+        "state_type": "FBP"
+    },
+    "easypaisa.com.pk": {
+        "pixel_ids": [
+            "2732681473672070"
+        ],
+        "state_type": "FBP"
+    },
+    "bandidospitstop.com": {
+        "pixel_ids": [
+            "3890556164359084"
+        ],
+        "state_type": "FBP"
+    },
+    "synergy.net.au": {
+        "pixel_ids": [
+            "847661072054422"
+        ],
+        "state_type": "FBP"
+    },
+    "onlinedeurbeslagshop.nl": {
+        "pixel_ids": [
+            "1703170039912483"
+        ],
+        "state_type": "GTM"
+    },
+    "yellowclothing.net": {
+        "pixel_ids": [
+            "938936980963357"
+        ],
+        "state_type": "FBP"
+    },
+    "friesland.nl": {
+        "pixel_ids": [
+            "425508157604309"
+        ],
+        "state_type": "GTM"
+    },
+    "duravit.com": {
+        "pixel_ids": [
+            "none"
+        ],
+        "state_type": "GTM"
+    },
+    "mlabs.com.br": {
+        "pixel_ids": [
+            "1460531310909114",
+            "561434319704774"
+        ],
+        "state_type": "FBP"
+    },
+    "iptview.co": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "mishka.com.ar": {
+        "pixel_ids": [
+            "288028955156745"
+        ],
+        "state_type": "FBP"
+    },
+    "blippo.com": {
+        "pixel_ids": [
+            "509974489406332"
+        ],
+        "state_type": "FBP"
+    },
+    "1wumy.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "ebbets.com": {
+        "pixel_ids": [
+            "1725620440983800"
+        ],
+        "state_type": "FBP"
+    },
+    "jewsforjesus.org": {
+        "pixel_ids": [
+            "651333119443261"
+        ],
+        "state_type": "FBP"
+    },
+    "thenorthface.ie": {
+        "pixel_ids": [
+            "480591952461059",
+            "1093609330685010"
+        ],
+        "state_type": "GTM"
+    },
+    "3mcanada.ca": {
+        "pixel_ids": [
+            "2221900387862946"
+        ],
+        "state_type": "FBP"
+    },
+    "soliswifi.co": {
+        "pixel_ids": [
+            "1443326992653193"
+        ],
+        "state_type": "FBP"
+    },
+    "worktool.net": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "impactful.ninja": {
+        "pixel_ids": [
+            "410062578738321"
+        ],
+        "state_type": "FBP"
+    },
+    "bodyecology.com": {
+        "pixel_ids": [
+            "1528418947482456"
+        ],
+        "state_type": "FBP"
+    },
+    "saboskirt.com": {
+        "pixel_ids": [
+            "1520067588227519"
+        ],
+        "state_type": "FBP"
+    },
+    "obeyclothing.com": {
+        "pixel_ids": [
+            "783968793189638"
+        ],
+        "state_type": "FBP"
+    },
+    "autopilotmail.io": {
+        "pixel_ids": [
+            "2574394622616380"
+        ],
+        "state_type": "FBP"
+    },
+    "hubspot.jp": {
+        "pixel_ids": [
+            "1364045737018982",
+            "893596480692132"
+        ],
+        "state_type": "FBP"
+    },
+    "sfspca.org": {
+        "pixel_ids": [
+            "663793140408216"
+        ],
+        "state_type": "FBP"
+    },
+    "cz.de": {
+        "pixel_ids": [
+            "305126398434532"
+        ],
+        "state_type": "GTM"
+    },
+    "kiute.com": {
+        "pixel_ids": [
+            "234510957090113"
+        ],
+        "state_type": "FBP"
+    },
+    "cityvet.com": {
+        "pixel_ids": [
+            "2592027474408680"
+        ],
+        "state_type": "FBP"
+    },
+    "insideevs.de": {
+        "pixel_ids": [
+            "5467943974993920",
+            "2071665058095263"
+        ],
+        "state_type": "GTM"
+    },
+    "zaydns.com": {
+        "pixel_ids": [
+            "254840963789127"
+        ],
+        "state_type": "FBP"
+    },
+    "expertoption.com": {
+        "pixel_ids": [
+            "3263241350414988"
+        ],
+        "state_type": "FBP"
+    },
+    "blinkai.com": {
+        "pixel_ids": [
+            "25085460377719553"
+        ],
+        "state_type": "FBP"
+    },
+    "lemmelive.com": {
+        "pixel_ids": [
+            "3283283085331435"
+        ],
+        "state_type": "FBP"
+    },
+    "surveypal.com": {
+        "pixel_ids": [
+            "453798579020378"
+        ],
+        "state_type": "GTM"
+    },
+    "hatchcollection.com": {
+        "pixel_ids": [
+            "909420290652457"
+        ],
+        "state_type": "FBP"
+    },
+    "lec-jp.com": {
+        "pixel_ids": [
+            "245678627360293",
+            "383587159033605",
+            "501773488911730",
+            "515866122694746",
+            "2639319456326927"
+        ],
+        "state_type": "FBP"
+    },
+    "izipizi.com": {
+        "pixel_ids": [
+            "1723530544594297"
+        ],
+        "state_type": "GTM"
+    },
+    "modhost.pro": {
+        "pixel_ids": [
+            "740335966174332"
+        ],
+        "state_type": "FBP"
+    },
+    "yardzen.com": {
+        "pixel_ids": [
+            "1551816664965248"
+        ],
+        "state_type": "FBP"
+    },
+    "endsight.net": {
+        "pixel_ids": [
+            "1667173880220006"
+        ],
+        "state_type": "FBP"
+    },
+    "agronomy.org": {
+        "pixel_ids": [
+            "690985458425774"
+        ],
+        "state_type": "FBP"
+    },
+    "houzz.it": {
+        "pixel_ids": [
+            "295742887240801",
+            "759657795294734",
+            "857521767622187"
+        ],
+        "state_type": "GTM"
+    },
+    "virginmegastore.ae": {
+        "pixel_ids": [
+            "214856063500208"
+        ],
+        "state_type": "FBP"
+    },
+    "bramptonguardian.com": {
+        "pixel_ids": [
+            "727585467586354"
+        ],
+        "state_type": "FBP"
+    },
+    "beginningboutique.com.au": {
+        "pixel_ids": [
+            "645919598848356"
+        ],
+        "state_type": "FBP"
+    },
+    "hapimag.com": {
+        "pixel_ids": [
+            "462781197225992"
+        ],
+        "state_type": "GTM"
+    },
+    "getmarlee.com": {
+        "pixel_ids": [
+            "1262408603853307"
+        ],
+        "state_type": "FBP"
+    },
+    "twc.health": {
+        "pixel_ids": [
+            "231347747920313",
+            "1056634655218478"
+        ],
+        "state_type": "FBP"
+    },
+    "dhccare.com": {
+        "pixel_ids": [
+            "963553171725472"
+        ],
+        "state_type": "FBP"
+    },
+    "pokerbot.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "gbo.com": {
+        "pixel_ids": [
+            "185208662101276",
+            "246013201004415"
+        ],
+        "state_type": "FBP"
+    },
+    "catrice.eu": {
+        "pixel_ids": [
+            "281304782769983"
+        ],
+        "state_type": "FBP"
+    },
+    "exploresetoyota.com": {
+        "pixel_ids": [
+            "586639338507369",
+            "515075059584441"
+        ],
+        "state_type": "FBP"
+    },
+    "hellolingo.com": {
+        "pixel_ids": [
+            "857935625214560"
+        ],
+        "state_type": "FBP"
+    },
+    "procvetok.kz": {
+        "pixel_ids": [
+            "1833467113740876",
+            "760137252688778"
+        ],
+        "state_type": "GTM"
+    },
+    "heig-vd.ch": {
+        "pixel_ids": [
+            "1116660958520588"
+        ],
+        "state_type": "GTM"
+    },
+    "tropicfeel.com": {
+        "pixel_ids": [
+            "716209111885482"
+        ],
+        "state_type": "FBP"
+    },
+    "deporvillage.net": {
+        "pixel_ids": [
+            "805508019477694"
+        ],
+        "state_type": "GTM"
+    },
+    "ria-novosti.run": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "zininmeer.be": {
+        "pixel_ids": [
+            "3688610654588265",
+            "896463613843654",
+            "866562530070064"
+        ],
+        "state_type": "GTM"
+    },
+    "sensedia.com": {
+        "pixel_ids": [
+            "3361807964077876"
+        ],
+        "state_type": "GTM"
+    },
+    "zurich.com.au": {
+        "pixel_ids": [
+            "428419348916817"
+        ],
+        "state_type": "FBP"
+    },
+    "selfieleslie.com": {
+        "pixel_ids": [
+            "257558098046812"
+        ],
+        "state_type": "FBP"
+    },
+    "pummys.com": {
+        "pixel_ids": [
+            "1388137931704952"
+        ],
+        "state_type": "GTM"
+    },
+    "slotozal-official.guru": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "dfranklincreation.com": {
+        "pixel_ids": [
+            "1569659406579259"
+        ],
+        "state_type": "FBP"
+    },
+    "afpnet.org": {
+        "pixel_ids": [
+            "890415394348095"
+        ],
+        "state_type": "FBP"
+    },
+    "visitwichita.com": {
+        "pixel_ids": [
+            "1863443053784918",
+            "707775053098706",
+            "1357542144450740",
+            "1005031413997533"
+        ],
+        "state_type": "FBP"
+    },
+    "thegarden.com": {
+        "pixel_ids": [
+            "716606501766430",
+            "915169231947489",
+            "149776988911053",
+            "1145657592120470",
+            "1251701284849060",
+            "895749490557344",
+            "118188602148855",
+            "945279112279072",
+            "566423493472237"
+        ],
+        "state_type": "FBP"
+    },
+    "buly1803.com": {
+        "pixel_ids": [
+            "226721786977293"
+        ],
+        "state_type": "FBP"
+    },
+    "packershoes.com": {
+        "pixel_ids": [
+            "899329490487650"
+        ],
+        "state_type": "FBP"
+    },
+    "carvak.com": {
+        "pixel_ids": [
+            "1251322418275999"
+        ],
+        "state_type": "FBP"
+    },
+    "caixaconsorcio.com.br": {
+        "pixel_ids": [
+            "5719468681410901"
+        ],
+        "state_type": "FBP"
+    },
+    "hostinger.de": {
+        "pixel_ids": [
+            "233182517365050"
+        ],
+        "state_type": "FBP"
+    },
+    "emma-sleep.co.uk": {
+        "pixel_ids": [
+            "621206114702581",
+            "1899350553581990"
+        ],
+        "state_type": "GTM"
+    },
+    "grower.today": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "interlaken.ch": {
+        "pixel_ids": [
+            "349122955792982",
+            "484164275455696"
+        ],
+        "state_type": "FBP"
+    },
+    "bluettipower.eu": {
+        "pixel_ids": [
+            "927646354817789"
+        ],
+        "state_type": "FBP"
+    },
+    "datalemur.com": {
+        "pixel_ids": [
+            "110561152082806"
+        ],
+        "state_type": "FBP"
+    },
+    "gobreck.com": {
+        "pixel_ids": [
+            "267504990090018"
+        ],
+        "state_type": "FBP"
+    },
+    "woolx.com": {
+        "pixel_ids": [
+            "674107422704866"
+        ],
+        "state_type": "FBP"
+    },
+    "zaavio.com": {
+        "pixel_ids": [
+            "166775869568906"
+        ],
+        "state_type": "FBP"
+    },
+    "fetchnbuy.in": {
+        "pixel_ids": [
+            "1450111198681038"
+        ],
+        "state_type": "FBP"
+    },
+    "culqi.com": {
+        "pixel_ids": [
+            "471736456735285"
+        ],
+        "state_type": "GTM"
+    },
+    "aceableagent.com": {
+        "pixel_ids": [
+            "186479505417079"
+        ],
+        "state_type": "FBP"
+    },
+    "jaguar33add.org": {
+        "pixel_ids": [
+            "2445851522417458"
+        ],
+        "state_type": "FBP"
+    },
+    "kozikaza.com": {
+        "pixel_ids": [
+            "1687432514846726"
+        ],
+        "state_type": "GTM"
+    },
+    "thorntons.com": {
+        "pixel_ids": [
+            "491496272232657"
+        ],
+        "state_type": "GTM"
+    },
+    "heyflow.app": {
+        "pixel_ids": [
+            "3337407263017727"
+        ],
+        "state_type": "FBP"
+    },
+    "weisshaus.de": {
+        "pixel_ids": [
+            "522955384542408"
+        ],
+        "state_type": "GTM"
+    },
+    "ecomfort.com": {
+        "pixel_ids": [
+            "978537135554711"
+        ],
+        "state_type": "FBP"
+    },
+    "elart.com": {
+        "pixel_ids": [
+            "714450585781059"
+        ],
+        "state_type": "FBP"
+    },
+    "onecountry.com": {
+        "pixel_ids": [
+            "354088332613083"
+        ],
+        "state_type": "FBP"
+    },
+    "comdata.com": {
+        "pixel_ids": [
+            "407080290039008"
+        ],
+        "state_type": "FBP"
+    },
+    "sierranevada.es": {
+        "pixel_ids": [
+            "397127420674169",
+            "893043088228684"
+        ],
+        "state_type": "FBP"
+    },
+    "onesizebeauty.com": {
+        "pixel_ids": [
+            "455568601979617"
+        ],
+        "state_type": "FBP"
+    },
+    "fxclub.com": {
+        "pixel_ids": [
+            "660347642584639"
+        ],
+        "state_type": "FBP"
+    },
+    "misa.com.vn": {
+        "pixel_ids": [
+            "1871957233271582"
+        ],
+        "state_type": "GTM"
+    },
+    "sivale.mx": {
+        "pixel_ids": [
+            "886433869138925",
+            "1498643570855192"
+        ],
+        "state_type": "FBP"
+    },
+    "cupids.com": {
+        "pixel_ids": [
+            "201518809299542"
+        ],
+        "state_type": "FBP"
+    },
+    "ggc.edu": {
+        "pixel_ids": [
+            "117090182300493",
+            "250157069599923"
+        ],
+        "state_type": "FBP"
+    },
+    "1wvnn.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "hoffmanacademy.com": {
+        "pixel_ids": [
+            "1651536501762512"
+        ],
+        "state_type": "FBP"
+    },
+    "milespartnership.com": {
+        "pixel_ids": [
+            "510376854264311"
+        ],
+        "state_type": "FBP"
+    },
+    "freaksstore.com": {
+        "pixel_ids": [
+            "901292963595721",
+            "1524013978205030"
+        ],
+        "state_type": "FBP"
+    },
+    "foodservicedirector.com": {
+        "pixel_ids": [
+            "2312576382387832",
+            "449146980278992"
+        ],
+        "state_type": "FBP"
+    },
+    "speediance.com": {
+        "pixel_ids": [
+            "527256952672364"
+        ],
+        "state_type": "FBP"
+    },
+    "digitalbuzzblog.com": {
+        "pixel_ids": [
+            "961211893969940"
+        ],
+        "state_type": "FBP"
+    },
+    "kinodex.cam": {
+        "pixel_ids": [
+            "776488579087398"
+        ],
+        "state_type": "FBP"
+    },
+    "stmoritz.ch": {
+        "pixel_ids": [
+            "235522011796486"
+        ],
+        "state_type": "GTM"
+    },
+    "audioquest.com": {
+        "pixel_ids": [
+            "3521054018143258"
+        ],
+        "state_type": "FBP"
+    },
+    "haydenplanetarium.org": {
+        "pixel_ids": [
+            "344984802502887"
+        ],
+        "state_type": "FBP"
+    },
+    "clevelandorchestra.com": {
+        "pixel_ids": [
+            "668803536611392",
+            "1904753743078101"
+        ],
+        "state_type": "FBP"
+    },
+    "sapphirestudio.pk": {
+        "pixel_ids": [
+            "333074375718376"
+        ],
+        "state_type": "FBP"
+    },
+    "accepted.com": {
+        "pixel_ids": [
+            "1084817031557287"
+        ],
+        "state_type": "FBP"
+    },
+    "osagoprm.pw": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "tothemoon.com": {
+        "pixel_ids": [
+            "638333744298550"
+        ],
+        "state_type": "GTM"
+    },
+    "astel.kz": {
+        "pixel_ids": [
+            "723076868391823",
+            "511469275019869"
+        ],
+        "state_type": "FBP"
+    },
+    "astrthelabel.com": {
+        "pixel_ids": [
+            "389332648189641"
+        ],
+        "state_type": "FBP"
+    },
+    "belapb.by": {
+        "pixel_ids": [
+            "634531137335298"
+        ],
+        "state_type": "FBP"
+    },
+    "birdfy.com": {
+        "pixel_ids": [
+            "824499095760399"
+        ],
+        "state_type": "FBP"
+    },
+    "webnoviny.sk": {
+        "pixel_ids": [
+            "547725143951075"
+        ],
+        "state_type": "FBP"
+    },
+    "enterprisetrucks.com": {
+        "pixel_ids": [
+            "1374069453329001"
+        ],
+        "state_type": "FBP"
+    },
+    "otocapital.in": {
+        "pixel_ids": [
+            "797926065632658"
+        ],
+        "state_type": "FBP"
+    },
+    "thehomelike.com": {
+        "pixel_ids": [
+            "1542818579360573"
+        ],
+        "state_type": "GTM"
+    },
+    "hamiltoncollection.com": {
+        "pixel_ids": [
+            "1410900922517206"
+        ],
+        "state_type": "FBP"
+    },
+    "playvodbytt.com": {
+        "pixel_ids": [
+            "1732341993757225"
+        ],
+        "state_type": "GTM"
+    },
+    "bons.com": {
+        "pixel_ids": [
+            "309171478248942"
+        ],
+        "state_type": "FBP"
+    },
+    "masaischool.com": {
+        "pixel_ids": [
+            "2004292066747717"
+        ],
+        "state_type": "FBP"
+    },
+    "theuzzle.com": {
+        "pixel_ids": [
+            "492144182055563"
+        ],
+        "state_type": "FBP"
+    },
+    "horze.de": {
+        "pixel_ids": [
+            "1925645717659619"
+        ],
+        "state_type": "GTM"
+    },
+    "youthhostel.ch": {
+        "pixel_ids": [
+            "596347207170451"
+        ],
+        "state_type": "FBP"
+    },
+    "perfecthair.ch": {
+        "pixel_ids": [
+            "1116210808421382"
+        ],
+        "state_type": "FBP"
+    },
+    "solcast.com.au": {
+        "pixel_ids": [
+            "705369909799771"
+        ],
+        "state_type": "FBP"
+    },
+    "wwdmag.com": {
+        "pixel_ids": [
+            "2380240518883472"
+        ],
+        "state_type": "FBP"
+    },
+    "dustin.se": {
+        "pixel_ids": [
+            "485402788916202"
+        ],
+        "state_type": "GTM"
+    },
+    "fulfillingcareer.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "vivawallet.com": {
+        "pixel_ids": [
+            "967405003874354"
+        ],
+        "state_type": "GTM"
+    },
+    "keystonerv.com": {
+        "pixel_ids": [
+            "2333947716930158"
+        ],
+        "state_type": "GTM"
+    },
+    "naturesbest.co.uk": {
+        "pixel_ids": [
+            "1275729469168422"
+        ],
+        "state_type": "GTM"
+    },
+    "getmoss.com": {
+        "pixel_ids": [
+            "610831449525328"
+        ],
+        "state_type": "GTM"
+    },
+    "omalbykomal.com": {
+        "pixel_ids": [
+            "431499594957213"
+        ],
+        "state_type": "FBP"
+    },
+    "k18hair.com": {
+        "pixel_ids": [
+            "405828463620554"
+        ],
+        "state_type": "FBP"
+    },
+    "3wishes.com": {
+        "pixel_ids": [
+            "1469920796607637"
+        ],
+        "state_type": "FBP"
+    },
+    "joyfolie.com": {
+        "pixel_ids": [
+            "699747390186249"
+        ],
+        "state_type": "FBP"
+    },
+    "aarpdriversafety.org": {
+        "pixel_ids": [
+            "167789046887901",
+            "1468083936810812",
+            "829917943733816",
+            "841670529367093"
+        ],
+        "state_type": "FBP"
+    },
+    "mightynest.com": {
+        "pixel_ids": [
+            "1093172760756994"
+        ],
+        "state_type": "FBP"
+    },
+    "raa.com.au": {
+        "pixel_ids": [
+            "183456685564759"
+        ],
+        "state_type": "FBP"
+    },
+    "sunnyhealthfitness.com": {
+        "pixel_ids": [
+            "484117062424943"
+        ],
+        "state_type": "FBP"
+    },
+    "manufacturingdive.com": {
+        "pixel_ids": [
+            "483185210534057"
+        ],
+        "state_type": "FBP"
+    },
+    "qwest.com": {
+        "pixel_ids": [
+            "620758042658205",
+            "1401480206566122",
+            "1863475040692039",
+            "726652178384507"
+        ],
+        "state_type": "FBP"
+    },
+    "klyb-vulkan.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "somethingnicecompany.com": {
+        "pixel_ids": [
+            "2183198908721178",
+            "279080051640795"
+        ],
+        "state_type": "FBP"
+    },
+    "backstagepro.de": {
+        "pixel_ids": [
+            "520898398018927"
+        ],
+        "state_type": "GTM"
+    },
+    "thebeerstore.ca": {
+        "pixel_ids": [
+            "1068765631092865"
+        ],
+        "state_type": "FBP"
+    },
+    "proshop.fi": {
+        "pixel_ids": [
+            "1683264511939728"
+        ],
+        "state_type": "GTM"
+    },
+    "inov8.com": {
+        "pixel_ids": [
+            "2237635662954930"
+        ],
+        "state_type": "GTM"
+    },
+    "designeroptics.com": {
+        "pixel_ids": [
+            "1495659110724135"
+        ],
+        "state_type": "FBP"
+    },
+    "masseffect.com": {
+        "pixel_ids": [
+            "369792873645645"
+        ],
+        "state_type": "FBP"
+    },
+    "fulfillingcareer.website": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "pcauthority.com.au": {
+        "pixel_ids": [
+            "1763861620675214",
+            "1422285942000622"
+        ],
+        "state_type": "FBP"
+    },
+    "loogguitars.com": {
+        "pixel_ids": [
+            "179844959017179"
+        ],
+        "state_type": "FBP"
+    },
+    "koopjedeal.nl": {
+        "pixel_ids": [
+            "747821312010676"
+        ],
+        "state_type": "FBP"
+    },
+    "feversave.com": {
+        "pixel_ids": [
+            "552694925477252"
+        ],
+        "state_type": "FBP"
+    },
+    "traversecity.com": {
+        "pixel_ids": [
+            "1684556521790758",
+            "1083275119171973"
+        ],
+        "state_type": "FBP"
+    },
+    "qubit.hu": {
+        "pixel_ids": [
+            "349911327381769"
+        ],
+        "state_type": "FBP"
+    },
+    "forever21.ca": {
+        "pixel_ids": [
+            "211364639248118"
+        ],
+        "state_type": "FBP"
+    },
+    "bos868suci.space": {
+        "pixel_ids": [
+            "1132065267809792",
+            "1283838452969988",
+            "1096174431382768",
+            "1221135318941562",
+            "2895697917246999",
+            "1302290674098753",
+            "935093592001967",
+            "557750567202252",
+            "1324745038903620",
+            "1260548635262439",
+            "549228081403508",
+            "1088401359103359",
+            "537326959085230",
+            "2553901281666985",
+            "1090762476179155",
+            "1340778700386544",
+            "1071529783822833"
+        ],
+        "state_type": "FBP"
+    },
+    "visitbrisbane.com.au": {
+        "pixel_ids": [
+            "1906146959641001",
+            "757278634413788",
+            "1705893349678278",
+            "179610889065964"
+        ],
+        "state_type": "FBP"
+    },
+    "ethicaljobs.com.au": {
+        "pixel_ids": [
+            "309627726320447",
+            "588592981528068"
+        ],
+        "state_type": "FBP"
+    },
+    "tdcommercialbanking.com": {
+        "pixel_ids": [
+            "2552549591443815",
+            "617227699050620",
+            "1790305597780326"
+        ],
+        "state_type": "FBP"
+    },
+    "betvisa365.net": {
+        "pixel_ids": [
+            "207713848899320",
+            "946814196588975"
+        ],
+        "state_type": "GTM"
+    },
+    "bally.com": {
+        "pixel_ids": [
+            "402950593969373"
+        ],
+        "state_type": "GTM"
+    },
+    "ida.dk": {
+        "pixel_ids": [
+            "665531663869393",
+            "1173075512815874"
+        ],
+        "state_type": "GTM"
+    },
+    "nairabet.com": {
+        "pixel_ids": [
+            "847540127534732"
+        ],
+        "state_type": "GTM"
+    },
+    "jnco.com": {
+        "pixel_ids": [
+            "696764605120866"
+        ],
+        "state_type": "FBP"
+    },
+    "24orebs.com": {
+        "pixel_ids": [
+            "136863347113748"
+        ],
+        "state_type": "GTM"
+    },
+    "staplesconnect.com": {
+        "pixel_ids": [
+            "902194693239898"
+        ],
+        "state_type": "FBP"
+    },
+    "gam3s.gg": {
+        "pixel_ids": [
+            "637143715471521"
+        ],
+        "state_type": "FBP"
+    },
+    "ortto.com": {
+        "pixel_ids": [
+            "2574394622616380"
+        ],
+        "state_type": "FBP"
+    },
+    "intersport.at": {
+        "pixel_ids": [
+            "2545564882325696",
+            "408531377194577",
+            "442768757759276",
+            "2638408176379647"
+        ],
+        "state_type": "GTM"
+    },
+    "whiteandwarren.com": {
+        "pixel_ids": [
+            "1698874223695136"
+        ],
+        "state_type": "FBP"
+    },
+    "orbia.ag": {
+        "pixel_ids": [
+            "146200953373305"
+        ],
+        "state_type": "FBP"
+    },
+    "farmacie.md": {
+        "pixel_ids": [
+            "624194323045411"
+        ],
+        "state_type": "FBP"
+    },
+    "safernetwork.io": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "halsbrook.com": {
+        "pixel_ids": [
+            "1589913014629685"
+        ],
+        "state_type": "FBP"
+    },
+    "alnylam.com": {
+        "pixel_ids": [
+            "1673898256448119"
+        ],
+        "state_type": "FBP"
+    },
+    "laboutiqueharibo.fr": {
+        "pixel_ids": [
+            "1402663413110239",
+            "2840207526235960"
+        ],
+        "state_type": "GTM"
+    },
+    "tommys-express.com": {
+        "pixel_ids": [
+            "1863782487249585"
+        ],
+        "state_type": "FBP"
+    },
+    "saje.ca": {
+        "pixel_ids": [
+            "329769091078884"
+        ],
+        "state_type": "FBP"
+    },
+    "aboutyou-outlet.de": {
+        "pixel_ids": [
+            "683244592912623"
+        ],
+        "state_type": "GTM"
+    },
+    "gruns.co": {
+        "pixel_ids": [
+            "306692628499122"
+        ],
+        "state_type": "FBP"
+    },
+    "xerox.ru": {
+        "pixel_ids": [
+            "699177160265680"
+        ],
+        "state_type": "GTM"
+    },
+    "membershop.lt": {
+        "pixel_ids": [
+            "1068390106530113"
+        ],
+        "state_type": "FBP"
+    },
+    "blogdoiphone.com": {
+        "pixel_ids": [
+            "586484003305588"
+        ],
+        "state_type": "GTM"
+    },
+    "zerolatencyvr.com": {
+        "pixel_ids": [
+            "325406738033962"
+        ],
+        "state_type": "FBP"
+    },
+    "lovescout24.com": {
+        "pixel_ids": [
+            "none"
+        ],
+        "state_type": "GTM"
+    },
+    "robbu.global": {
+        "pixel_ids": [
+            "228657139140428"
+        ],
+        "state_type": "GTM"
+    },
+    "localgiving.org": {
+        "pixel_ids": [
+            "402944042818052"
+        ],
+        "state_type": "GTM"
+    },
+    "1wejc.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "gold-9998.site": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "getbambu.com": {
+        "pixel_ids": [
+            "1992719504290345"
+        ],
+        "state_type": "FBP"
+    },
+    "chicpoint1688.com": {
+        "pixel_ids": [
+            "923539235394612"
+        ],
+        "state_type": "FBP"
+    },
+    "ispring.com": {
+        "pixel_ids": [
+            "695421618674347",
+            "1216641242387066",
+            "6238947699506760"
+        ],
+        "state_type": "FBP"
+    },
+    "fb003.cc": {
+        "pixel_ids": [
+            "205774382074728"
+        ],
+        "state_type": "FBP"
+    },
+    "apo.com": {
+        "pixel_ids": [
+            "769227629895259"
+        ],
+        "state_type": "GTM"
+    },
+    "hellobubble.com": {
+        "pixel_ids": [
+            "284986079404125"
+        ],
+        "state_type": "FBP"
+    },
+    "1800accountant.com": {
+        "pixel_ids": [
+            "1769898159978729"
+        ],
+        "state_type": "FBP"
+    },
+    "maximawatches.com": {
+        "pixel_ids": [
+            "393315754163300"
+        ],
+        "state_type": "FBP"
+    },
+    "cliomakeupshop.com": {
+        "pixel_ids": [
+            "586224431836960"
+        ],
+        "state_type": "FBP"
+    },
+    "emotanafricana.com": {
+        "pixel_ids": [
+            "794152089559370"
+        ],
+        "state_type": "FBP"
+    },
+    "retrospec.com": {
+        "pixel_ids": [
+            "171506867059561",
+            "1068153050020791"
+        ],
+        "state_type": "FBP"
+    },
+    "malt.com": {
+        "pixel_ids": [
+            "929703048090586"
+        ],
+        "state_type": "GTM"
+    },
+    "luamaya.com": {
+        "pixel_ids": [
+            "951322331690430"
+        ],
+        "state_type": "FBP"
+    },
+    "ever-pretty.com": {
+        "pixel_ids": [
+            "775415639169845"
+        ],
+        "state_type": "FBP"
+    },
+    "versandapo.de": {
+        "pixel_ids": [
+            "1090925811673817"
+        ],
+        "state_type": "GTM"
+    },
+    "eagames52.com": {
+        "pixel_ids": [
+            "1065020054861293",
+            "394856566715731"
+        ],
+        "state_type": "FBP"
+    },
+    "vidapay.com": {
+        "pixel_ids": [
+            "150606279119595"
+        ],
+        "state_type": "FBP"
+    },
+    "thecushionlab.com": {
+        "pixel_ids": [
+            "568735627265222"
+        ],
+        "state_type": "FBP"
+    },
+    "hopelingerie.com.br": {
+        "pixel_ids": [
+            "1628479744079116"
+        ],
+        "state_type": "FBP"
+    },
+    "thinkfun.com": {
+        "pixel_ids": [
+            "340591515719823"
+        ],
+        "state_type": "GTM"
+    },
+    "44.ua": {
+        "pixel_ids": [
+            "594197547666746",
+            "510952742744776",
+            "540188039778084",
+            "724666601243894",
+            "2718182741528799",
+            "581623418958490",
+            "1059761747537204",
+            "283052114242905",
+            "504551313372955",
+            "2158744937724989",
+            "734919478771889"
+        ],
+        "state_type": "GTM"
+    },
+    "appwiki.nl": {
+        "pixel_ids": [
+            "1608747192706872"
+        ],
+        "state_type": "FBP"
+    },
+    "cledepeaubeaute.com": {
+        "pixel_ids": [
+            "730674907051125"
+        ],
+        "state_type": "GTM"
+    },
+    "blocksurvey.io": {
+        "pixel_ids": [
+            "760110427885600"
+        ],
+        "state_type": "FBP"
+    },
+    "josiemaran.com": {
+        "pixel_ids": [
+            "112152172580276"
+        ],
+        "state_type": "FBP"
+    },
+    "unl.ua": {
+        "pixel_ids": [
+            "2277420445880042"
+        ],
+        "state_type": "FBP"
+    },
+    "islamic-relief.org": {
+        "pixel_ids": [
+            "6898689640205211"
+        ],
+        "state_type": "FBP"
+    },
+    "lv77.club": {
+        "pixel_ids": [
+            "3825175181052244"
+        ],
+        "state_type": "FBP"
+    },
+    "rupiahlink.com": {
+        "pixel_ids": [
+            "7352073794823546",
+            "1568170900619947",
+            "335250219292249",
+            "892668212471626",
+            "1341613983162862",
+            "1067183797735518",
+            "921994779462649",
+            "403037745462187",
+            "811842964108950",
+            "2083340002035298",
+            "781634483853898",
+            "424181603625607",
+            "1876732746079655",
+            "1568102157286818",
+            "2749779348512395",
+            "1461900174731313",
+            "792243429678280",
+            "2771578716340365",
+            "1323905781900021",
+            "480635484417028",
+            "522751913943697",
+            "511439985191600",
+            "856045596647220"
+        ],
+        "state_type": "FBP"
+    },
+    "bmc-switzerland.com": {
+        "pixel_ids": [
+            "352937992073964"
+        ],
+        "state_type": "FBP"
+    },
+    "avnetwork.com": {
+        "pixel_ids": [
+            "133118486307524",
+            "421173305611412",
+            "613224903724544",
+            "348113813161616",
+            "1419392732227674",
+            "1663817944058293",
+            "6283949994960105",
+            "672792054605130",
+            "248805657506588",
+            "767318455019603",
+            "353091285056157",
+            "1458901861546027",
+            "1763861620675214",
+            "756449714459937",
+            "2298603297004068",
+            "230404523817416",
+            "524556479877679",
+            "210550441925800",
+            "540347474949339",
+            "435938464259774",
+            "160283406678006",
+            "1390539141708760",
+            "525312866480830",
+            "2865580377096397",
+            "1271399983808821",
+            "730220005507789",
+            "1947886852216039",
+            "372119229845732",
+            "1156339755061614",
+            "6362521477145898",
+            "1422285942000622",
+            "957766072330025",
+            "147874851577407",
+            "519291888939322",
+            "985232152415587",
+            "1301350964289887",
+            "1390077341535711",
+            "910629230208400",
+            "903254207568934",
+            "797236145300431",
+            "1619645798512562",
+            "1115630938870633",
+            "626342955977594"
+        ],
+        "state_type": "GTM"
+    },
+    "getresponse.pl": {
+        "pixel_ids": [
+            "137718833288453"
+        ],
+        "state_type": "FBP"
+    },
+    "dsq-sds.org": {
+        "pixel_ids": [
+            "1752529721656045"
+        ],
+        "state_type": "GTM"
+    },
+    "vavada.live": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "supersonic.co.za": {
+        "pixel_ids": [
+            "641934811409941"
+        ],
+        "state_type": "FBP"
+    },
+    "dynastynerds.com": {
+        "pixel_ids": [
+            "6749109785177902"
+        ],
+        "state_type": "FBP"
+    },
+    "1wxun.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "rexel.de": {
+        "pixel_ids": [
+            "363733471554888",
+            "1019345892923827"
+        ],
+        "state_type": "GTM"
+    },
+    "ladating.net": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "zalando-lounge.it": {
+        "pixel_ids": [
+            "130012280739307",
+            "1441805072757407",
+            "450789210146796",
+            "215235690513220",
+            "2737730169584505",
+            "343972264131767",
+            "1007329883369728",
+            "500349837076837",
+            "1495213624031658",
+            "2814062618887508",
+            "1153350728030344",
+            "550256131752722",
+            "479261208843016",
+            "1494107820805936",
+            "1712059109095941",
+            "777980103143088",
+            "130012280739307",
+            "1441805072757407",
+            "450789210146796",
+            "215235690513220",
+            "2737730169584505",
+            "343972264131767",
+            "1007329883369728",
+            "500349837076837",
+            "1495213624031658",
+            "2814062618887508",
+            "1153350728030344",
+            "550256131752722",
+            "479261208843016",
+            "1494107820805936",
+            "1712059109095941",
+            "777980103143088"
+        ],
+        "state_type": "GTM"
+    },
+    "atbbq.com": {
+        "pixel_ids": [
+            "2034830760145246"
+        ],
+        "state_type": "FBP"
+    },
+    "lululemonstudio.com": {
+        "pixel_ids": [
+            "195958110957952"
+        ],
+        "state_type": "FBP"
+    },
+    "checkfreepay.com": {
+        "pixel_ids": [
+            "699036376938881"
+        ],
+        "state_type": "FBP"
+    },
+    "airniugini.com.pg": {
+        "pixel_ids": [
+            "173343713914999"
+        ],
+        "state_type": "FBP"
+    },
+    "urbanindustry.co.uk": {
+        "pixel_ids": [
+            "1319871841447971"
+        ],
+        "state_type": "FBP"
+    },
+    "bestbuycanada.ca": {
+        "pixel_ids": [
+            "1644504072475165"
+        ],
+        "state_type": "FBP"
+    },
+    "studiomuseum.org": {
+        "pixel_ids": [
+            "1121220499104251"
+        ],
+        "state_type": "FBP"
+    },
+    "eventhorizon.tech": {
+        "pixel_ids": [
+            "189693410905854"
+        ],
+        "state_type": "FBP"
+    },
+    "pez.com": {
+        "pixel_ids": [
+            "1708157312840775"
+        ],
+        "state_type": "FBP"
+    },
+    "materlotteries.com.au": {
+        "pixel_ids": [
+            "240712342785221",
+            "143090837631358",
+            "283625926528457"
+        ],
+        "state_type": "FBP"
+    },
+    "deemos.com": {
+        "pixel_ids": [
+            "1678220152964502"
+        ],
+        "state_type": "GTM"
+    },
+    "time-key.space": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "rocky-horror-show.de": {
+        "pixel_ids": [
+            "1276057840373816",
+            "957725534350385"
+        ],
+        "state_type": "GTM"
+    },
+    "starkidsstore.in": {
+        "pixel_ids": [
+            "860844078621313",
+            "3715884285396735",
+            "742702704509860",
+            "1804669050055582",
+            "1364154114765810",
+            "1333581083896550"
+        ],
+        "state_type": "FBP"
+    },
+    "myrevair.com": {
+        "pixel_ids": [
+            "432144240901161"
+        ],
+        "state_type": "FBP"
+    },
+    "banarasee.in": {
+        "pixel_ids": [
+            "234522640240862"
+        ],
+        "state_type": "FBP"
+    },
+    "hitfilm.com": {
+        "pixel_ids": [
+            "752180849133014"
+        ],
+        "state_type": "FBP"
+    },
+    "jennieo.com": {
+        "pixel_ids": [
+            "730145627067847"
+        ],
+        "state_type": "FBP"
+    },
+    "kastatotofun.com": {
+        "pixel_ids": [
+            "626031513196191",
+            "962647595923056"
+        ],
+        "state_type": "FBP"
+    },
+    "inspirahealthnetwork.org": {
+        "pixel_ids": [
+            "1249209301767191"
+        ],
+        "state_type": "GTM"
+    },
+    "2plus2.ua": {
+        "pixel_ids": [
+            "450887889857312"
+        ],
+        "state_type": "GTM"
+    },
+    "airfocus.com": {
+        "pixel_ids": [
+            "1567587016881148"
+        ],
+        "state_type": "FBP"
+    },
+    "pentera.io": {
+        "pixel_ids": [
+            "1089256188100749"
+        ],
+        "state_type": "GTM"
+    },
+    "agelessrx.com": {
+        "pixel_ids": [
+            "2964472750286887"
+        ],
+        "state_type": "GTM"
+    },
+    "ampl.ink": {
+        "pixel_ids": [
+            "147570044045859"
+        ],
+        "state_type": "GTM"
+    },
+    "bactrack.com": {
+        "pixel_ids": [
+            "698100403611298"
+        ],
+        "state_type": "FBP"
+    },
+    "slotcash777.com": {
+        "pixel_ids": [
+            "534635655791716"
+        ],
+        "state_type": "FBP"
+    },
+    "armastrasmediterranea.com": {
+        "pixel_ids": [
+            "2104076266516939",
+            "1832329103961130"
+        ],
+        "state_type": "FBP"
+    },
+    "wego.jp": {
+        "pixel_ids": [
+            "1116282095111867"
+        ],
+        "state_type": "FBP"
+    },
+    "boironusa.com": {
+        "pixel_ids": [
+            "713757908701319"
+        ],
+        "state_type": "FBP"
+    },
+    "baskino-hd1.live": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "brhome.com": {
+        "pixel_ids": [
+            "1862470843828301"
+        ],
+        "state_type": "FBP"
+    },
+    "endurasport.com": {
+        "pixel_ids": [
+            "en_GB"
+        ],
+        "state_type": "GTM"
+    },
+    "visitfredericksburgtx.com": {
+        "pixel_ids": [
+            "1788997151152056",
+            "300383356369765"
+        ],
+        "state_type": "FBP"
+    },
+    "fulltilt3.com": {
+        "pixel_ids": [
+            "525785668203376",
+            "1950417788596748",
+            "207235553208333",
+            "356952005540116",
+            "2090805121031871"
+        ],
+        "state_type": "GTM"
+    },
+    "katebackdrop.com": {
+        "pixel_ids": [
+            "340539391276281"
+        ],
+        "state_type": "FBP"
+    },
+    "robertmondaviwinery.com": {
+        "pixel_ids": [
+            "525784681747180"
+        ],
+        "state_type": "FBP"
+    },
+    "fatty15.com": {
+        "pixel_ids": [
+            "626758544656332"
+        ],
+        "state_type": "FBP"
+    },
+    "picta.com": {
+        "pixel_ids": [
+            "317677557042122"
+        ],
+        "state_type": "FBP"
+    },
+    "attitudeliving.com": {
+        "pixel_ids": [
+            "576969699750743"
+        ],
+        "state_type": "GTM"
+    },
+    "burrisoptics.com": {
+        "pixel_ids": [
+            "1127253081063824"
+        ],
+        "state_type": "FBP"
+    },
+    "zapatoferoz.es": {
+        "pixel_ids": [
+            "1898142483796580"
+        ],
+        "state_type": "FBP"
+    },
+    "vanswarpedtour.com": {
+        "pixel_ids": [
+            "1064368820328251"
+        ],
+        "state_type": "FBP"
+    },
+    "uqat.ca": {
+        "pixel_ids": [
+            "325306576462380",
+            "1647151538906263"
+        ],
+        "state_type": "FBP"
+    },
+    "lays.com": {
+        "pixel_ids": [
+            "1741884552562009",
+            "384245912404524",
+            "293503344509511"
+        ],
+        "state_type": "GTM"
+    },
+    "homeinstead.co.uk": {
+        "pixel_ids": [
+            "388925895766874"
+        ],
+        "state_type": "GTM"
+    },
+    "palig.com": {
+        "pixel_ids": [
+            "1617320752002329"
+        ],
+        "state_type": "GTM"
+    },
+    "earthbreeze.com": {
+        "pixel_ids": [
+            "596488994452999",
+            "409655591752209",
+            "1586409178979449"
+        ],
+        "state_type": "GTM"
+    },
+    "electrolux.fr": {
+        "pixel_ids": [
+            "572350329848544",
+            "279975749516572",
+            "9200000099248642",
+            "239142116758104",
+            "1883184958616156",
+            "138683509992586",
+            "1311647672258846"
+        ],
+        "state_type": "GTM"
+    },
+    "electronicfirst.com": {
+        "pixel_ids": [
+            "269748553438312"
+        ],
+        "state_type": "GTM"
+    },
+    "theculturefactor.com": {
+        "pixel_ids": [
+            "347760078751693"
+        ],
+        "state_type": "FBP"
+    },
+    "chrono24.com.tr": {
+        "pixel_ids": [
+            "980238915442851"
+        ],
+        "state_type": "GTM"
+    },
+    "herrenausstatter.de": {
+        "pixel_ids": [
+            "1148977621896624"
+        ],
+        "state_type": "GTM"
+    },
+    "lobster.de": {
+        "pixel_ids": [
+            "941929500676300"
+        ],
+        "state_type": "FBP"
+    },
+    "generationtux.com": {
+        "pixel_ids": [
+            "1633635470219191"
+        ],
+        "state_type": "FBP"
+    },
+    "starbucks.nl": {
+        "pixel_ids": [
+            "550720503522396",
+            "651281706557974",
+            "827259592039695",
+            "1143844653217423"
+        ],
+        "state_type": "GTM"
+    },
+    "originalpenguin.com": {
+        "pixel_ids": [
+            "945283155550546"
+        ],
+        "state_type": "FBP"
+    },
+    "druckerzubehoer.de": {
+        "pixel_ids": [
+            "609419867044951"
+        ],
+        "state_type": "GTM"
+    },
+    "jawwy.sa": {
+        "pixel_ids": [
+            "2173729539648279",
+            "394716691451429"
+        ],
+        "state_type": "FBP"
+    },
+    "freshpreserving.com": {
+        "pixel_ids": [
+            "281590781373412"
+        ],
+        "state_type": "FBP"
+    },
+    "parallel.life": {
+        "pixel_ids": [
+            "253521950288095"
+        ],
+        "state_type": "FBP"
+    },
+    "exinariuminix.info": {
+        "pixel_ids": [
+            "1483203006415954",
+            "1650958108523345"
+        ],
+        "state_type": "FBP"
+    },
+    "nidecker.com": {
+        "pixel_ids": [
+            "1186422851081635"
+        ],
+        "state_type": "GTM"
+    },
+    "crowdtap.com": {
+        "pixel_ids": [
+            "446511202165482"
+        ],
+        "state_type": "FBP"
+    },
+    "medef.com": {
+        "pixel_ids": [
+            "2691277274221789"
+        ],
+        "state_type": "FBP"
+    },
+    "prezzee.uk": {
+        "pixel_ids": [
+            "383495013208748"
+        ],
+        "state_type": "FBP"
+    },
+    "divan.by": {
+        "pixel_ids": [
+            "776120379435745",
+            "448306669148862"
+        ],
+        "state_type": "FBP"
+    },
+    "goziohealth.com": {
+        "pixel_ids": [
+            "2777200282301328"
+        ],
+        "state_type": "FBP"
+    },
+    "taylorandhart.com": {
+        "pixel_ids": [
+            "555641914595242"
+        ],
+        "state_type": "FBP"
+    },
+    "aeropost.com": {
+        "pixel_ids": [
+            "1315464509367260",
+            "2191262374411270",
+            "1007501570664065",
+            "1035454937892289",
+            "1304269710302161",
+            "797548038505238",
+            "1293768204856351",
+            "278947034750920",
+            "815342553175336",
+            "295311080103319",
+            "1999265513798792",
+            "220405357541162"
+        ],
+        "state_type": "GTM"
+    },
+    "zerofoxtrot.com": {
+        "pixel_ids": [
+            "1338951596179834"
+        ],
+        "state_type": "FBP"
+    },
+    "evannex.com": {
+        "pixel_ids": [
+            "2229233300688070"
+        ],
+        "state_type": "FBP"
+    },
+    "highfashionhome.com": {
+        "pixel_ids": [
+            "561874077294452"
+        ],
+        "state_type": "FBP"
+    },
+    "oysho.net": {
+        "pixel_ids": [
+            "320559284806988",
+            "859211820843201"
+        ],
+        "state_type": "GTM"
+    },
+    "pocsports.com": {
+        "pixel_ids": [
+            "260207704312658"
+        ],
+        "state_type": "GTM"
+    },
+    "jlobeauty.com": {
+        "pixel_ids": [
+            "251081283004602"
+        ],
+        "state_type": "FBP"
+    },
+    "mobilityhouse.com": {
+        "pixel_ids": [
+            "1566007437630351"
+        ],
+        "state_type": "FBP"
+    },
+    "fournisseurs-electricite.com": {
+        "pixel_ids": [
+            "1395294264077293"
+        ],
+        "state_type": "GTM"
+    },
+    "smile-zemi.com": {
+        "pixel_ids": [
+            "180169208181336",
+            "828374189148320"
+        ],
+        "state_type": "FBP"
+    },
+    "massive.app": {
+        "pixel_ids": [
+            "1368053610211434"
+        ],
+        "state_type": "FBP"
+    },
+    "mindpumpmedia.com": {
+        "pixel_ids": [
+            "1857660434261040"
+        ],
+        "state_type": "FBP"
+    },
+    "dailyadvertiser.com.au": {
+        "pixel_ids": [
+            "212556246621990"
+        ],
+        "state_type": "FBP"
+    },
+    "desiderimagazine.it": {
+        "pixel_ids": [
+            "1686880311761688",
+            "3259013941018871",
+            "892780688070405"
+        ],
+        "state_type": "GTM"
+    },
+    "syngenta.co.in": {
+        "pixel_ids": [
+            "505349913503919"
+        ],
+        "state_type": "FBP"
+    },
+    "essaypromaster.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "vertx.com": {
+        "pixel_ids": [
+            "1025764837803497"
+        ],
+        "state_type": "FBP"
+    },
+    "anymarket.com.br": {
+        "pixel_ids": [
+            "1269171013697916",
+            "1093509427421774"
+        ],
+        "state_type": "FBP"
+    },
+    "777admiral.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "goempyrean.com": {
+        "pixel_ids": [
+            "1042376462495596"
+        ],
+        "state_type": "GTM"
+    },
+    "oneskin.co": {
+        "pixel_ids": [
+            "382128926481247"
+        ],
+        "state_type": "GTM"
+    },
+    "boynemountain.com": {
+        "pixel_ids": [
+            "206152643470395",
+            "627539521194897",
+            "196785931646275",
+            "284087199068845"
+        ],
+        "state_type": "FBP"
+    },
+    "fmovie.ac": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "startplaying.games": {
+        "pixel_ids": [
+            "559870711570747"
+        ],
+        "state_type": "FBP"
+    },
+    "vettimes.co.uk": {
+        "pixel_ids": [
+            "891020484329476"
+        ],
+        "state_type": "FBP"
+    },
+    "torinoggi.it": {
+        "pixel_ids": [
+            "939853623557132"
+        ],
+        "state_type": "FBP"
+    },
+    "isabellacharms.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "pixsy.com": {
+        "pixel_ids": [
+            "858900921315634",
+            "1797475700506919"
+        ],
+        "state_type": "FBP"
+    },
+    "scotsmanguide.com": {
+        "pixel_ids": [
+            "669181128169618"
+        ],
+        "state_type": "FBP"
+    },
+    "spiffy.com.au": {
+        "pixel_ids": [
+            "1388992094690271"
+        ],
+        "state_type": "FBP"
+    },
+    "berkley-fishing.com": {
+        "pixel_ids": [
+            "375367116627814"
+        ],
+        "state_type": "FBP"
+    },
+    "zoetryresorts.com": {
+        "pixel_ids": [
+            "201242077772188"
+        ],
+        "state_type": "FBP"
+    },
+    "vlan.be": {
+        "pixel_ids": [
+            "1690697577811923"
+        ],
+        "state_type": "GTM"
+    },
+    "insurancequotes.com": {
+        "pixel_ids": [
+            "210863429780339",
+            "4422751411158100",
+            "5727716970587987",
+            "2214267965472165",
+            "453576506229661",
+            "1702508429971704",
+            "754406881777137",
+            "527145885034126",
+            "597346200918897",
+            "618032419150743",
+            "179073059253105",
+            "499886394218675",
+            "461956227845650",
+            "346090366566406",
+            "587831175223643",
+            "953325398599765",
+            "2898900910184107",
+            "822450382443150",
+            "444005043173455",
+            "1239623173056727",
+            "3268454616519287",
+            "429938121059564",
+            "2082545491909779",
+            "357512501555487",
+            "973713096483293",
+            "641573109783825",
+            "622694038872970",
+            "983164882253498",
+            "3037321163191783",
+            "715225445724204",
+            "1357602990994580",
+            "1265152477162953",
+            "420036731932356",
+            "2229977537297394",
+            "454664692056459",
+            "434784603998245",
+            "3206067416156576",
+            "374761093419636",
+            "504441423331695",
+            "313658605778085",
+            "876745049521296",
+            "993445947709618",
+            "2084138558348824",
+            "666429984700718"
+        ],
+        "state_type": "GTM"
+    },
+    "sa365sumo.com": {
+        "pixel_ids": [
+            "997201165772458"
+        ],
+        "state_type": "FBP"
+    },
+    "northone.com": {
+        "pixel_ids": [
+            "167360690326685"
+        ],
+        "state_type": "FBP"
+    },
+    "dogfood1.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "carpages.ca": {
+        "pixel_ids": [
+            "1659310944288815"
+        ],
+        "state_type": "FBP"
+    },
+    "veritivcorp.com": {
+        "pixel_ids": [
+            "2235554470120149"
+        ],
+        "state_type": "FBP"
+    },
+    "jolyn.com": {
+        "pixel_ids": [
+            "1787338481479217"
+        ],
+        "state_type": "FBP"
+    },
+    "homesandproperty.co.uk": {
+        "pixel_ids": [
+            "663967957112574"
+        ],
+        "state_type": "FBP"
+    },
+    "betterme-calisthenics.com": {
+        "pixel_ids": [
+            "846982183875371"
+        ],
+        "state_type": "FBP"
+    },
+    "wellcomeopenresearch.org": {
+        "pixel_ids": [
+            "476832983303126"
+        ],
+        "state_type": "FBP"
+    },
+    "kaporal.com": {
+        "pixel_ids": [
+            "734377366915301"
+        ],
+        "state_type": "GTM"
+    },
+    "shatterproof.org": {
+        "pixel_ids": [
+            "424086877946695",
+            "113794056660136"
+        ],
+        "state_type": "FBP"
+    },
+    "travelstart.com": {
+        "pixel_ids": [
+            "1506714666207650"
+        ],
+        "state_type": "FBP"
+    },
+    "ada.cx": {
+        "pixel_ids": [
+            "294336601553616"
+        ],
+        "state_type": "FBP"
+    },
+    "leap365.com.au": {
+        "pixel_ids": [
+            "1914203341959475"
+        ],
+        "state_type": "FBP"
+    },
+    "atl.ua": {
+        "pixel_ids": [
+            "257292197955885"
+        ],
+        "state_type": "FBP"
+    },
+    "sacsbar.com": {
+        "pixel_ids": [
+            "200611682678594"
+        ],
+        "state_type": "FBP"
+    },
+    "marjan898sultan.com": {
+        "pixel_ids": [
+            "2723026884537549",
+            "3661382140742055",
+            "962412941815451",
+            "439951258661289",
+            "3442152226090897"
+        ],
+        "state_type": "FBP"
+    },
+    "expedia.co.nz": {
+        "pixel_ids": [
+            "468990633205284"
+        ],
+        "state_type": "FBP"
+    },
+    "ymcanorth.org": {
+        "pixel_ids": [
+            "940764132699643"
+        ],
+        "state_type": "GTM"
+    },
+    "uvi.net": {
+        "pixel_ids": [
+            "500010050205155"
+        ],
+        "state_type": "GTM"
+    },
+    "bardou.online": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "bunq.me": {
+        "pixel_ids": [
+            "110931579308519"
+        ],
+        "state_type": "FBP"
+    },
+    "middlesexcountynj.gov": {
+        "pixel_ids": [
+            "238102303604533"
+        ],
+        "state_type": "FBP"
+    },
+    "pcone.com.tw": {
+        "pixel_ids": [
+            "113484265735403",
+            "289095966704159"
+        ],
+        "state_type": "FBP"
+    },
+    "bluebirdbotanicals.com": {
+        "pixel_ids": [
+            "479901427444724"
+        ],
+        "state_type": "FBP"
+    },
+    "weavix.com": {
+        "pixel_ids": [
+            "1098846587535741"
+        ],
+        "state_type": "FBP"
+    },
+    "brightview.com": {
+        "pixel_ids": [
+            "194125824737949"
+        ],
+        "state_type": "FBP"
+    },
+    "sunbeach.net": {
+        "pixel_ids": [
+            "776488579087398"
+        ],
+        "state_type": "FBP"
+    },
+    "studs.com": {
+        "pixel_ids": [
+            "553987642028743"
+        ],
+        "state_type": "FBP"
+    },
+    "no-site.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "cascades.com": {
+        "pixel_ids": [
+            "2219581978125063"
+        ],
+        "state_type": "FBP"
+    },
+    "cgma.org": {
+        "pixel_ids": [
+            "1854071301584658"
+        ],
+        "state_type": "FBP"
+    },
+    "papress.com": {
+        "pixel_ids": [
+            "648700755859486"
+        ],
+        "state_type": "FBP"
+    },
+    "soloveyko.media": {
+        "pixel_ids": [
+            "1187770995869636"
+        ],
+        "state_type": "FBP"
+    },
+    "besthunny.com": {
+        "pixel_ids": [
+            "555147119930702",
+            "406405811961367"
+        ],
+        "state_type": "FBP"
+    },
+    "theguarantors.com": {
+        "pixel_ids": [
+            "309458410869625"
+        ],
+        "state_type": "FBP"
+    },
+    "practicallyfunctional.com": {
+        "pixel_ids": [
+            "1481027581971734"
+        ],
+        "state_type": "GTM"
+    },
+    "visittallinn.ee": {
+        "pixel_ids": [
+            "1877016155960141"
+        ],
+        "state_type": "FBP"
+    },
+    "woai.com": {
+        "pixel_ids": [
+            "270798540384083"
+        ],
+        "state_type": "FBP"
+    },
+    "yours.co.uk": {
+        "pixel_ids": [
+            "4479913995366568",
+            "553303215693724",
+            "3064778703848975",
+            "157234229382908",
+            "456150051528504",
+            "719528322345981",
+            "313010969851313",
+            "185145876730992",
+            "1432045023860949",
+            "304913528040416",
+            "1750879635079496",
+            "1820929508078230",
+            "1532515010475016",
+            "489896692109794",
+            "1427279280962101",
+            "3073496942869665",
+            "1512075969145981",
+            "521543532387849",
+            "681296936207106",
+            "4167740363308799",
+            "491378348513390",
+            "330791212027007",
+            "507264803671821",
+            "1248209055582318",
+            "540152157512102"
+        ],
+        "state_type": "GTM"
+    },
+    "neonone.com": {
+        "pixel_ids": [
+            "1046700662750947"
+        ],
+        "state_type": "FBP"
+    },
+    "birthdate.co": {
+        "pixel_ids": [
+            "759353937793057"
+        ],
+        "state_type": "FBP"
+    },
+    "rnkr.co": {
+        "pixel_ids": [
+            "632873373874868"
+        ],
+        "state_type": "FBP"
+    },
+    "parafuzo.com": {
+        "pixel_ids": [
+            "257635558337000"
+        ],
+        "state_type": "FBP"
+    },
+    "festive-lights.com": {
+        "pixel_ids": [
+            "794574380608015"
+        ],
+        "state_type": "GTM"
+    },
+    "fronlioz.in": {
+        "pixel_ids": [
+            "524741979902483"
+        ],
+        "state_type": "FBP"
+    },
+    "canadaeast.com": {
+        "pixel_ids": [
+            "1685973801652415"
+        ],
+        "state_type": "FBP"
+    },
+    "delphi.lv": {
+        "pixel_ids": [
+            "1575699626080494",
+            "298662639938569"
+        ],
+        "state_type": "FBP"
+    },
+    "propelio.com": {
+        "pixel_ids": [
+            "563006097180797"
+        ],
+        "state_type": "GTM"
+    },
+    "tag24.com": {
+        "pixel_ids": [
+            "1119674935757301"
+        ],
+        "state_type": "FBP"
+    },
+    "returnly.com": {
+        "pixel_ids": [
+            "1712815612258503"
+        ],
+        "state_type": "FBP"
+    },
+    "fluxfootwear.com": {
+        "pixel_ids": [
+            "1023505451424583"
+        ],
+        "state_type": "FBP"
+    },
+    "readingfc.co.uk": {
+        "pixel_ids": [
+            "281964259098868"
+        ],
+        "state_type": "GTM"
+    },
+    "missethoreca.nl": {
+        "pixel_ids": [
+            "1018570852704758",
+            "1114905899176273"
+        ],
+        "state_type": "GTM"
+    },
+    "supernote.com": {
+        "pixel_ids": [
+            "1189038691507695"
+        ],
+        "state_type": "FBP"
+    },
+    "lemieux.com": {
+        "pixel_ids": [
+            "881059909363456"
+        ],
+        "state_type": "FBP"
+    },
+    "spellbinderspaperarts.com": {
+        "pixel_ids": [
+            "1451590698480470"
+        ],
+        "state_type": "FBP"
+    },
+    "bullionknot.com": {
+        "pixel_ids": [
+            "1130327054491293"
+        ],
+        "state_type": "FBP"
+    },
+    "doctorslon.ru": {
+        "pixel_ids": [
+            "1660791290706851"
+        ],
+        "state_type": "GTM"
+    },
+    "wipster.io": {
+        "pixel_ids": [
+            "976358669089160"
+        ],
+        "state_type": "FBP"
+    },
+    "nextnature.net": {
+        "pixel_ids": [
+            "1539011140070103"
+        ],
+        "state_type": "GTM"
+    },
+    "it-trend.jp": {
+        "pixel_ids": [
+            "324766436543202"
+        ],
+        "state_type": "GTM"
+    },
+    "harveys.ca": {
+        "pixel_ids": [
+            "1972920992991763"
+        ],
+        "state_type": "FBP"
+    },
+    "ahm.com.au": {
+        "pixel_ids": [
+            "548426861976155"
+        ],
+        "state_type": "FBP"
+    },
+    "skirball.org": {
+        "pixel_ids": [
+            "229002184200935"
+        ],
+        "state_type": "FBP"
+    },
+    "topia.io": {
+        "pixel_ids": [
+            "1148560895539713"
+        ],
+        "state_type": "FBP"
+    },
+    "thistle.co": {
+        "pixel_ids": [
+            "510719525701360"
+        ],
+        "state_type": "FBP"
+    },
+    "owlsports.com": {
+        "pixel_ids": [
+            "304395563740989"
+        ],
+        "state_type": "FBP"
+    },
+    "ligatotoad.com": {
+        "pixel_ids": [
+            "1632291017715896"
+        ],
+        "state_type": "FBP"
+    },
+    "bada.io": {
+        "pixel_ids": [
+            "1969197600059401"
+        ],
+        "state_type": "FBP"
+    },
+    "gtslivingfoods.com": {
+        "pixel_ids": [
+            "2840041369615576"
+        ],
+        "state_type": "GTM"
+    },
+    "chattanoogastate.edu": {
+        "pixel_ids": [
+            "244856406587718"
+        ],
+        "state_type": "FBP"
+    },
+    "mikimoto.com": {
+        "pixel_ids": [
+            "237154890565578",
+            "2024416430973457",
+            "431389138942689",
+            "412393471702487",
+            "192507831084074"
+        ],
+        "state_type": "GTM"
+    },
+    "westcoastseeds.com": {
+        "pixel_ids": [
+            "938558576188571"
+        ],
+        "state_type": "FBP"
+    },
+    "photospring.com": {
+        "pixel_ids": [
+            "995964607120971"
+        ],
+        "state_type": "FBP"
+    },
+    "flightcentre.co.za": {
+        "pixel_ids": [
+            "941109709659375"
+        ],
+        "state_type": "FBP"
+    },
+    "fulfillingcareer.fun": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "boandtee.com": {
+        "pixel_ids": [
+            "190572969028117"
+        ],
+        "state_type": "FBP"
+    },
+    "gyro-n.com": {
+        "pixel_ids": [
+            "1292076524239869"
+        ],
+        "state_type": "FBP"
+    },
+    "theayurvedaexperience.com": {
+        "pixel_ids": [
+            "734658613223084"
+        ],
+        "state_type": "FBP"
+    },
+    "proenzaschouler.com": {
+        "pixel_ids": [
+            "2465559336797865"
+        ],
+        "state_type": "FBP"
+    },
+    "nugget.ca": {
+        "pixel_ids": [
+            "1685973801652415"
+        ],
+        "state_type": "FBP"
+    },
+    "bingx.pro": {
+        "pixel_ids": [
+            "362305662918752"
+        ],
+        "state_type": "FBP"
+    },
+    "palazzograssi.it": {
+        "pixel_ids": [
+            "480142292981376"
+        ],
+        "state_type": "GTM"
+    },
+    "bigbear.com": {
+        "pixel_ids": [
+            "1599582567038711"
+        ],
+        "state_type": "FBP"
+    },
+    "harfun.in": {
+        "pixel_ids": [
+            "214854777523429"
+        ],
+        "state_type": "FBP"
+    },
+    "byjasco.com": {
+        "pixel_ids": [
+            "563307063866370"
+        ],
+        "state_type": "FBP"
+    },
+    "skimmth.is": {
+        "pixel_ids": [
+            "1457278917872224",
+            "558081998582470"
+        ],
+        "state_type": "FBP"
+    },
+    "bankmuscat.com": {
+        "pixel_ids": [
+            "774614313364351",
+            "268189110490070"
+        ],
+        "state_type": "FBP"
+    },
+    "sgc.io": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "webserve.com": {
+        "pixel_ids": [
+            "1005944186197369"
+        ],
+        "state_type": "FBP"
+    },
+    "paintnite.com": {
+        "pixel_ids": [
+            "3514047188738918",
+            "389870193243032"
+        ],
+        "state_type": "FBP"
+    },
+    "lf360.co": {
+        "pixel_ids": [
+            "134606220481143"
+        ],
+        "state_type": "FBP"
+    },
+    "discoverlexus.com": {
+        "pixel_ids": [
+            "2302429359855675",
+            "442252826836224",
+            "673170763883675"
+        ],
+        "state_type": "GTM"
+    },
+    "darkfans.com": {
+        "pixel_ids": [
+            "1627659644433353"
+        ],
+        "state_type": "FBP"
+    },
+    "biglifejournal.com": {
+        "pixel_ids": [
+            "131344340640717"
+        ],
+        "state_type": "FBP"
+    },
+    "handwerk.de": {
+        "pixel_ids": [
+            "1627933410775497"
+        ],
+        "state_type": "GTM"
+    },
+    "newyorkdress.com": {
+        "pixel_ids": [
+            "1438657179793774"
+        ],
+        "state_type": "FBP"
+    },
+    "easyclosets.com": {
+        "pixel_ids": [
+            "1687101111556251",
+            "464694407067666"
+        ],
+        "state_type": "FBP"
+    },
+    "ihh.org.tr": {
+        "pixel_ids": [
+            "207980924001875",
+            "960526475430275"
+        ],
+        "state_type": "FBP"
+    },
+    "onecallcm.com": {
+        "pixel_ids": [
+            "419797128620837"
+        ],
+        "state_type": "FBP"
+    },
+    "socs.net": {
+        "pixel_ids": [
+            "1156699635515667"
+        ],
+        "state_type": "FBP"
+    },
+    "valleyforge.org": {
+        "pixel_ids": [
+            "1148608411904861",
+            "323301019503978"
+        ],
+        "state_type": "FBP"
+    },
+    "savannahbee.com": {
+        "pixel_ids": [
+            "1123810870971799"
+        ],
+        "state_type": "FBP"
+    },
+    "goapr.com": {
+        "pixel_ids": [
+            "259304855736447",
+            "1643269942555096"
+        ],
+        "state_type": "FBP"
+    },
+    "fadr.com": {
+        "pixel_ids": [
+            "565325038898474"
+        ],
+        "state_type": "FBP"
+    },
+    "jimmycarterlibrary.gov": {
+        "pixel_ids": [
+            "1647731945510346"
+        ],
+        "state_type": "GTM"
+    },
+    "expondo.de": {
+        "pixel_ids": [
+            "3566118780132244",
+            "1236723643145426",
+            "449090423159190",
+            "916822456313673",
+            "755391428208491",
+            "243688668160678",
+            "257469820019913",
+            "220315203075004",
+            "161833655966986",
+            "717005466864514",
+            "1701663286764769",
+            "217825563365659",
+            "2837555239830616",
+            "1446364815380812",
+            "2663652313924712",
+            "1693704884401287",
+            "1411234663061848",
+            "763752127548795",
+            "432430104386593",
+            "2518630428436138",
+            "707384369420702",
+            "762557272463473",
+            "682495579744164",
+            "225801301186851",
+            "362329151845026"
+        ],
+        "state_type": "GTM"
+    },
+    "nijz.si": {
+        "pixel_ids": [
+            "6225141694250038"
+        ],
+        "state_type": "GTM"
+    },
+    "heidelberg.edu": {
+        "pixel_ids": [
+            "120388638675561"
+        ],
+        "state_type": "FBP"
+    },
+    "weekendavisen.dk": {
+        "pixel_ids": [
+            "1976186829060783"
+        ],
+        "state_type": "GTM"
+    },
+    "super7.com": {
+        "pixel_ids": [
+            "1518598328203978"
+        ],
+        "state_type": "FBP"
+    },
+    "acdelco.com": {
+        "pixel_ids": [
+            "766952830090140"
+        ],
+        "state_type": "FBP"
+    },
+    "biggreenegg.eu": {
+        "pixel_ids": [
+            "1599420313555826"
+        ],
+        "state_type": "GTM"
+    },
+    "epson.com.ph": {
+        "pixel_ids": [
+            "238760413296578",
+            "2852718571723221",
+            "1389794814520889",
+            "466441177797437",
+            "365352278228208",
+            "1217508712835038"
+        ],
+        "state_type": "FBP"
+    },
+    "transfix.io": {
+        "pixel_ids": [
+            "137295453571949",
+            "1027093931493764"
+        ],
+        "state_type": "FBP"
+    },
+    "makeupbymario.com": {
+        "pixel_ids": [
+            "334056717801274"
+        ],
+        "state_type": "FBP"
+    },
+    "rcc.edu": {
+        "pixel_ids": [
+            "805655564730047"
+        ],
+        "state_type": "FBP"
+    },
+    "hostinger.vn": {
+        "pixel_ids": [
+            "233182517365050"
+        ],
+        "state_type": "FBP"
+    },
+    "freightview.com": {
+        "pixel_ids": [
+            "1545471125708444"
+        ],
+        "state_type": "FBP"
+    },
+    "thonet-vander.com": {
+        "pixel_ids": [
+            "400490629176048"
+        ],
+        "state_type": "FBP"
+    },
+    "rgmechanics.games": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "liquorland.com.au": {
+        "pixel_ids": [
+            "654802145222009"
+        ],
+        "state_type": "FBP"
+    },
+    "1wzil.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "theralogix.com": {
+        "pixel_ids": [
+            "137881506892022"
+        ],
+        "state_type": "FBP"
+    },
+    "vocagame.com": {
+        "pixel_ids": [
+            "379083994246279"
+        ],
+        "state_type": "FBP"
+    },
+    "adheart.me": {
+        "pixel_ids": [
+            "211376301881931"
+        ],
+        "state_type": "FBP"
+    },
+    "hyundai.de": {
+        "pixel_ids": [
+            "593804601143628"
+        ],
+        "state_type": "GTM"
+    },
+    "jobbird.com": {
+        "pixel_ids": [
+            "778404375973795"
+        ],
+        "state_type": "FBP"
+    },
+    "florim.com": {
+        "pixel_ids": [
+            "1104395480066461",
+            "1719824198270477"
+        ],
+        "state_type": "GTM"
+    },
+    "threadwallets.com": {
+        "pixel_ids": [
+            "1637614956487300"
+        ],
+        "state_type": "FBP"
+    },
+    "hausandkinder.com": {
+        "pixel_ids": [
+            "2244846925753183"
+        ],
+        "state_type": "FBP"
+    },
+    "costsavertour.com": {
+        "pixel_ids": [
+            "742564346450539"
+        ],
+        "state_type": "FBP"
+    },
+    "rsi.net": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "buddyrents.com": {
+        "pixel_ids": [
+            "433923890329925"
+        ],
+        "state_type": "FBP"
+    },
+    "hightouch.com": {
+        "pixel_ids": [
+            "884619773544297"
+        ],
+        "state_type": "GTM"
+    },
+    "huntakiller.com": {
+        "pixel_ids": [
+            "1258380540857590"
+        ],
+        "state_type": "FBP"
+    },
+    "shopify.de": {
+        "pixel_ids": [
+            "1298671233649970"
+        ],
+        "state_type": "FBP"
+    },
+    "preventionbtp.fr": {
+        "pixel_ids": [
+            "2041026342887657"
+        ],
+        "state_type": "FBP"
+    },
+    "myracehorse.com": {
+        "pixel_ids": [
+            "793338257720481",
+            "162814362449333"
+        ],
+        "state_type": "GTM"
+    },
+    "apc-us.com": {
+        "pixel_ids": [
+            "2069223190055150"
+        ],
+        "state_type": "FBP"
+    },
+    "narescue.com": {
+        "pixel_ids": [
+            "1618324808981931"
+        ],
+        "state_type": "FBP"
+    },
+    "mansurgavriel.com": {
+        "pixel_ids": [
+            "1982943178653996"
+        ],
+        "state_type": "FBP"
+    },
+    "beaba.com": {
+        "pixel_ids": [
+            "934574979988436"
+        ],
+        "state_type": "GTM"
+    },
+    "scentiment.com": {
+        "pixel_ids": [
+            "760601562021547"
+        ],
+        "state_type": "FBP"
+    },
+    "wajeez.com": {
+        "pixel_ids": [
+            "789888013040472"
+        ],
+        "state_type": "FBP"
+    },
+    "faraon24.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "expedia.com.tw": {
+        "pixel_ids": [
+            "468990633205284"
+        ],
+        "state_type": "FBP"
+    },
+    "joycasino.news": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "uninorte.com.br": {
+        "pixel_ids": [
+            "1158143607709873",
+            "1349966811702966",
+            "275194183126672"
+        ],
+        "state_type": "FBP"
+    },
+    "waylandgames.co.uk": {
+        "pixel_ids": [
+            "1810352729209941"
+        ],
+        "state_type": "FBP"
+    },
+    "chainers.io": {
+        "pixel_ids": [
+            "578924787381398"
+        ],
+        "state_type": "FBP"
+    },
+    "missmalini.com": {
+        "pixel_ids": [
+            "586365201507727"
+        ],
+        "state_type": "FBP"
+    },
+    "compactappliance.com": {
+        "pixel_ids": [
+            "1212677730212991",
+            "428114597393061"
+        ],
+        "state_type": "FBP"
+    },
+    "adminarsenal.com": {
+        "pixel_ids": [
+            "584414048900218"
+        ],
+        "state_type": "FBP"
+    },
+    "sungod.co": {
+        "pixel_ids": [
+            "988765991153179"
+        ],
+        "state_type": "FBP"
+    },
+    "kaizen.com": {
+        "pixel_ids": [
+            "7422186817795712",
+            "2592016471099352"
+        ],
+        "state_type": "FBP"
+    },
+    "4moms.com": {
+        "pixel_ids": [
+            "679541785501234"
+        ],
+        "state_type": "FBP"
+    },
+    "montanas.ca": {
+        "pixel_ids": [
+            "818932011607117"
+        ],
+        "state_type": "FBP"
+    },
+    "realeyesit.com": {
+        "pixel_ids": [
+            "600471550572791"
+        ],
+        "state_type": "FBP"
+    },
+    "litteraeducation.com": {
+        "pixel_ids": [
+            "534815464680921"
+        ],
+        "state_type": "FBP"
+    },
+    "1wpoy.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "boards.com": {
+        "pixel_ids": [
+            "818590695295717"
+        ],
+        "state_type": "FBP"
+    },
+    "bigcommerce.co.uk": {
+        "pixel_ids": [
+            "186979401636670"
+        ],
+        "state_type": "FBP"
+    },
+    "turbo78.net": {
+        "pixel_ids": [
+            "1667210087423853",
+            "1198189891335008",
+            "969660151700571",
+            "1434394714071401"
+        ],
+        "state_type": "FBP"
+    },
+    "bedfordtoday.co.uk": {
+        "pixel_ids": [
+            "1091058002121566",
+            "406213480957143",
+            "644864190253734",
+            "196247975973912",
+            "511759709547056",
+            "891828061397400",
+            "3160798504209759",
+            "1319297238527090",
+            "2666313370283136",
+            "315469232899891",
+            "1753312178139637",
+            "220476943020603",
+            "227425865333939",
+            "4424597377640089",
+            "743932486168920",
+            "849180982163938",
+            "600246740855407",
+            "476676329867828",
+            "975292679550292",
+            "1533059393724301",
+            "3289604771097676",
+            "340255994001990",
+            "465082584147821",
+            "833398197332745"
+        ],
+        "state_type": "GTM"
+    },
+    "nyfter.com": {
+        "pixel_ids": [
+            "269359510785867"
+        ],
+        "state_type": "FBP"
+    },
+    "teds.com.au": {
+        "pixel_ids": [
+            "261692187510511",
+            "607389267515543"
+        ],
+        "state_type": "FBP"
+    },
+    "washingtonfootball.com": {
+        "pixel_ids": [
+            "2104035966526158",
+            "307244299833396",
+            "1010250503044276"
+        ],
+        "state_type": "FBP"
+    },
+    "loanscanada.ca": {
+        "pixel_ids": [
+            "558221617631647"
+        ],
+        "state_type": "FBP"
+    },
+    "freetv.tv": {
+        "pixel_ids": [
+            "1288677251976913"
+        ],
+        "state_type": "FBP"
+    },
+    "happypancake.fi": {
+        "pixel_ids": [
+            "269807443951752"
+        ],
+        "state_type": "FBP"
+    },
+    "sunlu.com": {
+        "pixel_ids": [
+            "824744132237516",
+            "633017791715315"
+        ],
+        "state_type": "FBP"
+    },
+    "coffeecircle.com": {
+        "pixel_ids": [
+            "844381695588889"
+        ],
+        "state_type": "GTM"
+    },
+    "go-app-plus.com": {
+        "pixel_ids": [
+            "609725451045090"
+        ],
+        "state_type": "GTM"
+    },
+    "flibco.com": {
+        "pixel_ids": [
+            "325907198197692"
+        ],
+        "state_type": "FBP"
+    },
+    "baskino-hd1.life": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "gotvantage.com": {
+        "pixel_ids": [
+            "1042431659171576"
+        ],
+        "state_type": "FBP"
+    },
+    "soka.edu": {
+        "pixel_ids": [
+            "282762032580540"
+        ],
+        "state_type": "FBP"
+    },
+    "sexking37.site": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "myprize.us": {
+        "pixel_ids": [
+            "1099381125127421",
+            "1615996919105039",
+            "1057807503027517"
+        ],
+        "state_type": "FBP"
+    },
+    "nptrust.org": {
+        "pixel_ids": [
+            "3450569351655672"
+        ],
+        "state_type": "GTM"
+    },
+    "youi.com.au": {
+        "pixel_ids": [
+            "1552385208411177"
+        ],
+        "state_type": "FBP"
+    },
+    "trinitywallstreet.org": {
+        "pixel_ids": [
+            "413392034937046",
+            "458199997263224"
+        ],
+        "state_type": "FBP"
+    },
+    "emotive.io": {
+        "pixel_ids": [
+            "2781758575250065"
+        ],
+        "state_type": "FBP"
+    },
+    "arq.com.mx": {
+        "pixel_ids": [
+            "651306481630184",
+            "373306133111313"
+        ],
+        "state_type": "FBP"
+    },
+    "artphotolimited.com": {
+        "pixel_ids": [
+            "1089355304489621"
+        ],
+        "state_type": "GTM"
+    },
+    "thegivingmovement.com": {
+        "pixel_ids": [
+            "349366999375663"
+        ],
+        "state_type": "FBP"
+    },
+    "sansebastianturismoa.eus": {
+        "pixel_ids": [
+            "822820621163569",
+            "1397388900612840"
+        ],
+        "state_type": "GTM"
+    },
+    "adp.ca": {
+        "pixel_ids": [
+            "270842075870195"
+        ],
+        "state_type": "FBP"
+    },
+    "southerntide.com": {
+        "pixel_ids": [
+            "405527376265462"
+        ],
+        "state_type": "FBP"
+    },
+    "lancaperfume.com.br": {
+        "pixel_ids": [
+            "2233772826876981"
+        ],
+        "state_type": "FBP"
+    },
+    "hpv.vn": {
+        "pixel_ids": [
+            "1586294444911668",
+            "710059312972002",
+            "2556877903940469",
+            "957906795778374"
+        ],
+        "state_type": "GTM"
+    },
+    "parallels-universe.com": {
+        "pixel_ids": [
+            "268410632060318"
+        ],
+        "state_type": "FBP"
+    },
+    "sevencorners.com": {
+        "pixel_ids": [
+            "926676720779187"
+        ],
+        "state_type": "FBP"
+    },
+    "discovernewport.org": {
+        "pixel_ids": [
+            "1342715522496960"
+        ],
+        "state_type": "FBP"
+    },
+    "lolaandtheboys.com": {
+        "pixel_ids": [
+            "666866767113056"
+        ],
+        "state_type": "FBP"
+    },
+    "clubllondon.us": {
+        "pixel_ids": [
+            "555688081711459"
+        ],
+        "state_type": "FBP"
+    },
+    "joesjeans.com": {
+        "pixel_ids": [
+            "316363992061940"
+        ],
+        "state_type": "FBP"
+    },
+    "zorgkiezer.nl": {
+        "pixel_ids": [
+            "1144993839195319"
+        ],
+        "state_type": "FBP"
+    },
+    "usopc.org": {
+        "pixel_ids": [
+            "697431825447932",
+            "240749211429369"
+        ],
+        "state_type": "GTM"
+    },
+    "femalestudio.pk": {
+        "pixel_ids": [
+            "349397323931276"
+        ],
+        "state_type": "FBP"
+    },
+    "amoils.com": {
+        "pixel_ids": [
+            "389488884560145"
+        ],
+        "state_type": "FBP"
+    },
+    "ateneaprofesional.com": {
+        "pixel_ids": [
+            "2090913581059208"
+        ],
+        "state_type": "FBP"
+    },
+    "artemest.com": {
+        "pixel_ids": [
+            "1562835977338513"
+        ],
+        "state_type": "FBP"
+    },
+    "zurich-airport.com": {
+        "pixel_ids": [
+            "626666791905690"
+        ],
+        "state_type": "GTM"
+    },
+    "fanball.com": {
+        "pixel_ids": [
+            "2154514408150784"
+        ],
+        "state_type": "FBP"
+    },
+    "visitdelaware.com": {
+        "pixel_ids": [
+            "1817661725150790",
+            "247372403136611"
+        ],
+        "state_type": "FBP"
+    },
+    "postinowinecafe.com": {
+        "pixel_ids": [
+            "599464065570306"
+        ],
+        "state_type": "FBP"
+    },
+    "traegergrills.com": {
+        "pixel_ids": [
+            "939161366167696"
+        ],
+        "state_type": "FBP"
+    },
+    "hachette.fr": {
+        "pixel_ids": [
+            "278814993429996",
+            "512019385659252"
+        ],
+        "state_type": "GTM"
+    },
+    "furper.com": {
+        "pixel_ids": [
+            "902857963582791"
+        ],
+        "state_type": "FBP"
+    },
+    "godex.io": {
+        "pixel_ids": [
+            "279018303083705",
+            "2747232555380689",
+            "344078130110576"
+        ],
+        "state_type": "FBP"
+    },
+    "northstarcalifornia.com": {
+        "pixel_ids": [
+            "848456158568662"
+        ],
+        "state_type": "FBP"
+    },
+    "adf-magazine.com": {
+        "pixel_ids": [
+            "1398998320281815"
+        ],
+        "state_type": "FBP"
+    },
+    "babymori.com": {
+        "pixel_ids": [
+            "1590343611278914"
+        ],
+        "state_type": "FBP"
+    },
+    "sc2mapster.com": {
+        "pixel_ids": [
+            "1323058115156815"
+        ],
+        "state_type": "FBP"
+    },
+    "americancityandcounty.com": {
+        "pixel_ids": [
+            "877486519698673",
+            "110874199122844",
+            "832000476880185",
+            "1707679126084090"
+        ],
+        "state_type": "GTM"
+    },
+    "crosscountry.com": {
+        "pixel_ids": [
+            "9474785122535373"
+        ],
+        "state_type": "FBP"
+    },
+    "gogojungle.co.jp": {
+        "pixel_ids": [
+            "1147641228775184",
+            "642012890503859"
+        ],
+        "state_type": "FBP"
+    },
+    "jw7.today": {
+        "pixel_ids": [
+            "809151258046923"
+        ],
+        "state_type": "FBP"
+    },
+    "talkspirit.com": {
+        "pixel_ids": [
+            "2665973550321330"
+        ],
+        "state_type": "FBP"
+    },
+    "777barcash.com": {
+        "pixel_ids": [
+            "899470994872904"
+        ],
+        "state_type": "FBP"
+    },
+    "usta.edu.co": {
+        "pixel_ids": [
+            "811123870574371"
+        ],
+        "state_type": "FBP"
+    },
+    "pupring.com": {
+        "pixel_ids": [
+            "552976265323751"
+        ],
+        "state_type": "FBP"
+    },
+    "svensktnaringsliv.se": {
+        "pixel_ids": [
+            "357663792202872"
+        ],
+        "state_type": "GTM"
+    },
+    "karenkane.com": {
+        "pixel_ids": [
+            "272100109649581"
+        ],
+        "state_type": "FBP"
+    },
+    "cartermuseum.org": {
+        "pixel_ids": [
+            "456109651830972"
+        ],
+        "state_type": "FBP"
+    },
+    "livenation.it": {
+        "pixel_ids": [
+            "366123377100549"
+        ],
+        "state_type": "FBP"
+    },
+    "reliasacademy.com": {
+        "pixel_ids": [
+            "1332351304377235"
+        ],
+        "state_type": "FBP"
+    },
+    "greentoe.com": {
+        "pixel_ids": [
+            "503706879732877"
+        ],
+        "state_type": "FBP"
+    },
+    "6262.com.ua": {
+        "pixel_ids": [
+            "594197547666746",
+            "510952742744776",
+            "540188039778084",
+            "724666601243894",
+            "2718182741528799",
+            "581623418958490",
+            "1059761747537204",
+            "283052114242905",
+            "504551313372955",
+            "2158744937724989",
+            "734919478771889"
+        ],
+        "state_type": "GTM"
+    },
+    "comma-store.de": {
+        "pixel_ids": [
+            "1430359367263642"
+        ],
+        "state_type": "GTM"
+    },
+    "contractormag.com": {
+        "pixel_ids": [
+            "184170726198361"
+        ],
+        "state_type": "FBP"
+    },
+    "polivy.com": {
+        "pixel_ids": [
+            "1241079212617411"
+        ],
+        "state_type": "FBP"
+    },
+    "visitokc.com": {
+        "pixel_ids": [
+            "787219211675142",
+            "872751256154548"
+        ],
+        "state_type": "FBP"
+    },
+    "shopthemint.com": {
+        "pixel_ids": [
+            "872973789415156"
+        ],
+        "state_type": "FBP"
+    },
+    "shopping-feed.com": {
+        "pixel_ids": [
+            "1327138244065995"
+        ],
+        "state_type": "GTM"
+    },
+    "104.fr": {
+        "pixel_ids": [
+            "357454155055408",
+            "2161840283880076"
+        ],
+        "state_type": "GTM"
+    },
+    "vavada5.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "bqe.com": {
+        "pixel_ids": [
+            "442484489566526"
+        ],
+        "state_type": "FBP"
+    },
+    "freshping.io": {
+        "pixel_ids": [
+            "463211681285603"
+        ],
+        "state_type": "FBP"
+    },
+    "medsender.com": {
+        "pixel_ids": [
+            "1762580293977759"
+        ],
+        "state_type": "FBP"
+    },
+    "savvy.insure": {
+        "pixel_ids": [
+            "3030498570351854"
+        ],
+        "state_type": "FBP"
+    },
+    "virgio.com": {
+        "pixel_ids": [
+            "1997875497279548"
+        ],
+        "state_type": "FBP"
+    },
+    "rummytime.com": {
+        "pixel_ids": [
+            "356797895655631"
+        ],
+        "state_type": "FBP"
+    },
+    "686.com": {
+        "pixel_ids": [
+            "1577471002553521"
+        ],
+        "state_type": "FBP"
+    },
+    "megafacil.fun": {
+        "pixel_ids": [
+            "2102803523436875",
+            "981876926847917"
+        ],
+        "state_type": "FBP"
+    },
+    "bowelcanceruk.org.uk": {
+        "pixel_ids": [
+            "1158727260823632"
+        ],
+        "state_type": "GTM"
+    },
+    "cloudiq.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "neotaste.com": {
+        "pixel_ids": [
+            "2183809161863418"
+        ],
+        "state_type": "GTM"
+    },
+    "answear.sk": {
+        "pixel_ids": [
+            "966636487520410",
+            "3615084038751244",
+            "373711897600796",
+            "168816963575173",
+            "1681911225382272",
+            "391166172933600",
+            "970343826392627",
+            "3183171411708889",
+            "411351132366347",
+            "397122343827946",
+            "601138064361959",
+            "450459711827721"
+        ],
+        "state_type": "GTM"
+    },
+    "selectscience.net": {
+        "pixel_ids": [
+            "226073794546669"
+        ],
+        "state_type": "GTM"
+    },
+    "luxesource.com": {
+        "pixel_ids": [
+            "451579867865917"
+        ],
+        "state_type": "FBP"
+    },
+    "synthesis.com": {
+        "pixel_ids": [
+            "1531390663893004"
+        ],
+        "state_type": "GTM"
+    },
+    "hype.it": {
+        "pixel_ids": [
+            "102117496851392",
+            "725745869522684",
+            "102117496851392"
+        ],
+        "state_type": "GTM"
+    },
+    "multiverse.io": {
+        "pixel_ids": [
+            "2322249144593874"
+        ],
+        "state_type": "FBP"
+    },
+    "pakaapparel.com": {
+        "pixel_ids": [
+            "293292897815371"
+        ],
+        "state_type": "FBP"
+    },
+    "keessmit.nl": {
+        "pixel_ids": [
+            "544964612880544"
+        ],
+        "state_type": "FBP"
+    },
+    "vwe.nl": {
+        "pixel_ids": [
+            "2397506243902948"
+        ],
+        "state_type": "GTM"
+    },
+    "lewkin.com": {
+        "pixel_ids": [
+            "644121129926723"
+        ],
+        "state_type": "FBP"
+    },
+    "aramis.com.br": {
+        "pixel_ids": [
+            "751109511934195"
+        ],
+        "state_type": "FBP"
+    },
+    "exactonline.be": {
+        "pixel_ids": [
+            "1895518514005595",
+            "239595756462638",
+            "1360729383945657",
+            "158776104471539",
+            "1641398112808890",
+            "686821326044497",
+            "575478575986082"
+        ],
+        "state_type": "GTM"
+    },
+    "equipnet.com": {
+        "pixel_ids": [
+            "190034641423969"
+        ],
+        "state_type": "GTM"
+    },
+    "metroradio.com.hk": {
+        "pixel_ids": [
+            "950329539296012",
+            "731742202011189"
+        ],
+        "state_type": "FBP"
+    },
+    "pets-dating.com": {
+        "pixel_ids": [
+            "7178334637043787"
+        ],
+        "state_type": "GTM"
+    },
+    "diversityresources.com": {
+        "pixel_ids": [
+            "233285883766768"
+        ],
+        "state_type": "FBP"
+    },
+    "maybellindia.com": {
+        "pixel_ids": [
+            "3209548489132248"
+        ],
+        "state_type": "FBP"
+    },
+    "eplus.de": {
+        "pixel_ids": [
+            "214516549126555"
+        ],
+        "state_type": "GTM"
+    },
+    "bmw.in": {
+        "pixel_ids": [
+            "552626606701958"
+        ],
+        "state_type": "FBP"
+    },
+    "speedyservices.com": {
+        "pixel_ids": [
+            "529828188785081"
+        ],
+        "state_type": "GTM"
+    },
+    "bmw.co.za": {
+        "pixel_ids": [
+            "356849084655863"
+        ],
+        "state_type": "FBP"
+    },
+    "boggbag.com": {
+        "pixel_ids": [
+            "412472225875069"
+        ],
+        "state_type": "FBP"
+    },
+    "redmond.life": {
+        "pixel_ids": [
+            "1721914444741111"
+        ],
+        "state_type": "FBP"
+    },
+    "ah4r.com": {
+        "pixel_ids": [
+            "472158920218632"
+        ],
+        "state_type": "FBP"
+    },
+    "tempcover.com": {
+        "pixel_ids": [
+            "1023657098572760"
+        ],
+        "state_type": "GTM"
+    },
+    "1wrco.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "supermoney.it": {
+        "pixel_ids": [
+            "2195700187354263",
+            "871555930041514",
+            "858691851336837",
+            "651499696040524",
+            "1075073559658846",
+            "804034894267475",
+            "241737879968746",
+            "406335075625409",
+            "472613199933411",
+            "947821836781323",
+            "3324096607920722"
+        ],
+        "state_type": "GTM"
+    },
+    "luckyznh.top": {
+        "pixel_ids": [
+            "477617128024902"
+        ],
+        "state_type": "GTM"
+    },
+    "yuyatiendaoficial.com": {
+        "pixel_ids": [
+            "145581526859735"
+        ],
+        "state_type": "FBP"
+    },
+    "exaffiliate.com": {
+        "pixel_ids": [
+            "340692051332352"
+        ],
+        "state_type": "GTM"
+    },
+    "leaptel.com.au": {
+        "pixel_ids": [
+            "1069046160142383",
+            "350447950571811"
+        ],
+        "state_type": "FBP"
+    },
+    "powerhousemuseum.com": {
+        "pixel_ids": [
+            "1649070572240072",
+            "3559423481034942"
+        ],
+        "state_type": "FBP"
+    },
+    "peoples.com": {
+        "pixel_ids": [
+            "293418718495934",
+            "290387871401930",
+            "1994534667524888"
+        ],
+        "state_type": "FBP"
+    },
+    "rbnt.org": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "meshki.co.uk": {
+        "pixel_ids": [
+            "1522335061421485"
+        ],
+        "state_type": "FBP"
+    },
+    "mailup.com": {
+        "pixel_ids": [
+            "882934789173230",
+            "1552783425088685"
+        ],
+        "state_type": "FBP"
+    },
+    "collegeavestudentloans.com": {
+        "pixel_ids": [
+            "629610150524336"
+        ],
+        "state_type": "FBP"
+    },
+    "1wvpq.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "buoyweather.com": {
+        "pixel_ids": [
+            "1013632385355783"
+        ],
+        "state_type": "FBP"
+    },
+    "paf.ee": {
+        "pixel_ids": [
+            "256349445210323",
+            "150908975415991",
+            "1321080138266953",
+            "382621626529630",
+            "478015426941784",
+            "1894268464141538",
+            "1433660000359080",
+            "237898221288311",
+            "761318824580031",
+            "567903699573093",
+            "519426672361804",
+            "312204295843395",
+            "217943031024619",
+            "524626971637594"
+        ],
+        "state_type": "GTM"
+    },
+    "damyller.com.br": {
+        "pixel_ids": [
+            "1714694755432076"
+        ],
+        "state_type": "FBP"
+    },
+    "theskinnyfoodco.com": {
+        "pixel_ids": [
+            "597224707372751"
+        ],
+        "state_type": "FBP"
+    },
+    "interestfree.com.au": {
+        "pixel_ids": [
+            "927482304065175"
+        ],
+        "state_type": "FBP"
+    },
+    "shopduer.com": {
+        "pixel_ids": [
+            "1732755750289061"
+        ],
+        "state_type": "FBP"
+    },
+    "killrockstars.com": {
+        "pixel_ids": [
+            "529775627745561"
+        ],
+        "state_type": "FBP"
+    },
+    "growth99.com": {
+        "pixel_ids": [
+            "2294840007434112"
+        ],
+        "state_type": "FBP"
+    },
+    "getbellhops.com": {
+        "pixel_ids": [
+            "782587171830862"
+        ],
+        "state_type": "FBP"
+    },
+    "freedrinkingwater.com": {
+        "pixel_ids": [
+            "358837945912415"
+        ],
+        "state_type": "FBP"
+    },
+    "powerbuy.co.th": {
+        "pixel_ids": [
+            "857751054384822"
+        ],
+        "state_type": "FBP"
+    },
+    "iesb.br": {
+        "pixel_ids": [
+            "635965218460641",
+            "612288058924177"
+        ],
+        "state_type": "FBP"
+    },
+    "snack7days.com": {
+        "pixel_ids": [
+            "209020067449880"
+        ],
+        "state_type": "FBP"
+    },
+    "forestadmin.com": {
+        "pixel_ids": [
+            "599261090454112"
+        ],
+        "state_type": "FBP"
+    },
+    "bagerz.com": {
+        "pixel_ids": [
+            "4041989919146481"
+        ],
+        "state_type": "FBP"
+    },
+    "thewatchbox.com": {
+        "pixel_ids": [
+            "1091500345247766"
+        ],
+        "state_type": "GTM"
+    },
+    "interxion.com": {
+        "pixel_ids": [
+            "698836447157143"
+        ],
+        "state_type": "GTM"
+    },
+    "resume-library.com": {
+        "pixel_ids": [
+            "196983414117489"
+        ],
+        "state_type": "FBP"
+    },
+    "ionaudio.com": {
+        "pixel_ids": [
+            "768541169937994"
+        ],
+        "state_type": "FBP"
+    },
+    "fiesc.com.br": {
+        "pixel_ids": [
+            "703145669836012",
+            "642783249900317",
+            "239339657950204"
+        ],
+        "state_type": "FBP"
+    },
+    "fatwreck.com": {
+        "pixel_ids": [
+            "272833369861618"
+        ],
+        "state_type": "FBP"
+    },
+    "ispace.kz": {
+        "pixel_ids": [
+            "725231836325668"
+        ],
+        "state_type": "FBP"
+    },
+    "maidenwall.online": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "meerzah.pk": {
+        "pixel_ids": [
+            "620817082428553"
+        ],
+        "state_type": "FBP"
+    },
+    "offermate.us": {
+        "pixel_ids": [
+            "431753736554511"
+        ],
+        "state_type": "FBP"
+    },
+    "ottonova.de": {
+        "pixel_ids": [
+            "347383778960177"
+        ],
+        "state_type": "FBP"
+    },
+    "1wwhx.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "mrmarvis.com": {
+        "pixel_ids": [
+            "263155458283388",
+            "1759586061024674"
+        ],
+        "state_type": "GTM"
+    },
+    "truvia.com": {
+        "pixel_ids": [
+            "627803040665292"
+        ],
+        "state_type": "FBP"
+    },
+    "laxmipati.com": {
+        "pixel_ids": [
+            "654439938597359"
+        ],
+        "state_type": "FBP"
+    },
+    "bustedtees.com": {
+        "pixel_ids": [
+            "429109437629892"
+        ],
+        "state_type": "FBP"
+    },
+    "storyoriginapp.com": {
+        "pixel_ids": [
+            "919577481940672"
+        ],
+        "state_type": "FBP"
+    },
+    "thankview.com": {
+        "pixel_ids": [
+            "2489501547946430"
+        ],
+        "state_type": "FBP"
+    },
+    "ius.edu": {
+        "pixel_ids": [
+            "204869896526674"
+        ],
+        "state_type": "FBP"
+    },
+    "null-leasing.com": {
+        "pixel_ids": [
+            "1103282246391772"
+        ],
+        "state_type": "GTM"
+    },
+    "ustraa.com": {
+        "pixel_ids": [
+            "1397820417164548"
+        ],
+        "state_type": "FBP"
+    },
+    "oorla.in": {
+        "pixel_ids": [
+            "544227883547463"
+        ],
+        "state_type": "FBP"
+    },
+    "hostinger.ae": {
+        "pixel_ids": [
+            "233182517365050"
+        ],
+        "state_type": "FBP"
+    },
+    "neatoday.org": {
+        "pixel_ids": [
+            "266354647052227"
+        ],
+        "state_type": "GTM"
+    },
+    "discoverlehighvalley.com": {
+        "pixel_ids": [
+            "159283624757208"
+        ],
+        "state_type": "FBP"
+    },
+    "marathonsports.com": {
+        "pixel_ids": [
+            "966135126810169"
+        ],
+        "state_type": "GTM"
+    },
+    "chefandbrewer.com": {
+        "pixel_ids": [
+            "202011217548605",
+            "546151397493099",
+            "462481851751209"
+        ],
+        "state_type": "GTM"
+    },
+    "sihoooffice.com": {
+        "pixel_ids": [
+            "1272170844103310"
+        ],
+        "state_type": "FBP"
+    },
+    "svwh.net": {
+        "pixel_ids": [
+            "1005944186197369"
+        ],
+        "state_type": "FBP"
+    },
+    "bergans.com": {
+        "pixel_ids": [
+            "112163202923744"
+        ],
+        "state_type": "GTM"
+    },
+    "inshape.com": {
+        "pixel_ids": [
+            "1478272542446359"
+        ],
+        "state_type": "FBP"
+    },
+    "greatlakesskipper.com": {
+        "pixel_ids": [
+            "225329344694728"
+        ],
+        "state_type": "GTM"
+    },
+    "rhalf.com": {
+        "pixel_ids": [
+            "239015186707572"
+        ],
+        "state_type": "FBP"
+    },
+    "jiohotstar.com": {
+        "pixel_ids": [
+            "379494759481051"
+        ],
+        "state_type": "GTM"
+    },
+    "distacart.com": {
+        "pixel_ids": [
+            "538049657717696"
+        ],
+        "state_type": "FBP"
+    },
+    "smilodox.com": {
+        "pixel_ids": [
+            "1015749988540645"
+        ],
+        "state_type": "FBP"
+    },
+    "mangosigns.com": {
+        "pixel_ids": [
+            "555210915369072"
+        ],
+        "state_type": "FBP"
+    },
+    "myway.rocks": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "4racing.com": {
+        "pixel_ids": [
+            "1081407446112006",
+            "1441023152983123",
+            "2063661073815194",
+            "2235060480145701"
+        ],
+        "state_type": "FBP"
+    },
+    "jellyfish.com": {
+        "pixel_ids": [
+            "1517862255205726"
+        ],
+        "state_type": "GTM"
+    },
+    "urotuning.com": {
+        "pixel_ids": [
+            "1926437427583441"
+        ],
+        "state_type": "FBP"
+    },
+    "stratusclean.com": {
+        "pixel_ids": [
+            "356934876086142",
+            "765044904276227",
+            "241483153864768"
+        ],
+        "state_type": "FBP"
+    },
+    "soletreadmills.com": {
+        "pixel_ids": [
+            "619111530061115"
+        ],
+        "state_type": "FBP"
+    },
+    "koelner-philharmonie.de": {
+        "pixel_ids": [
+            "583646353312455"
+        ],
+        "state_type": "GTM"
+    },
+    "pizzanova.com": {
+        "pixel_ids": [
+            "196657278832811"
+        ],
+        "state_type": "FBP"
+    },
+    "mackenzieltd.com": {
+        "pixel_ids": [
+            "840490310299817"
+        ],
+        "state_type": "FBP"
+    },
+    "houseofantiquehardware.com": {
+        "pixel_ids": [
+            "1636445836584329"
+        ],
+        "state_type": "FBP"
+    },
+    "summit-education.com": {
+        "pixel_ids": [
+            "2253231261667945"
+        ],
+        "state_type": "FBP"
+    },
+    "luckygamer.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "gangabet.com": {
+        "pixel_ids": [
+            "1222562095083880"
+        ],
+        "state_type": "FBP"
+    },
+    "eberlestock.com": {
+        "pixel_ids": [
+            "573491769677627"
+        ],
+        "state_type": "FBP"
+    },
+    "bonnierpublications.com": {
+        "pixel_ids": [
+            "293304977701944",
+            "1745350615718214"
+        ],
+        "state_type": "FBP"
+    },
+    "enpareja.com": {
+        "pixel_ids": [
+            "362848527527136"
+        ],
+        "state_type": "FBP"
+    },
+    "statikco.com": {
+        "pixel_ids": [
+            "4019659884759672"
+        ],
+        "state_type": "FBP"
+    },
+    "danscomp.com": {
+        "pixel_ids": [
+            "1120768314968229",
+            "178497137415404",
+            "536657897116949",
+            "251779842372017",
+            "313749022674530",
+            "495507588253396",
+            "440628952037467"
+        ],
+        "state_type": "GTM"
+    },
+    "tribanco.com.br": {
+        "pixel_ids": [
+            "135221831891565"
+        ],
+        "state_type": "FBP"
+    },
+    "modiphius.net": {
+        "pixel_ids": [
+            "1799191520367322"
+        ],
+        "state_type": "FBP"
+    },
+    "theprisonerwinecompany.com": {
+        "pixel_ids": [
+            "1242663899431724"
+        ],
+        "state_type": "FBP"
+    },
+    "tcnb.com": {
+        "pixel_ids": [
+            "660840417687493"
+        ],
+        "state_type": "GTM"
+    },
+    "emiratesauction.com": {
+        "pixel_ids": [
+            "1749079175351434"
+        ],
+        "state_type": "GTM"
+    },
+    "ultrapremiumdirect.com": {
+        "pixel_ids": [
+            "512663781844606",
+            "236561850117297"
+        ],
+        "state_type": "GTM"
+    },
+    "autostoresystem.com": {
+        "pixel_ids": [
+            "1605729316492248"
+        ],
+        "state_type": "GTM"
+    },
+    "pgperte.it": {
+        "pixel_ids": [
+            "1686880311761688",
+            "3259013941018871",
+            "892780688070405"
+        ],
+        "state_type": "GTM"
+    },
+    "groupon.ae": {
+        "pixel_ids": [
+            "1266956176671346"
+        ],
+        "state_type": "FBP"
+    },
+    "rufflebutts.com": {
+        "pixel_ids": [
+            "678896245536203"
+        ],
+        "state_type": "FBP"
+    },
+    "mmhmm.app": {
+        "pixel_ids": [
+            "1014821092276938"
+        ],
+        "state_type": "FBP"
+    },
+    "littlegreene.com": {
+        "pixel_ids": [
+            "375501999592373"
+        ],
+        "state_type": "FBP"
+    },
+    "deadstock.ca": {
+        "pixel_ids": [
+            "297280937358058"
+        ],
+        "state_type": "FBP"
+    },
+    "xinmedia.com": {
+        "pixel_ids": [
+            "846290493341587"
+        ],
+        "state_type": "FBP"
+    },
+    "overture.org": {
+        "pixel_ids": [
+            "383775395081073"
+        ],
+        "state_type": "FBP"
+    },
+    "buffy.co": {
+        "pixel_ids": [
+            "785583144952057"
+        ],
+        "state_type": "FBP"
+    },
+    "wyndhamrewards.com": {
+        "pixel_ids": [
+            "950166350393181",
+            "181774488829823"
+        ],
+        "state_type": "FBP"
+    },
+    "future.co": {
+        "pixel_ids": [
+            "301947717146829"
+        ],
+        "state_type": "FBP"
+    },
+    "freedomcenter.org": {
+        "pixel_ids": [
+            "436586721697253"
+        ],
+        "state_type": "FBP"
+    },
+    "intimateweddings.com": {
+        "pixel_ids": [
+            "827691843978767"
+        ],
+        "state_type": "GTM"
+    },
+    "crzyoga.com": {
+        "pixel_ids": [
+            "859603368279253"
+        ],
+        "state_type": "FBP"
+    },
+    "glamourpath.com": {
+        "pixel_ids": [
+            "158398163161143"
+        ],
+        "state_type": "GTM"
+    },
+    "litmos.com.au": {
+        "pixel_ids": [
+            "1271948522822116"
+        ],
+        "state_type": "GTM"
+    },
+    "seikousa.com": {
+        "pixel_ids": [
+            "1713888839404509"
+        ],
+        "state_type": "FBP"
+    },
+    "americanhatmakers.com": {
+        "pixel_ids": [
+            "404578003642567"
+        ],
+        "state_type": "FBP"
+    },
+    "l-r-g.com": {
+        "pixel_ids": [
+            "117995418745084"
+        ],
+        "state_type": "FBP"
+    },
+    "1wnno.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "clearplay.com": {
+        "pixel_ids": [
+            "374847402670068",
+            "353060428235644"
+        ],
+        "state_type": "FBP"
+    },
+    "lfcarry.com": {
+        "pixel_ids": [
+            "2486832801572797"
+        ],
+        "state_type": "FBP"
+    },
+    "junkbrands.com": {
+        "pixel_ids": [
+            "1749903048564515"
+        ],
+        "state_type": "FBP"
+    },
+    "veniceairport.it": {
+        "pixel_ids": [
+            "2554516804585504"
+        ],
+        "state_type": "GTM"
+    },
+    "northweststar.com.au": {
+        "pixel_ids": [
+            "212556246621990"
+        ],
+        "state_type": "FBP"
+    },
+    "ronyohananov.com": {
+        "pixel_ids": [
+            "435147463827427"
+        ],
+        "state_type": "FBP"
+    },
+    "vyll-k1b.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "palletforks.com": {
+        "pixel_ids": [
+            "3143421185765484",
+            "341929339581777"
+        ],
+        "state_type": "FBP"
+    },
+    "simplitv.at": {
+        "pixel_ids": [
+            "902690900270469"
+        ],
+        "state_type": "GTM"
+    },
+    "lite-1x914149.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "cbre.ca": {
+        "pixel_ids": [
+            "305203277815134"
+        ],
+        "state_type": "FBP"
+    },
+    "zillowrentalmanager.com": {
+        "pixel_ids": [
+            "547145892064117"
+        ],
+        "state_type": "FBP"
+    },
+    "toping.uz": {
+        "pixel_ids": [
+            "1028797902269823"
+        ],
+        "state_type": "GTM"
+    },
+    "ucuauhtemoc.edu.mx": {
+        "pixel_ids": [
+            "393799795951911"
+        ],
+        "state_type": "FBP"
+    },
+    "bank.com.ua": {
+        "pixel_ids": [
+            "1045632812296042"
+        ],
+        "state_type": "FBP"
+    },
+    "jackiesmith.com.ar": {
+        "pixel_ids": [
+            "1610610815931186"
+        ],
+        "state_type": "FBP"
+    },
+    "snorgtees.com": {
+        "pixel_ids": [
+            "683635281772264"
+        ],
+        "state_type": "FBP"
+    },
+    "animationdigitalnetwork.fr": {
+        "pixel_ids": [
+            "684900713098363"
+        ],
+        "state_type": "GTM"
+    },
+    "huddersfieldisc.com": {
+        "pixel_ids": [
+            "1183160645050738",
+            "693341688112834"
+        ],
+        "state_type": "FBP"
+    },
+    "edhardyoriginals.com": {
+        "pixel_ids": [
+            "330437677645315"
+        ],
+        "state_type": "FBP"
+    },
+    "buccellati.com": {
+        "pixel_ids": [
+            "3275584949132816"
+        ],
+        "state_type": "FBP"
+    },
+    "chefworks.com": {
+        "pixel_ids": [
+            "418349657944900"
+        ],
+        "state_type": "FBP"
+    },
+    "horze.com": {
+        "pixel_ids": [
+            "2365586047065542",
+            "204851264702416"
+        ],
+        "state_type": "FBP"
+    },
+    "helikon.bg": {
+        "pixel_ids": [
+            "539134586525496"
+        ],
+        "state_type": "FBP"
+    },
+    "92ny.org": {
+        "pixel_ids": [
+            "1697507333901456",
+            "1499024227017124",
+            "1831950373576425",
+            "1778239305707669",
+            "432336008873577"
+        ],
+        "state_type": "FBP"
+    },
+    "stripe.global": {
+        "pixel_ids": [
+            "742650679237989"
+        ],
+        "state_type": "GTM"
+    },
+    "betterpet.com": {
+        "pixel_ids": [
+            "3194410990847190"
+        ],
+        "state_type": "GTM"
+    },
+    "tanishq.ae": {
+        "pixel_ids": [
+            "230372858747874"
+        ],
+        "state_type": "GTM"
+    },
+    "royaldistributing.com": {
+        "pixel_ids": [
+            "402859247206218"
+        ],
+        "state_type": "FBP"
+    },
+    "traxnyc.com": {
+        "pixel_ids": [
+            "1581361272035740"
+        ],
+        "state_type": "FBP"
+    },
+    "visitindiana.com": {
+        "pixel_ids": [
+            "410018936414049",
+            "846256222731689",
+            "198469992957167"
+        ],
+        "state_type": "FBP"
+    },
+    "hostinger.pk": {
+        "pixel_ids": [
+            "233182517365050"
+        ],
+        "state_type": "FBP"
+    },
+    "bradfordexchangechecks.com": {
+        "pixel_ids": [
+            "695604590486001"
+        ],
+        "state_type": "FBP"
+    },
+    "aucmed.edu": {
+        "pixel_ids": [
+            "127331347684131",
+            "430752497765606"
+        ],
+        "state_type": "FBP"
+    },
+    "eua.be": {
+        "pixel_ids": [
+            "147104899249834"
+        ],
+        "state_type": "FBP"
+    },
+    "1wkcf.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "1wsie.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "vitaminesperpost.nl": {
+        "pixel_ids": [
+            "403243450336015"
+        ],
+        "state_type": "FBP"
+    },
+    "jairamdass.com": {
+        "pixel_ids": [
+            "1343771292703429"
+        ],
+        "state_type": "GTM"
+    },
+    "clothandpaper.com": {
+        "pixel_ids": [
+            "135882917123343"
+        ],
+        "state_type": "FBP"
+    },
+    "feetures.com": {
+        "pixel_ids": [
+            "768170380024978"
+        ],
+        "state_type": "FBP"
+    },
+    "fulfillingcareer.mom": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "thatconceptstore.com": {
+        "pixel_ids": [
+            "602957250322493"
+        ],
+        "state_type": "FBP"
+    },
+    "moustique.be": {
+        "pixel_ids": [
+            "900742494230149",
+            "228790427548639",
+            "758940784513066"
+        ],
+        "state_type": "GTM"
+    },
+    "bernhardt.com": {
+        "pixel_ids": [
+            "794471040939445"
+        ],
+        "state_type": "FBP"
+    },
+    "journaway.com": {
+        "pixel_ids": [
+            "665923378135368",
+            "2545988462152028",
+            "1049756389466549"
+        ],
+        "state_type": "GTM"
+    },
+    "managebac.cn": {
+        "pixel_ids": [
+            "5210607788993211"
+        ],
+        "state_type": "FBP"
+    },
+    "eventim.ro": {
+        "pixel_ids": [
+            "142145143215728"
+        ],
+        "state_type": "GTM"
+    },
+    "masteryconnect-security.com": {
+        "pixel_ids": [
+            "613649908842349"
+        ],
+        "state_type": "FBP"
+    },
+    "stasherbag.com": {
+        "pixel_ids": [
+            "1961311104151430"
+        ],
+        "state_type": "FBP"
+    },
+    "enyield.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "va999.com": {
+        "pixel_ids": [
+            "1367903344056979",
+            "1995641127442608",
+            "170087409367321",
+            "932631111161146",
+            "1494271117983398",
+            "6148526321911924",
+            "206984358986759",
+            "644950423948640",
+            "279361728008371",
+            "651627583667794"
+        ],
+        "state_type": "FBP"
+    },
+    "crestline.com": {
+        "pixel_ids": [
+            "1317160293013630"
+        ],
+        "state_type": "FBP"
+    },
+    "adventure.com": {
+        "pixel_ids": [
+            "102557403614077"
+        ],
+        "state_type": "FBP"
+    },
+    "hilti.de": {
+        "pixel_ids": [
+            "2244651305556289",
+            "708051416270708",
+            "334298303724290",
+            "697047511203146",
+            "389335568533647",
+            "775423440100974",
+            "8160168860750800",
+            "439765503391240",
+            "298580949952010",
+            "742450874185707",
+            "682017739329944",
+            "3181992245251620",
+            "443270626504257",
+            "457112669018463",
+            "1091680014612048",
+            "317747741988100",
+            "3253601458199468",
+            "1103185700016198",
+            "410458540984968",
+            "225892346326838",
+            "1114625112451162",
+            "1649616568439533",
+            "1085873051509941",
+            "989097671780394",
+            "422532908492440",
+            "317207348693153",
+            "2654700434751854",
+            "1087215182072490",
+            "3331476726921751",
+            "581977468808643",
+            "1126267002543089",
+            "2400578506838262",
+            "1029532887581056",
+            "376164514145015",
+            "799853521006564",
+            "357598804760746",
+            "421009826613308",
+            "1100042018343970",
+            "1941599439248270",
+            "376425460890161",
+            "431968814505229",
+            "3222535287819705",
+            "403576038217291",
+            "474009163210961",
+            "1635857386724009",
+            "286825871784886",
+            "426304251663290",
+            "699474996928159",
+            "1091288045598580",
+            "223185605083136",
+            "399642910429521",
+            "517769846043609",
+            "245169822507126",
+            "716543452062995",
+            "819817531747500",
+            "910711105930593",
+            "3006337872850740",
+            "410300186102353",
+            "638491556646954",
+            "153834538474834",
+            "498526068384670",
+            "1525655250843244",
+            "1385101261687292",
+            "732510707600739",
+            "197061567380902",
+            "880669913569868"
+        ],
+        "state_type": "GTM"
+    },
+    "adamspolishes.com": {
+        "pixel_ids": [
+            "470813676436087"
+        ],
+        "state_type": "FBP"
+    },
+    "aspenchamber.org": {
+        "pixel_ids": [
+            "876554662677005",
+            "1801492280194958"
+        ],
+        "state_type": "FBP"
+    },
+    "mhvfcu.com": {
+        "pixel_ids": [
+            "547069355687899",
+            "717811048426513"
+        ],
+        "state_type": "FBP"
+    },
+    "north40.com": {
+        "pixel_ids": [
+            "1173407616013606"
+        ],
+        "state_type": "FBP"
+    },
+    "pianorewards.com": {
+        "pixel_ids": [
+            "1597251537215565"
+        ],
+        "state_type": "GTM"
+    },
+    "zenaviva.com": {
+        "pixel_ids": [
+            "1191035783025349"
+        ],
+        "state_type": "FBP"
+    },
+    "studiosuits.com": {
+        "pixel_ids": [
+            "170476273304148"
+        ],
+        "state_type": "FBP"
+    },
+    "hachettebooks.com": {
+        "pixel_ids": [
+            "157411788180383"
+        ],
+        "state_type": "FBP"
+    },
+    "opinionbar.com": {
+        "pixel_ids": [
+            "4326893500713220"
+        ],
+        "state_type": "FBP"
+    },
+    "fcstone.com": {
+        "pixel_ids": [
+            "1020868716341145"
+        ],
+        "state_type": "FBP"
+    },
+    "bongo.be": {
+        "pixel_ids": [
+            "1886446991577720",
+            "402544367350332",
+            "937375400554717",
+            "977387012768076",
+            "166989160744632",
+            "595806690984476",
+            "2017043541862030",
+            "1911468842214280"
+        ],
+        "state_type": "GTM"
+    },
+    "blueoceanbrain.com": {
+        "pixel_ids": [
+            "3051184848235360"
+        ],
+        "state_type": "FBP"
+    },
+    "inalco.com": {
+        "pixel_ids": [
+            "766512455647347",
+            "266726093726476",
+            "442775193010115",
+            "345087119389542"
+        ],
+        "state_type": "GTM"
+    },
+    "animationdigitalnetwork.com": {
+        "pixel_ids": [
+            "684900713098363"
+        ],
+        "state_type": "GTM"
+    },
+    "shuuemura-usa.com": {
+        "pixel_ids": [
+            "202928017035482"
+        ],
+        "state_type": "GTM"
+    },
+    "collective.com": {
+        "pixel_ids": [
+            "2066381333385948"
+        ],
+        "state_type": "FBP"
+    },
+    "packhelp.com": {
+        "pixel_ids": [
+            "1552904594725232"
+        ],
+        "state_type": "FBP"
+    },
+    "numan.com": {
+        "pixel_ids": [
+            "1140377319474421"
+        ],
+        "state_type": "GTM"
+    },
+    "sergiorossi.com": {
+        "pixel_ids": [
+            "1695649854039107"
+        ],
+        "state_type": "FBP"
+    },
+    "tnnursery.net": {
+        "pixel_ids": [
+            "1671438896522551"
+        ],
+        "state_type": "FBP"
+    },
+    "sneakerjagers.com": {
+        "pixel_ids": [
+            "716615155171686",
+            "188311264843190",
+            "160251794475095"
+        ],
+        "state_type": "GTM"
+    },
+    "bettwaren-shop.de": {
+        "pixel_ids": [
+            "5273940296038248"
+        ],
+        "state_type": "GTM"
+    },
+    "goaliemonkey.com": {
+        "pixel_ids": [
+            "239153960309901"
+        ],
+        "state_type": "GTM"
+    },
+    "dmdepart.jp": {
+        "pixel_ids": [
+            "297286787376576"
+        ],
+        "state_type": "FBP"
+    },
+    "tinyrituals.co": {
+        "pixel_ids": [
+            "1202030183336615"
+        ],
+        "state_type": "FBP"
+    },
+    "gazman.com.au": {
+        "pixel_ids": [
+            "904335619613951"
+        ],
+        "state_type": "FBP"
+    },
+    "kisna.com": {
+        "pixel_ids": [
+            "271513262214477"
+        ],
+        "state_type": "FBP"
+    },
+    "openssf.org": {
+        "pixel_ids": [
+            "232741255631043"
+        ],
+        "state_type": "FBP"
+    },
+    "webcentral.au": {
+        "pixel_ids": [
+            "789468138430828"
+        ],
+        "state_type": "GTM"
+    },
+    "littlewordsproject.com": {
+        "pixel_ids": [
+            "523100908092677"
+        ],
+        "state_type": "FBP"
+    },
+    "kawasakicapital.com.mx": {
+        "pixel_ids": [
+            "988568695310092"
+        ],
+        "state_type": "FBP"
+    },
+    "hosco.com": {
+        "pixel_ids": [
+            "1387820408201839"
+        ],
+        "state_type": "FBP"
+    },
+    "carbonquotes.com": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "earthclassmail.com": {
+        "pixel_ids": [
+            "394000010773863"
+        ],
+        "state_type": "FBP"
+    },
+    "loftoutlet.com": {
+        "pixel_ids": [
+            "728361571393326"
+        ],
+        "state_type": "FBP"
+    },
+    "morisawafonts.com": {
+        "pixel_ids": [
+            "542251804755916"
+        ],
+        "state_type": "FBP"
+    },
+    "publicmobile.ca": {
+        "pixel_ids": [
+            "847322325354709"
+        ],
+        "state_type": "FBP"
+    },
+    "convenia.com.br": {
+        "pixel_ids": [
+            "809681892725733"
+        ],
+        "state_type": "GTM"
+    },
+    "gold-6668.site": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "nativeseeds.org": {
+        "pixel_ids": [
+            "807687848103127"
+        ],
+        "state_type": "FBP"
+    },
+    "crossrope.com": {
+        "pixel_ids": [
+            "472979859548190"
+        ],
+        "state_type": "FBP"
+    },
+    "steffesgroup.com": {
+        "pixel_ids": [
+            "1860693124146132",
+            "958411237583093"
+        ],
+        "state_type": "FBP"
+    },
+    "maisoncaptain.com": {
+        "pixel_ids": [
+            "267177950760391"
+        ],
+        "state_type": "FBP"
+    },
+    "procvetok.by": {
+        "pixel_ids": [
+            "1833467113740876",
+            "760137252688778"
+        ],
+        "state_type": "GTM"
+    },
+    "movieposters.com": {
+        "pixel_ids": [
+            "711775553099644"
+        ],
+        "state_type": "FBP"
+    },
+    "piquadro.com": {
+        "pixel_ids": [
+            "393623638310535"
+        ],
+        "state_type": "FBP"
+    },
+    "balancedlifestyle.motorcycles": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "marketingtribune.nl": {
+        "pixel_ids": [
+            "1427431647480352"
+        ],
+        "state_type": "GTM"
+    },
+    "wired.de": {
+        "pixel_ids": [
+            "861987490597304"
+        ],
+        "state_type": "GTM"
+    },
+    "cherminhopremiacoes.com.br": {
+        "pixel_ids": [
+            "1570435960211187"
+        ],
+        "state_type": "FBP"
+    },
+    "amsterdammuseum.nl": {
+        "pixel_ids": [
+            "1644953575802733"
+        ],
+        "state_type": "FBP"
+    },
+    "shoepping.at": {
+        "pixel_ids": [
+            "4573151159577238",
+            "486346791750711"
+        ],
+        "state_type": "GTM"
+    },
+    "speedsociety.com": {
+        "pixel_ids": [
+            "439894866151341"
+        ],
+        "state_type": "FBP"
+    },
+    "iii.co.uk": {
+        "pixel_ids": [
+            "198371804880454"
+        ],
+        "state_type": "GTM"
+    },
+    "ggplay-sabi.com": {
+        "pixel_ids": [
+            "286901574495941"
+        ],
+        "state_type": "FBP"
+    },
+    "cos.edu": {
+        "pixel_ids": [
+            "3072001643128187"
+        ],
+        "state_type": "FBP"
+    },
+    "veterinaryemergencygroup.com": {
+        "pixel_ids": [
+            "794693815739053"
+        ],
+        "state_type": "FBP"
+    },
+    "awd-it.co.uk": {
+        "pixel_ids": [
+            "1159026194230406"
+        ],
+        "state_type": "FBP"
+    },
+    "helsebixen.dk": {
+        "pixel_ids": [
+            "859796514141589"
+        ],
+        "state_type": "GTM"
+    },
+    "weemco.com": {
+        "pixel_ids": [
+            "3483596601733303"
+        ],
+        "state_type": "FBP"
+    },
+    "vastdata.com": {
+        "pixel_ids": [
+            "1303526296791175"
+        ],
+        "state_type": "FBP"
+    },
+    "melredhwiku.top": {
+        "pixel_ids": [
+            "726215172055603"
+        ],
+        "state_type": "GTM"
+    },
+    "influencity.com": {
+        "pixel_ids": [
+            "512335066025218"
+        ],
+        "state_type": "FBP"
+    },
+    "homesalive.ca": {
+        "pixel_ids": [
+            "186418075350567"
+        ],
+        "state_type": "FBP"
+    },
+    "neptune.com": {
+        "pixel_ids": [
+            "503494363353431"
+        ],
+        "state_type": "FBP"
+    },
+    "shelterlogic.com": {
+        "pixel_ids": [
+            "155883914763834",
+            "448410592818278"
+        ],
+        "state_type": "GTM"
+    },
+    "weekend.at": {
+        "pixel_ids": [
+            "1573846126169474",
+            "372271913259929"
+        ],
+        "state_type": "FBP"
+    },
+    "stars-vulkan.best": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "cwi.edu": {
+        "pixel_ids": [
+            "1639093999641711"
+        ],
+        "state_type": "FBP"
+    },
+    "nidharshanasarees.com": {
+        "pixel_ids": [
+            "890312182527282"
+        ],
+        "state_type": "FBP"
+    },
+    "tumblerware.com": {
+        "pixel_ids": [
+            "320221780119998"
+        ],
+        "state_type": "FBP"
+    },
+    "reliancedns.net": {
+        "pixel_ids": [
+            "108791309844853"
+        ],
+        "state_type": "FBP"
+    },
+    "motionindustries.com": {
+        "pixel_ids": [
+            "211400336300360"
+        ],
+        "state_type": "FBP"
+    },
+    "minnetonkamoccasin.com": {
+        "pixel_ids": [
+            "438220409696947"
+        ],
+        "state_type": "FBP"
+    },
+    "cato-at-liberty.org": {
+        "pixel_ids": [
+            "454916984694808"
+        ],
+        "state_type": "FBP"
+    },
+    "heska.com": {
+        "pixel_ids": [
+            "421755288458198"
+        ],
+        "state_type": "FBP"
+    },
+    "herpa.de": {
+        "pixel_ids": [
+            "728509824577750"
+        ],
+        "state_type": "FBP"
+    },
+    "iniganteng.com": {
+        "pixel_ids": [
+            "2204221036626600",
+            "887114830229328",
+            "908874547862947",
+            "930796875777722",
+            "1087633149577841",
+            "1360863751550486",
+            "417045368125689",
+            "1518868938816263",
+            "969714078325086",
+            "552096770783597",
+            "1001956928614790",
+            "1622148472060625",
+            "2812277515613408",
+            "1918058025685147",
+            "1346367619668410",
+            "1269003524299364",
+            "3085998784912514",
+            "945160820789409",
+            "1564052687806391",
+            "1609146549955812",
+            "598200055972555",
+            "592236213370611",
+            "881184090857703",
+            "1766909277397321",
+            "1235042794445252",
+            "1781905155911800",
+            "548649038078849",
+            "936266165039754",
+            "934189455324440",
+            "600145115672763",
+            "485814147285502",
+            "1781316915606814",
+            "483946188140898",
+            "1258567972093288",
+            "1285396725800546",
+            "2058153824636512",
+            "1628838374505890",
+            "2759662860861631",
+            "883949210476845",
+            "1305628484092132",
+            "2886801544830916",
+            "520708033698487",
+            "3672925959520070",
+            "1043581347489767",
+            "2099331907178263",
+            "1698913104301450",
+            "1351364879545692",
+            "1128632121809142",
+            "613486251578548",
+            "1113188937220891",
+            "1667997100480848",
+            "1015873543689405",
+            "918893963422676",
+            "650972010841099",
+            "1696301977965014",
+            "1203172818034077",
+            "1621667912568855",
+            "946835947654777",
+            "613954584731499",
+            "1835321286993135"
+        ],
+        "state_type": "FBP"
+    },
+    "luko.eu": {
+        "pixel_ids": [
+            "139035203624571",
+            "987600128837846"
+        ],
+        "state_type": "GTM"
+    },
+    "hiberworld.com": {
+        "pixel_ids": [
+            "897878350655997"
+        ],
+        "state_type": "GTM"
+    },
+    "zaribanaras.com": {
+        "pixel_ids": [
+            "859258388148073"
+        ],
+        "state_type": "FBP"
+    },
+    "recetasnestle.com.pe": {
+        "pixel_ids": [
+            "590266653441437"
+        ],
+        "state_type": "FBP"
+    },
+    "wearforest.com": {
+        "pixel_ids": [
+            "776488579087398"
+        ],
+        "state_type": "FBP"
+    },
+    "cbd.ae": {
+        "pixel_ids": [
+            "1250463288907995"
+        ],
+        "state_type": "FBP"
+    },
+    "bobbibrown.com": {
+        "pixel_ids": [
+            "183147568963638"
+        ],
+        "state_type": "FBP"
+    },
+    "lnos.com": {
+        "pixel_ids": [
+            "619223565752108",
+            "1408151172919494"
+        ],
+        "state_type": "GTM"
+    },
+    "herfantasybox.com": {
+        "pixel_ids": [
+            "354275256753271",
+            "885026050204680",
+            "999910245346986"
+        ],
+        "state_type": "FBP"
+    },
+    "urj.org": {
+        "pixel_ids": [
+            "812544198921636",
+            "742096245912121",
+            "220786502961938"
+        ],
+        "state_type": "FBP"
+    },
+    "blindster.com": {
+        "pixel_ids": [
+            "1045163216330739"
+        ],
+        "state_type": "FBP"
+    },
+    "no.co": {
+        "pixel_ids": [
+            "1734730486756551"
+        ],
+        "state_type": "FBP"
+    },
+    "levi.com.mx": {
+        "pixel_ids": [
+            "1637574446549919"
+        ],
+        "state_type": "FBP"
+    },
+    "cerebrum-iq.com": {
+        "pixel_ids": [
+            "1189499662213766"
+        ],
+        "state_type": "FBP"
+    },
+    "trivago.co.id": {
+        "pixel_ids": [
+            "439008746501677"
+        ],
+        "state_type": "FBP"
+    },
+    "onestream.com": {
+        "pixel_ids": [
+            "1053136948386652"
+        ],
+        "state_type": "GTM"
+    },
+    "viaplay.pl": {
+        "pixel_ids": [
+            "555043007993671"
+        ],
+        "state_type": "GTM"
+    },
+    "changegrowlive.org": {
+        "pixel_ids": [
+            "1289723815166422"
+        ],
+        "state_type": "FBP"
+    },
+    "frostbuddy.com": {
+        "pixel_ids": [
+            "192490828514880"
+        ],
+        "state_type": "FBP"
+    },
+    "1wipx.top": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "manicpanic.com": {
+        "pixel_ids": [
+            "1719710148084332"
+        ],
+        "state_type": "FBP"
+    },
+    "bbbank.de": {
+        "pixel_ids": [
+            "376794720260288"
+        ],
+        "state_type": "GTM"
+    },
+    "crystal.casino": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "nestig.com": {
+        "pixel_ids": [
+            "342898936758753"
+        ],
+        "state_type": "FBP"
+    },
+    "cheltenhamfestivals.com": {
+        "pixel_ids": [
+            "1982662138622297"
+        ],
+        "state_type": "FBP"
+    },
+    "keepersecurity.ca": {
+        "pixel_ids": [
+            "286073845424198"
+        ],
+        "state_type": "FBP"
+    },
+    "markful.com": {
+        "pixel_ids": [
+            "346876410392339"
+        ],
+        "state_type": "FBP"
+    },
+    "aramya.in": {
+        "pixel_ids": [
+            "597171432100392"
+        ],
+        "state_type": "FBP"
+    },
+    "therave.com": {
+        "pixel_ids": [
+            "533135736883300"
+        ],
+        "state_type": "FBP"
+    },
+    "roame.travel": {
+        "pixel_ids": [
+            "1714234056195224"
+        ],
+        "state_type": "FBP"
+    },
+    "teenlife.com": {
+        "pixel_ids": [
+            "1536173219981150"
+        ],
+        "state_type": "GTM"
+    },
+    "samplize.com": {
+        "pixel_ids": [
+            "195432550998217"
+        ],
+        "state_type": "FBP"
+    },
+    "therapieclinic.com": {
+        "pixel_ids": [
+            "817304634997445"
+        ],
+        "state_type": "FBP"
+    },
+    "joycasinoo.news": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "purina.com.br": {
+        "pixel_ids": [
+            "534226357266801",
+            "2343773755763233",
+            "267419051299994",
+            "533881877444082",
+            "1649768658506764",
+            "279344859900634"
+        ],
+        "state_type": "GTM"
+    },
+    "suicidecallbackservice.org.au": {
+        "pixel_ids": [
+            "753081012168442"
+        ],
+        "state_type": "FBP"
+    },
+    "sigterm.xyz": {
+        "pixel_ids": [
+            "284067518410183"
+        ],
+        "state_type": "FBP"
+    },
+    "gemplers.com": {
+        "pixel_ids": [
+            "1568316933695993"
+        ],
+        "state_type": "FBP"
+    }
+}

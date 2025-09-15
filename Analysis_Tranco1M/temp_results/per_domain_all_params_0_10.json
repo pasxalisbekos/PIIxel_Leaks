@@ -1,0 +1,119 @@
+{
+    "snapfish.co.nz": {
+        "1730212533949486": [
+            "em",
+            "fn",
+            "ln",
+            "ph",
+            "ge",
+            "zp",
+            "ct",
+            "st"
+        ],
+        "768860346628154": [
+            "em",
+            "fn",
+            "ln",
+            "ph",
+            "ge",
+            "zp",
+            "ct",
+            "st"
+        ],
+        "424541901064485": [
+            "em",
+            "fn",
+            "ln",
+            "ge",
+            "ph",
+            "ct",
+            "st",
+            "zp",
+            "db",
+            "country",
+            "external_id"
+        ],
+        "332831933811870": [
+            "em",
+            "fn",
+            "ln",
+            "ph",
+            "ge",
+            "zp",
+            "ct",
+            "st"
+        ]
+    },
+    "propertyfinder.com": {
+        "492785827556092": [
+            "em",
+            "fn",
+            "ln",
+            "ph",
+            "ge",
+            "zp",
+            "ct",
+            "st",
+            "country",
+            "db",
+            "external_id"
+        ],
+        "928502960521902": [
+            "em",
+            "ph",
+            "external_id"
+        ],
+        "498542646979134": [
+            "em",
+            "fn",
+            "ln",
+            "ph",
+            "ge",
+            "zp",
+            "ct",
+            "st"
+        ]
+    },
+    "flatspot.com": {
+        "1640763652873516": [
+            "em",
+            "fn",
+            "ln",
+            "ph",
+            "ge",
+            "zp",
+            "ct",
+            "st"
+        ]
+    },
+    "nimbi.com.br": {
+        "1512570883001586": [
+            "em",
+            "fn",
+            "ln",
+            "ge",
+            "ph",
+            "ct",
+            "st",
+            "zp",
+            "db",
+            "country",
+            "external_id"
+        ]
+    },
+    "velleman.eu": {
+        "3281984588498733": [
+            "em",
+            "fn",
+            "ln",
+            "ph",
+            "ge",
+            "zp",
+            "ct",
+            "st",
+            "country",
+            "db",
+            "external_id"
+        ]
+    }
+}
