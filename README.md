@@ -18,7 +18,7 @@ pip install selenium webdriver-manager
 Our analysis was executed in an Ubuntu based machine operating Ubuntu 22.04.5 LTS and Python's version **3.11.10**. The additional Python packages required can be installed as described below:
 
 ```bash
-pip install numpy pandas matplotlib seaborn tabulate requests aiohttp bs4
+pip install numpy pandas matplotlib seaborn tabulate requests aiohttp bs4 tldextract pydantic
 ```
 All plots are saved locally in the corresponding directory.
 
